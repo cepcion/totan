@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2132.html#TaleHeader">(2132) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="2134.html#TaleHeader">(2134) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2133</p>
+<p class="TaleDestiny">(2133) - SCHOLARSHIP</p>
+<p>A ruined building rises from the sand before you. Exploring the area, you find the extensive ruins of a lost city. Emboldened by thoughts of lost treasure, you dig through the debris. Unfortunately, all you find are clay tablets carved with strange symbols.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Frustrated, you smash the tablets and continue on your way.
+[D+1]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: Although you can&rsquo;t make them out completely, you recognize several of the symbols from your studies of ancient texts. You gather as many of the tablets as you can find and carry them back to town. A wealthy sage learns of your discovery and invites you to show them at the Sultan&rsquo;s court. [D+2 / Courtly Graces]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

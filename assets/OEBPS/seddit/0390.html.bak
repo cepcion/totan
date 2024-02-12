@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0389.html#TaleHeader">(389) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="0391.html#TaleHeader">(391) - BARGAINING AND EVALUATION, BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">390</p>
+<p class="TaleDestiny">(390) - None</p>
+<p>The other is trapped in a magical cage. &ldquo;Free me,&rdquo; he cries. &ldquo;Anything you desire is yours if you only free me!&rdquo; A simple gesture on your part will free the other, but you wonder if he will keep his word.</p>
+<p class="TaleChoicePrompt">You can pass by, or do as you have been asked:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you pass by</span>: You decide not to endanger yourself by aiding the other. As you pass him by, he pronounces an awful curse on you. [D+1 / <span class="TaleStatus">Accursed</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you release him: <span class="TaleRoll2D">Roll two dice, adding one for <span class="TaleRoll2DSkill">Bargaining and Evaluation</span> and three for <span class="TaleRoll2DSkill">Magic</span>:</li>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: Freed, he attacks you immediately, overwhelming you with his magics. [D+1 / <span class="TaleStatus">Ensorcelled</span>]</li>
+<li class="TaleDieRollResult">8&ndash;10: When free, he keeps his promise of a reward, but A in as miserly a way as possible. [D+2 / S+1 / Choice of W+1 (Max: Rich) or Treasure or Any status]</li>
+<li class="TaleDieRollResult">11+: Once he is free, he keeps his word and bestows upon you wonderful gifts. [D+3 / S+1 / W+1 (Max: Princely) / You may lose one status of your choice / Treasure / Opportunity to enter any <a href="PlacesofPower.html">Place of Power</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

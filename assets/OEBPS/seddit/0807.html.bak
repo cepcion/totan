@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0806.html#TaleHeader">(806) - APPEARANCE</a><br/>
+<br/>
+<a href="0808.html#TaleHeader">(808) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">807</p>
+<p class="TaleDestiny">(807) - WEAPON USE</p>
+<p>You speak to the soldier, but he brushes aside your words. He growls, &ldquo;The only thing I wish is the destruction of my enemy. Aid me and I will serve you.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You will have no part of such things, and you go on your way.
+[D+1]</p>
+<p><span class="TaleSkill">WEAPON USE</span>: You offer your sword in his cause, and, with your help, his righteous vengeance is achieved. All who hear of your brave deeds think highly of them. [D+1 / S+1 / Weapon Use / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

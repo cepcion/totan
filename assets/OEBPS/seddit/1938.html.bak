@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1937.html#TaleHeader">(1937) - SEDUCTION</a><br/>
+<br/>
+<a href="1939.html#TaleHeader">(1939) - WILDERNESS LORE, SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1938</p>
+<p class="TaleDestiny">(1938) - BARGAINING AND EVALUATION</p>
+<p>The man at the inn told you that the other could be trusted, so you hired him. But you have since learned that the other is possessed by an evil spirit!</p>
+<p><span class="TaleSkill">NO SKILL</span>: The evil spirit commits a series of crimes and arranges for the blame to fall on you! Your reputation in this town is ruined. [S+1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You make a deal with the spirit possessing the other. In exchange for releasing him, you allow the spirit to control your actions for a time. [D+1 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

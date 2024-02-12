@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0726.html#TaleHeader">(726) - BEGUILING</a><br/>
+<br/>
+<a href="0728.html#TaleHeader">(728) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">727</p>
+<p class="TaleDestiny">(727) - ACCURSED (M), ENVIOUS (M), GRIEF STRICKEN (M)</p>
+<p>Blue, green, and violet flames surround you, but the flames cannot touch one who speaks the name of Allah.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Soon the flames die away, leaving you unscathed. [D+1 / S+1 / Piety]</p>
+<p><span class="TaleSkill">ACCURSED, ENVIOUS, GRIEF STRICKEN  (All mandatory)</span>: You struggle to focus your devotion, but terror weakens you. Your concentration falters and you are blasted by the uncanny flames. [D+1 / S+1 / Lose Piety / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Insane</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

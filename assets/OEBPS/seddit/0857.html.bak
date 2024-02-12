@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0856.html#TaleHeader">(856) - SCHOLARSHIP, BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="0858.html#TaleHeader">(858) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">857</p>
+<p class="TaleDestiny">(857) - WEAPON USE</p>
+<p>The swindler scurries from you, squealing in terror. You pursue him but realize you are surrounded by the coward&rsquo;s bodyguards.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Resistance would be futile. You are forced to surrender, and they throw you in a cell. [D+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">WEAPON USE</span>: You draw your weapon with a flourish. Daunted, the bodyguards step aside. You corner the cheating merchant and deal with him justly, to the approval of all. [D+1 / S+1 / <span class="TaleStatus">Respected</span>] (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

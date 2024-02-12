@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1170.html#TaleHeader">(1170) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="1172.html#TaleHeader">(1172) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1171</p>
+<p class="TaleDestiny">(1171) - DETERMINED  (M),  SCHOLARSHIP</p>
+<p>Standing before the Crystal Palace, you stare in awe at its beauty. It appears untouched by time, and you wonder if the legends are true. One glance at the fearsome guards tells you that the king within is certainly capable of cruelty.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Having feasted your eyes on the wondrous facade of the palace, you continue with your journey. [D+1 / S+1]</p>
+<p><p><span class="TaleSkill">DETERMINED  (mandatory),  SCHOLARSHIP</span>: You must learn more, and you approach the palace. The guards bar your way, but you refuse to be denied. Suspecting you are an assassin, the guards deal cruelly with you, though you are still able to walk when they are finished. [D+1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

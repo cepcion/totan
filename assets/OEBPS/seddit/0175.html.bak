@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+  <head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/epub.css"/>
+  </head>
+  <body>
+    <a name="TaleHeader"></a><p class="TaleHeader">175</p>
+    <p class="TaleName">CAVE OF WONDERS</p>
+    <p>This is the Cave of Wonders (also known as the Cave of Al-Kolo-Ats). It is rumored that within are great treasures: huge rooms filled with gold and silver, a tree which grows jewels, and the infamous Magic Lamp and Seal Ring. Only through great magic may one enter the caves, and only through great luck and determination may one emerge alive&hellip;</p>
+    <p>You stand before the entrance to this fabulous cave. It is blocked by stone and magic, and you cannot easily break through.</p>
+    <p>You may&hellip;</p>
+    <p><span class="choice">Choice 1:</span> Use magical wisdom to gain entrance to the cave. Once inside, trust in your spells to protect you from whatever guardians may lurk within.</p>
+    <p><span class="choice">Choice 2:</span> Seek another entrance to the cave. Rely on your sharp sword and wits to protect you.</p>
+    <p><span class="choice">Choice 3:</span> Find a wizard and promise him a share of the treasure within for aiding you in entering the caves.</p>
+    <p>Which do you choose?</p>
+    <dl>
+      <dt><span class="choice">Choice 1</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1280.html#TaleHeader">1280</a></dd>
+      <dd>[blank] <a href="1281.html#TaleHeader">1281</a></dd>
+      <dd>[+] <a href="1282.html#TaleHeader">1282</a></dd>
+    </dl>
+    <dl>
+      <dt><span class="choice">Choice 2</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1283.html#TaleHeader">1283</a></dd>
+      <dd>[blank] <a href="1284.html#TaleHeader">1284</a></dd>
+      <dd>[+] <a href="1285.html#TaleHeader">1285</a></dd>
+    </dl>
+    <dl>
+      <dt><span class="choice">Choice 3</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1286.html#TaleHeader">1286</a></dd>
+      <dd>[blank] <a href="1287.html#TaleHeader">1287</a></dd>
+      <dd>[+] <a href="1288.html#TaleHeader">1288</a></dd>
+    </dl>
+    <p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+  </body>
+</html>

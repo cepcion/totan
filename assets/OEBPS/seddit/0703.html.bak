@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0702.html#TaleHeader">(702) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="0704.html#TaleHeader">(704) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">703</p>
+<p class="TaleDestiny">(703) - PIETY</p>
+<p>The gale howls and debris is tossed about by the violent wind. Hailstones batter you and the dropping temperature chills your bones. Your prayers rise to heaven.</p>
+<p><span class="TaleSkill">NO SKILL</span>: More hailstones come down, and you are left sick and shivering. [S+1 / <span class="TaleStatus">Diseased</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: Your richness of faith allows you to withstand the physical assault. [D+1 / Enduring Hardship]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

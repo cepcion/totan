@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1254.html#TaleHeader">(1254) - WEAPON USE</a><br/>
+<br/>
+<a href="1256.html#TaleHeader">(1256) - APPEARANCE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1255</p>
+<p class="TaleDestiny">(1255) - WEAPON USE  (M), WILDERNESS LORE, GOLDEN BRIDLE</p>
+<p>You are being chased through the Valley of Dogs by a pack of wolves. You hear their snarling and feel their hot breath on your heels. They are almost on you, and you draw your sword&hellip;</p>
+<p><span class="TaleSkill">NO SKILL, WEAPON USE  (mandatory):</span> You turn and face them bravely, slaying many before they drag you down. A hunting horn causes them to flee before they slay you. [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE, GOLDEN BRIDLE</span>: Suddenly you see a nearby river, and you dive in. The dogs, afraid of water, refuse to follow. [D+1 / S+1 / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

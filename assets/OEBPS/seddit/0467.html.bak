@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0466.html#TaleHeader">(466) - LUCK</a><br/>
+<br/>
+<a href="0468.html#TaleHeader">(468) - APPEARANCE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">467</p>
+<p class="TaleDestiny">(467) - STORYTELLING</p>
+<p>As you administer your blows, a young noble steps forward and cries, &ldquo;Stop! Do not hurt this wretched soul!&rdquo; The ugly one seems most happy, and they speak familiarly to each other.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You prudently sneak away, lest the noble notice you. [D-1 / S+1 / Wisdom]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: You sense a mighty tale here and beg to hear it. It is a strange one indeed&mdash;for the wretched one is the noble&rsquo;s former lover, cursed by a wicked enchanter to bear this form. You are weeping openly by the tale&rsquo;s end. [D-1 / S+3 / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

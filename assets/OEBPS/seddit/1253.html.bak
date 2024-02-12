@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1252.html#TaleHeader">(1252) - PIETY</a><br/>
+<br/>
+<a href="1254.html#TaleHeader">(1254) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1253</p>
+<p class="TaleDestiny">(1253) - LUCK</p>
+<p>You ask Allah to grant you safety before you cross the Valley of Dogs. As you journey, you come to a wide river spanned by a rope bridge. You prepare to cross it when a band of highwaymen appears!</p>
+<p><span class="TaleSkill">NO SKILL</span>: They are upon you, and beat you before taking your money. [S+1 / W-2 (Min: Penniless) / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">LUCK</span>: As you dash onto the bridge, it collapses. You plunge into the water and are carried to safety after a long journey underground. You emerge into a lake of many hues. [D+1 / S+1 / Move to the <a href="0179.html#TaleHeader">Lake of Colors</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

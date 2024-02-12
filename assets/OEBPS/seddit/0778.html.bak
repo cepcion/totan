@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0777.html#TaleHeader">(777) - None</a><br/>
+<br/>
+<a href="0779.html#TaleHeader">(779) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">778</p>
+<p class="TaleDestiny">(778) - MAGIC</p>
+<p class="TaleHeader">778</p>
+<p>This must be the Jeweled Fortress, spoken of in legends!</p><p><span class="TaleSkill">NO SKILL</span>: Standing before it, you can see a road that will lead you back to settled lands. But the allure of the Fortress calls you, and you set to exploring this fabled castle. [D+1 / S+1 / Lose <span class="TaleStatus">Lost</span> / <span class="TaleStatus">Wounded</span> (1 turn) / Move to the <a href="0178.html#TaleHeader">Jeweled Fortress</a> and have an immediate encounter]</p>
+<p><span class="TaleSkill">MAGIC</span>: You turn to explore the Fortress, but your powerful mystic aura awakens the sleeping Guardian of the Fortress. You are suddenly embroiled in a mystical battle with a powerful foe!</p>
+<p class="TaleRoll2D">Roll two dice, adding one for <span class="TaleRoll2DSkill">Master level Magic</span>.</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: The Guardian is far more powerful than you, and seizes you. In a deep voice, it intones, &ldquo;You may not enter!&rdquo; You are hurled far away, and your thoughts are clouded. [D+2 / S+1 / Have another player move you within four spaces of the Jeweled Fortress]</li>
+<li class="TaleDieRollResult">8+: With powerful incantations, you subdue your foe, returning it to its slumber. You tear a powerful treasure off its finger and explore the fortress. [D+2 / S+2 / Magic / Lose <span class="TaleStatus">Lost</span> / Seal Ring / Move to the <a href="0178.html#TaleHeader">Jeweled Fortress</a> and have an immediate encounter]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

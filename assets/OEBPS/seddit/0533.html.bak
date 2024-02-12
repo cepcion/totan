@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0532.html#TaleHeader">(532) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="0534.html#TaleHeader">(534) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">533</p>
+<p class="TaleDestiny">(533) - LUCK</p>
+<p>You hire the other to perform a small service for you, though he seems to be unwell.</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleRoll2D">Roll two dice, adding one for <span class="TaleRoll2DSkill">Enduring Hardship</span></span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: You become ill yourself. [D+1 / <span class="TaleStatus">Diseased</span>]</li>
+<li class="TaleDieRollResult">8+: You manage to avoid the effects of the disease. [D+1 / S+1]</li>
+</ul>
+<p><span class="TaleSkill">LUCK</span>: You, by great luck, have never been sick a day in your life. Praise Allah for His mercy! [D+2]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

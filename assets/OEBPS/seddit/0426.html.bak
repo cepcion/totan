@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0425.html#TaleHeader">(425) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0427.html#TaleHeader">(427) - COURTLY GRACES, ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">426</p>
+<p class="TaleDestiny">(426) - DETERMINED (M), WEAPON USE, ENDURING HARDSHIP</p>
+<p>Casting aside his robes, the other brandishes a wicked sword. &ldquo;Come, fool!&rdquo; he cries. &ldquo;This is the fate you have chosen&mdash;do not shy away from it!&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: The other is an expert swordsman and cuts you to ribbons, leaving you for dead. [D+1 / <span class="TaleStatus">Crippled</span>]</p>
+<p><span class="TaleSkill">DETERMINED (mandatory), WEAPON USE, ENDURING HARDSHIP</span>: Clearly, he is your superior, and you observe many clever tricks with the sword as he cuts you in a hundred places. However, your determination keeps you standing even though your blood flows like a mighty river. In respect for your courage, he spares your life and tends to your wounds.
+[D+2 / S+2 / Weapon Use / Enduring Hardship / <span class="TaleStatus">Wounded</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

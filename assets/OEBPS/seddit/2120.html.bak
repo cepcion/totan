@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2119.html#TaleHeader">(2119) - WEAPON USE, WISDOM</a><br/>
+<br/>
+<a href="2121.html#TaleHeader">(2121) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2120</p>
+<p class="TaleDestiny">(2120) - ACTING AND DISGUISE</p>
+<p>It&rsquo;s an open secret that this Vizier does as he pleases. He is the Sultan&rsquo;s favorite and none have been able to open the Sultan&rsquo;s eyes to the truth.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You follow the Vizier as he goes on his wicked errands and realize there is, indeed, nothing you can do to change the Sultan&rsquo;s mind.
+[S+1]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: Having followed the Vizier for several days, you know his habits. With the help of some merchants, you invite the Sultan for a special showing of rare jewels at a merchant&rsquo;s tent. You convince the Sultan to arrive in disguise as a merchant to avoid unwanted attention from the bazaar patrons. Soon, the Vizier arrives, having heard from your agents of rare jewels being shown today. He tries to extort the jewels from the displaying merchant, and he attempts to extract money from all of the other merchants present. The Sultan reveals himself and orders his guards, also disguised, to behead the Vizier. [D+1 / S+3 / <span class="TaleStatus">Vizier</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

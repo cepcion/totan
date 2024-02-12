@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1928.html#TaleHeader">(1928) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1930.html#TaleHeader">(1930) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1929</p>
+<p class="TaleDestiny">(1929) - STORYTELLING, WILDERNESS LORE</p>
+<p>Since you arrived in this place, you have heard strange rumors surrounding the other. You have come to believe that he has mystical powers of some kind.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You approach the other for aid. He looks at you deeply and declares that there is a shadow over your soul that must be cleansed before you can achieve your destiny. [D+1 / S+1 / <span class="TaleStatus">On Pilgrimage</span>]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: The other is moved by your tale of woe. He agrees to help you, but you must first retrieve a rare bird for him. [D+1 / <span class="TaleStatus">Under Geas</span> / You may lose one status of your choice]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: The other offers to help you on your quest if you can locate for him a tail feather from a rare bird. You know of a nest of this creature not far from here. You retrieve the feather. The other chants unspeakable words and the feather transforms into an enormous roc! Before you can speak, the roc grabs you and flies you far across the world before depositing you safely in a strange place. [D+1 / S+1 / Move to the <a href="0178.html#TaleHeader">Jeweled Fortress</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

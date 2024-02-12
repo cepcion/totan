@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0977.html#TaleHeader">(977) - STORYTELLING</a><br/>
+<br/>
+<a href="0979.html#TaleHeader">(979) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">978</p>
+<p class="TaleDestiny">(978) - STORYTELLING  (M), MAGIC</p>
+<p>You come across an old man hawking even older lamps.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You engage him in discussion and hear many details of his varied and entertaining life. [S+1]</p>
+<p><span class="TaleSkill">STORYTELLING  (mandatory):</span> You have heard tales of magical lamps&hellip; You pursue the old man, showering him with questions about his: when he last polished them, which is the oldest, where did he purchase this one or that one. The man soon grows annoyed by your persistent questions, and calls a soldier to drive you off. What wonders have slipped through your fingers! [D+1 / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">MAGIC</span>: One of the lamps is warm to your touch&mdash;a warmth not of earthly fire! For a pittance you purchase a priceless object! [D+2 / S+1 / Magic Lamp]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1145.html#TaleHeader">(1145) - APPEARANCE</a><br/>
+<br/>
+<a href="1147.html#TaleHeader">(1147) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1146</p>
+<p class="TaleDestiny">(1146) - WEALTH: POOR or less (M), WEALTH: PRINCELY or greater (M), ONE HUNDRED KEYS</p>
+<p>In the side of a hill, you discover a jeweled trapdoor. Cautiously you enter, and see within is a fabulous treasure! You greedily pick up the treasure, and the door slams shut. Surprised, you drop your spoils&mdash;and the door opens. It seems you may gaze at the treasure but cannot steal it.</p>
+<p><span class="TaleSkill">NO SKILL, WEALTH: POOR or less (mandatory):</span> Your greed holds you prisoner. You do not leave until almost dead with hunger, and still you cannot remove the thoughts of the gold from your mind. [D-1 / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">WEALTH: PRINCELY or greater (mandatory)</span>: Treasure isn&rsquo;t worth starving over. You leave behind the treasure and walk out safely. [D+1 / Wisdom]</p>
+<p><span class="TaleSkill">ONE HUNDRED KEYS</span>: You think of your keys and wonder&hellip; Taking them out you try one of the keys. It works! You dash out with your loot.
+[W+3 (Max: Princely)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1920.html#TaleHeader">(1920) - None</a><br/>
+<br/>
+<a href="1922.html#TaleHeader">(1922) - SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1921</p>
+<p class="TaleDestiny">(1921) - SEAMANSHIP</p>
+<p>The penniless other seems to have nothing worth stealing. Desperate, you resolve to take even his last pitiful rags.</p>
+<p><span class="TaleSkill">NO SKILL</span>: A passer-by catches you in this vile act. Quickly, rumors of your cruelty spread throughout town. [D-1 / S-1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: As you strip the unfortunate other, you discover a series of strange tattoos on his body. You realize that he has traveled here from distant Cathay! You decide to befriend him, and in gratitude he tells you many tales of his distant home. [D+1 / S+1 / Storytelling]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

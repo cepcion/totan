@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0691.html#TaleHeader">(691) - None</a><br/>
+<br/>
+<a href="0693.html#TaleHeader">(693) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">692</p>
+<p class="TaleDestiny">(692) - None</p>
+<p>You shout for assistance, but no one responds.</p>
+<p class="TaleChoicePrompt">You may wait or enter the burning house:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you wait</span>: As you watch helplessly, the house is quickly consumed by the flames. You are greatly upset by this spectacle. [D-1 / <span class="TaleStatus">Grief Stricken</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you enter the house</span>: [Go to paragraph <a href="0689.html#TaleHeader">689</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

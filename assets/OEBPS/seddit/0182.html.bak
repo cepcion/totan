@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+  <head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/epub.css"/>
+  </head>
+  <body>
+    <a name="TaleHeader"></a><p class="TaleHeader">182</p>
+    <p class="TaleName">THE DUSKY LAND</p>
+    <p>The Dusky Land is the dwelling place of the 'efreets and diinn; it is another plane of existence that few of the sons of Adam may visit. A land of mystical places and enchanted powers, there is no telling what you may find here. </p>
+    <p>You are wandering aimlessly through the white mists when you hear strange and terrifying sounds coming from beyond the next hill. Curious, you investigate.</p>
+    <p>You may&hellip;</p>
+    <p><span class="choice">Choice 1:</span> Go to the hill to investigate, but stay out of sight not give away your presence in any way.</p>
+    <p><span class="choice">Choice 2:</span> Advance over the hill with weapons drawn and a thousand words of power on your tongue. Make yourself known to the denizens of this land!</p>
+    <p><span class="choice">Choice 3:</span> Summon an &rsquo;efreet to you by magical means and have him investigate and report to you of the events occurring beyond the hill.</p>
+    <p>Which do you choose?</p>
+    <dl>
+      <dt><span class="choice">Choice 1</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1370.html#TaleHeader">1370</a></dd>
+      <dd>[blank] <a href="1371.html#TaleHeader">1371</a></dd>
+      <dd>[+] <a href="1372.html#TaleHeader">1372</a></dd>
+    </dl>
+    <dl>
+      <dt><span class="choice">Choice 2</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1373.html#TaleHeader">1373</a></dd>
+      <dd>[blank] <a href="1374.html#TaleHeader">1374</a></dd>
+      <dd>[+] <a href="1375.html#TaleHeader">1375</a></dd>
+    </dl>
+    <dl>
+      <dt><span class="choice">Choice 3</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1376.html#TaleHeader">1376</a></dd>
+      <dd>[blank] <a href="1377.html#TaleHeader">1377</a></dd>
+      <dd>[+] <a href="1378.html#TaleHeader">1378</a></dd>
+    </dl>
+    <p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+  </body>
+</html>

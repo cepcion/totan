@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1396.html#TaleHeader">(1396) - None</a><br/>
+<br/>
+<a href="1398.html#TaleHeader">(1398) - SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1397</p>
+<p class="TaleDestiny">(1397) - LUCK, MAGIC</p>
+<p>You have great faith in your own prowess, and confidently set out&mdash;in the wrong direction.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You end up no closer to familiar land than before. [S+1 / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">LUCK</span>: Your journey takes you to a strange place. [Go to paragraph <a href="0612.html#TaleHeader">612</a>]</p>
+<p><span class="TaleSkill">MAGIC</span>: Your journey takes you to a strange place. [Go to paragraph <a href="0614.html#TaleHeader">614</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

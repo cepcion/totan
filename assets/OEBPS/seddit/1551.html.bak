@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1550.html#TaleHeader">(1550) - BEGUILING</a><br/>
+<br/>
+<a href="1552.html#TaleHeader">(1552) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1551</p>
+<p class="TaleDestiny">(1551) - ENDURING HARDSHIP, QUICK THINKING</p>
+<p>The other, ignoring your words completely, begins to beat you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You cower in the corner, accepting your poor fate. [<span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">ENDURING HARDSHIP</span>: You accept the beating without making a sound. The jailor is impressed with your fortitude and considers another use for you. [S+1 / <span class="TaleStatus">Under Geas</span> / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: While accepting the raining blows upon your body, you are able to reach for the keys, lock the jailor in your prison, and set yourself free! [D+1 / <span class="TaleStatus">Wounded</span> / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

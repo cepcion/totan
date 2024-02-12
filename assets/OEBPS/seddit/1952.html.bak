@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1951.html#TaleHeader">(1951) - LUCK</a><br/>
+<br/>
+<a href="1953.html#TaleHeader">(1953) - BEGUILING, SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1952</p>
+<p class="TaleDestiny">(1952) - None</p>
+<p>It took you weeks to decipher the hidden messages of the poems and locate the amazing Elephant&rsquo;s Graveyard. But the poet never mentioned a cult of elephant-worshipping infidels! With a powerful battle-cry, you attack!</p>
+<p class="TaleRoll2D">Roll two dice, adding two for <span class="TaleRoll2DSkill">Weapon Use</span> or four if you have it at Master level:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;6: The cultists are not unskilled in combat. Though you reduce many of their numbers, they soon overpower you. Were it not for the good fortune of a passing force of the Sultan&rsquo;s men, you would no doubt be dead. [D+1 / S+1 / <span class="TaleStatus">Crippled</span>]</li>
+<li class="TaleDieRollResult">7&ndash;11: You battle long into the afternoon. It seems that each time you send one infidel to his final punishment, two more take his place. As fatigue begins to weary your limbs, you know that you must retreat. [D+1 / S+1 / Weapon Use]</li>
+<li class="TaleDieRollResult">12+: Surely there is no might nor glory but in Allah! As the sun sinks into the horizon, you look about you at your fallen foes. The wealth you claim this day was truly earned. [D+1 / S+1 / W+3 (Max: Respectable)]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

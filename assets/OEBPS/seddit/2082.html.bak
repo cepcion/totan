@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2081.html#TaleHeader">(2081) - SEAMANSHIP</a><br/>
+<br/>
+<a href="2083.html#TaleHeader">(2083) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2082</p>
+<p class="TaleDestiny">(2082) - BARGAINING AND EVALUATION</p>
+<p>While sailing on board a ship, one of the passengers relates to you his suspicion that the captain intends to over-crowd the passenger cabins in order to maximize profits. Concerned about the dangers posed by packing people together like sticks in a bundle, you ask the captain directly if the rumors are true.</p>
+<p><span class="TaleSkill">NO SKILL</span>: He denies them, but you aren&rsquo;t so sure. Whatever he may have intended, he keeps his word and takes on no new passengers. [D+1]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: When he confirms that they are, you decide to play mediator between the passengers and the captain. Eventually, you talk him into agreeing not to take on any new passengers in exchange for a bit of compensation, which you pay gladly, and the other passengers honor your efforts on their behalf. [D+1 / S+1 / W-1 (Min: Poor) / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1025.html#TaleHeader">(1025) - WILDERNESS LORE, SCHOLARSHIP</a><br/>
+<br/>
+<a href="1027.html#TaleHeader">(1027) - WEAPON USE, SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1026</p>
+<p class="TaleDestiny">(1026) - COURTLY GRACES</p>
+<p>You discover the sad woman to be a gooleh who wants to feed you to her children. You are determined to talk your way out of this trouble.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You beg for mercy, but her children have not eaten for days. She only wants a small piece of you! You faint in horror. You wake maimed, but alive. [D+1 / S+1 / <span class="TaleStatus">Crippled</span>]</p>
+<p><span class="TaleSkill">COURTLY GRACES</span>: Concealing that you know her identity, you say you have an enemy whom you fear. She is moved by your plea, and suggests, &ldquo;If you are a good Muslim, pray to Allah.&rdquo; Your prayers are eloquent, filled with remorse and the hope of God&rsquo;s mercy. The gooleh, in tears from your heartfelt prayers, renounces her evil nature and lets you leave.
+[D+2 / S+1 / Luck]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

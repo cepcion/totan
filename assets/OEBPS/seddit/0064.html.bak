@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+  <head>
+    <title>Encounter Table 64</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/epub.css"/>
+  </head>
+  <body>
+    <p class="encounterTableHeader" id="table64">64</p>
+    <ol class="encounterTableOL">
+      <li value="1"><a href="ReactionMatrix-C-Heart-rendingHag.html">Heart-rending Hag</a> (C)</li>
+      <li value="2"><a href="ReactionMatrix-A-HandsomeMerchant.html">Handsome Merchant</a> (A)</li>
+      <li value="3"><a href="ReactionMatrix-D-ArmedNeer-do-well.html">Armed Ne&rsquo;er-do-well</a> (D)</li>
+      <li value="4"><a href="ReactionMatrix-F-MildStorm.html">Mild Storm</a> (F)</li>
+      <li value="5"><a href="ReactionMatrix-F-DarkRiver.html">Dark River</a> (F)</li>
+      <li value="6"><a href="ReactionMatrix-E-MinorTreasure.html">Minor Treasure</a> (E)</li>
+      <li value="7"><a href="ReactionMatrix-I-HungryGooleh.html">Hungry Gooleh</a> (I)</li>
+      <li value="8"><a href="ReactionMatrix-J-EnchantedBeast.html">Enchanted Beast</a> (J)</li>
+      <li value="9"><a href="ReactionMatrix-M-VengefulEfreet.html">Vengeful &lsquo;Efreet</a> (M)</li>
+      <li value="10"><a href="ReactionMatrix-J-HorribleCreatures.html">Horrible Creatures</a> (J)</li>
+      <li value="11"><a href="ReactionMatrix-O-BloodthirstyWizard.html">Bloodthirsty Wizard</a> (O)</li>
+      <li value="12"><a href="ReactionMatrix-E-StrangeArtifact.html">Strange Artifact</a> (E)</li>
+    </ol>
+    <p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+  </body>
+</html>

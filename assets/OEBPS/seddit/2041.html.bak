@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2040.html#TaleHeader">(2040) - WEAPON USE</a><br/>
+<br/>
+<a href="2042.html#TaleHeader">(2042) - SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2041</p>
+<p class="TaleDestiny">(2041) - WILDERNESS LORE</p>
+<p>Wandering the bazaar, you are accosted by a merchant who shows you a remarkable wooden box. With several deft motions, he shows you how to open it, and then lock it shut. Enchanted with the craftsmanship, you are determined to have it.</p>
+<p class="TaleRoll2D">Roll two dice and add one each for <span class="TaleRoll2DSkill">Bargaining and Evaluation</span>, <span class="TaleRoll2DSkill">Beguiling, and Appearance</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;8: You cannot come to an agreement with the merchant. You leave sorely disappointed. [D+1 / <span class="TaleStatus">Envious</span>]</li>
+<li class="TaleDieRollResult">9+: You swiftly conclude your business with the merchant and carry your new-found treasure away. You waste no time manipulating the box as he showed you. As you expected, it is empty&mdash;the box itself is your treasure. Still, the inner dimensions seem odd to you.</li>
+<p class="TaleChoicePrompt">You can leave it be, or use a dagger to pry at the bottom:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you leave it be</span>: The box gives you great pleasure for several years, but you always wonder what it truly contains. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you pry at it</span>: You are more forceful than you wished, and shatter the item in your clumsy attempts. You disappointment is tempered, however, when a small rolled map falls from the secret compartment you opened.</li>
+<ul class="SubTaleSkill">
+<li><span class="TaleSkill">NO SKILL</span>: The map is strange and indecipherable. It is worthless to you, and you can get only a few coins by selling it. [S+1]</li><br>
+<li><span class="TaleSkill">WILDERNESS LORE</span>: The map shows a number of different places that you have visited, or that you have always wished to visit. Better yet, it shows a number of hidden routes to these places, making travel swift and safe. [D+1 / Opportunity to enter the <a href="1400.html#TaleHeader">Sepulchre of Solomon</a>]</li>
+</ul>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1931.html#TaleHeader">(1931) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="1933.html#TaleHeader">(1933) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1932</p>
+<p class="TaleDestiny">(1932) - SEDUCTION, BARGAINING AND EVALUATION</p>
+<p>You are moved to generosity by the sorry tale of the other&rsquo;s unrequited love for a beautiful noblewoman.</p>
+<p><span class="TaleSkill">NO SKILL</span>: It is sad that the other is so hideous. None could love such a creature. At least your coins will comfort him somewhat. [S+1 / W-1 (Min: Respectable)]</p>
+<p><span class="TaleSkill">SEDUCTION</span>: The idea of helping the other woo the noblewoman intrigues and amuses you. You offer to assist him with your skills and talents. His gratitude is worthy of the epics. [D+1 / S+1 / Acting and Disguise]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You may not know the secrets to unlock the noblewoman&rsquo;s heart, but you do know how to shower her with gifts. You assist the other in procuring the finest tokens with which to woo his love. [D+1 / W-2 (Min: Poor) / Seduction]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

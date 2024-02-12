@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1153.html#TaleHeader">(1153) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="1155.html#TaleHeader">(1155) - STORYTELLING, COURTLY GRACES, QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1154</p>
+<p class="TaleDestiny">(1154) - APPEARANCE, SEDUCTION</p>
+<p>A violent storm washes the mud and sand off a huge, jewel-studded trapdoor. You try to lift it, but it is too heavy. You need a trustworthy soul to help you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Sadly, your judgment is poor. The man you choose loots the treasure chamber before you get there, leaving you holding nothing but air. [D-1 / S+1 / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">APPEARANCE, SEDUCTION</span>: Your beauty and charm have won you many devoted admirers, and you choose one to whom you entrust your secret; together you lift the door and discover an ancient tomb, laden with gold. [D+1 / S+1 / W+2 (Max: Rich) / <span class="TaleStatus">Beloved</span> (if not Married)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

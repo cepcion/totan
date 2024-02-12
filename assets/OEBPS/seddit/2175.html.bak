@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2174.html#TaleHeader">(2174) - None</a><br/>
+<br/>
+<a href="2176.html#TaleHeader">(2176) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2175</p>
+<p class="TaleDestiny">(2175) - None</p>
+<p>As you continue you to cry out in defiance of nature, a bolt of lightning strikes no more than ten feet in front of you. In its wake stands a man with a spear drawn. He bellows to you, &ldquo;Prove your worth!&rdquo; and moves quickly to attack you.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Weapon Use</span> and <span class="TaleRoll2DSkill">Quick Thinking</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;6: You crumple to the ground as he slices into your leg in a flash, then disappears. [D+1 / S+1 / <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleDieRollResult">7+: As though the other were as slow as a turtle, you sidestep the attack and disarm your foe in a single fluid motion, holding the spear at his back. He says, &ldquo;Your skills have won you this day.&rdquo; With that, he disappears, leaving the spear in your hands. [D+2 / S+2 / Sparkling Spear]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

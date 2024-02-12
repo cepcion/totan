@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1829.html#TaleHeader">(1829) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="1831.html#TaleHeader">(1831) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1830</p>
+<p class="TaleDestiny">(1830) - ACTING AND DISGUISE</p>
+<p>Half-dead from thirst, you did not notice anything strange about the oasis you stumbled into. But as soon as you drink the sweet, cold water, you feel a feverish chill. When the tingling fades, you find that your gender has been changed! You hasten to a cousin&rsquo;s home in a nearby village and implore him for assistance.</p>
+<p><span class="TaleSkill">NO SKILL</span>: He provides you with clothes suitable to your new condition and help you create a new identity. A couple weeks of this and you&rsquo;ve learned more about the opposite sex than you ever hoped to. This inside information could prove very useful if you ever recover. [S+1 / Seduction / <span class="TaleStatus">Sex-Changed</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: It takes a lot of work, but with makeup and props you are able to alter your external appearance and mask your voice enough to convince most people that you are still as you were. You manage to keep up the facade long enough for the magical effect to fade. In the meantime, you have learned to take much greater care of your appearance. [S+1 / Appearance / Lose <span class="TaleStatus">Sex-Changed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

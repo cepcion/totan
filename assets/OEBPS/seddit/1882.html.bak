@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1881.html#TaleHeader">(1881) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1883.html#TaleHeader">(1883) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1882</p>
+<p class="TaleDestiny">(1882) - WEAPON USE  (M), BARGAINING AND EVALUATION</p>
+<p>Even one more insult from the other would be far beyond what any man should be expected to endure. They may be meant in jest, but your pride has been stung too many times. Pushed to the limit, you challenge the other to a duel.</p>
+<p><span class="TaleSkill">NO SKILL</span>: It&rsquo;s a good thing you got the other drunk before you started the fight! His skill with a weapon is much greater than yours. Fortunately, his good humor saves you from a death, but it will be some time before you wield a blade again. [D-1 / S+1 / <span class="TaleStatus">Crippled</span>]</p>
+<p><span class="TaleSkill">WEAPON USE  (mandatory):</span> The besotted fool practically throws himself on your blade. Your quest for revenge has lead to murder! You flee the town, but word of your misdeeds has reached the Sultan, who demands your head for slaying a favored jester of his. [D-1 / S+1 / <span class="TaleStatus">Pursued</span> (SOLDIER)]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You quickly realize your error: you cannot hope to overcome the other in fair combat. Before it goes too far, you throw yourself upon the ground and beg for his mercy. The other helps you up with good humor and leads you to the saloon for another drink. [D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1816.html#TaleHeader">(1816) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="1818.html#TaleHeader">(1818) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1817</p>
+<p class="TaleDestiny">(1817) - APPEARANCE</p>
+<p>Your traveling companion has been injured by a wild dog in the woods, and as you hasten to find help, you trip and fall down a hillside. When you reach the bottom of the slippery slope, you shake your head to clear your vision. You are about to rise when you realize that you are staring straight into the eyes of a deadly asp!</p>
+<p><span class="TaleSkill">NO SKILL</span>: This is a very dangerous snake, and very fast. You cannot run; your only hope is to lie very still and hope that it does not decide to strike.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Enduring Hardship</span>, <span class="TaleRoll2DSkill">Stealth and Stealing</span>, and <span class="TaleRoll2DSkill">Wilderness Lore</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;4: Unable to sit still long enough, you involuntarily jerk away, and the asp sinks its deadly fangs into your neck! As you lie there paralyzed, a passing merchant happens to find you and bring you to a healer before you die. Alas, though the healer saves your life, the venom has taken an irreversible toll on your body. [Luck / <span class="TaleStatus">Crippled</span>]</li>
+<li class="TaleDieRollResult">5&ndash;9: You lie still so long that your muscles burn with pain. Finally the snake grows bored and slithers off. You breathe a sigh of relief.
+[D+1 / S+1]</li>
+<li class="TaleDieRollResult">10+: Suddenly, you hear a beautiful voice singing behind you. The asp sways to the sound, entranced. Seeing your opportunity, your hand flashes out to grab the serpent and fling it away. You turn to view your savior, but she is nowhere to be found! [D+1 / S+1 / Quick Thinking]</li>
+</ul>
+<p><span class="TaleSkill">APPEARANCE</span>: You freeze in place, hoping that the asp will not strike. You hear motion behind you, and pray that it is not another serpent. To your amazement, you hear a woman singing in a clear, melodious voice. The snake is charmed by the music, and soon slithers over you towards the singer. Amazed, you turn to see your savior. Your eyes fall upon a most magnificent youth, truly an angel from heaven itself! [D+1 / S+1 / <span class="TaleStatus">Love Struck</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

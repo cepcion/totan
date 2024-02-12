@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1217.html#TaleHeader">(1217) - None</a><br/>
+<br/>
+<a href="1219.html#TaleHeader">(1219) - STEALTH AND STEALING, BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1218</p>
+<p class="TaleDestiny">(1218) - STEALTH AND STEALING, ONE HUNDRED KEYS</p>
+<p>You enjoy the hospitality of a rich host. He allows you the run of his palace, but warns you not to open the one-hundredth closet.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You open the first ten closets. Each contains fascinating artifacts. Reluctant to rob your host, you content yourself with gazing. In weeks to come, the memory of the great treasure is not far from your mind. [S+2 / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">STEALTH AND STEALING</span>: You force the locks on ninety-nine of the one hundred closets. Each contains wealth more fabulous than the last. In the ninety-ninth closet is enough to make you rich, and you depart before you are discovered. [D+1 / S+1 / W+2 (Max: Rich)]</p>
+<p><span class="TaleSkill">ONE HUNDRED KEYS</span>: You open each closet in turn and happily take the enormous wealth revealed within. In the one-hundredth is&hellip; a lamp. [D+1 / S+1 / W+2 (Max: Rich) / Magic Lamp]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

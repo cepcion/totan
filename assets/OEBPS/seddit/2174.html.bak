@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2173.html#TaleHeader">(2173) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="2175.html#TaleHeader">(2175) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2174</p>
+<p class="TaleDestiny">(2174) - None</p>
+<p>The swirling winds seem to laugh at you mockingly as you wail and gnash your teeth at your misfortune. You see a figure approaching you from the direction of the storm. It gets closer and you see it is a man on a flying carpet. He stretches his hand out to you, offering escape.</p>
+<p class="TaleChoicePrompt">Do you take his hand?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: The storm soon passes over you, and the serene desert sky soon returns. [D+1 / S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: He offers to take you anywhere you wish. After he takes you to your destination, he offers you the carpet, saying, &ldquo;Seems you could use this more than me.&rdquo; With that, he vanishes. [D+1 / S+1 / Flying Carpet / Move to any space]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

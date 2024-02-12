@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1443.html#TaleHeader">(1443) - BEGUILING</a><br/>
+<br/>
+<a href="1445.html#TaleHeader">(1445) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1444</p>
+<p class="TaleDestiny">(1444) - QUICK THINKING, PROTECTIVE TALISMAN  (M)</p>
+<p>You realize that the other is trying to deceive you, and you attempt to turn the tables on him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your effort fails, and the other is annoyed at you. A whispered incantation, a subtle gesture, and *poof* &mdash; you wag your tail and bark!
+[D+1 / S+1 / <span class="TaleStatus">Beast Form</span> [1 turn)]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: You so cleverly contrive to reverse the deception that the other is greatly amused, although he is the butt of your joke! He grants you a great boon, and tells all of your great skill. [D+2 / S+2 / Beguiling / <span class="TaleStatus">Respected</span>]</p>
+<p><span class="TaleSkill">PROTECTIVE TALISMAN  (mandatory):</span> Your effort fails, and the other is annoyed at you. A whispered incantation, a subtle gesture, and *poof* &mdash; nothing happens, for the power of the Protective Talisman turns aside his spell! The other is most impressed, and you converse long into the night. [D+1 / Magic]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

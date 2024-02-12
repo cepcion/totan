@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0303.html#TaleHeader">(303) - LUCK, MARRIED</a><br/>
+<br/>
+<a href="0305.html#TaleHeader">(305) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">304</p>
+<p class="TaleDestiny">(304) - PIETY</p>
+<p>&ldquo;I have a dreadful secret,&rdquo; the other confesses. &ldquo;I am in love with another, but I am not of the Faithful, and her father opposes the marriage. Can you help me?&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You recoil at such a thought, and consider giving the infidel a good thrashing! You make haste to be elsewhere. [D+1 / S+1]</p>
+<p><span class="TaleSkill">PIETY</span>: Your carefully considered and pious words soften the heart of the other, turning him towards the True Faith. Once he has accepted the word of Allah, his new father-in-law has no objection to the match. All concerned are most grateful to you. [D+2 / S+2 / Piety / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

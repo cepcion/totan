@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1725.html#TaleHeader">(1725) - QUICK THINKING</a><br/>
+<br/>
+<a href="1727.html#TaleHeader">(1727) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1726</p>
+<p class="TaleDestiny">(1726) - WEAPON USE, BRASS BOW</p>
+<p>You decide to watch the Crystal Palace for a couple of days, admiring the way the sunlight plays across its many glass faces. Late in the second afternoon, you see something long and slender snaking its way down the wall from one of the upper balconies. You are startled to realize that it is a rope!</p>
+<p><span class="TaleSkill">NO SKILL</span>: One of the cruel king&rsquo;s children begins climbing down the rope. A moment later, a guard appears on the balcony and shouts an alarm! Before the young man can reach the ground, a regiment of armed guards is waiting below to recapture him. They are too many to overcome, so you keep a safe distance. [S+1]</p>
+<p><span class="TaleSkill">WEAPON USE, BRASS BOW</span>: You immediately realize that one of the princes is trying to escape from the palace. You take up your bow and watch as the young man struggles down the rope. When a guard appears in the balcony, you let fly your arrow, silencing his alarm. You rush over to help the boy, and together you make your escape:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you also have SEAMANSHIP</span>: You and the prince escape to the sea. [D+1 / S+1 / Move to any coastal space]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you also have WILDERNESS LORE</span>: You and the prince escape overland. [D+1 / S+1 / Move to any non-coastal, non-sea space]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you have neither</span>: You aid the prince as long as you can, but you are unable to escape from the king&rsquo;s guards. The prince is taken back to the palace, and you are sent on your way. [D+1 / S+1]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

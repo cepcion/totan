@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2179.html#TaleHeader">(2179) - None</a><br/>
+<br/>
+<a href="2181.html#TaleHeader">(2181) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2180</p>
+<p class="TaleDestiny">(2180) - MAGIC</p>
+<p>Something tickles the back of your throat. Without thinking, you scoop up some water to wash out your mouth.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The water here is foul and you spit it out. [S+1]</p>
+<p><span class="TaleSkill">MAGIC</span>: As you bring the water to your mouth, you discern a mystic taint, and you fling it away from you. A nearby shipmate drinks deep and no more than half a minute later, he writhes in agony on the deck as a poison wracks his body. It seems you were not to meet your fate today. [D+2 / S+2 / <span class="TaleStatus">Fated</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

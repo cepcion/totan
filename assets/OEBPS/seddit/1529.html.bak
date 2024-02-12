@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1528.html#TaleHeader">(1528) - None</a><br/>
+<br/>
+<a href="1530.html#TaleHeader">(1530) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1529</p>
+<p class="TaleDestiny">(1529) - BEGUILING</p>
+<p>Bargaining with this jabbering magpie is endlessly frustrating. A stream of dull reminiscences&mdash;travels, family, and social triumphs&mdash;pour from him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You wish you could escape, but cannot. His tales drive you past the brink of madness. [<span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">BEGUILING</span>: You pretend great interest in his babbling, and he regards you as a friend and wise fellow. You thereupon proceed to trick him into granting your freedom. [D+2 / S+1 / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

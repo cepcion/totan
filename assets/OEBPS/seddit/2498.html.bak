@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2497.html#TaleHeader">(2497) - WISDOM</a><br/>
+<br/>
+<a href="2499.html#TaleHeader">(2499) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2498</p>
+<p class="TaleDestiny">(2498) - None</p>
+<p>Perhaps it was the promise of reward, or perhaps just the need for adventure. Whatever the case, when a holy man asked you to meet him to find a great treasure, you agreed readily. You were somewhat surprised to find yourself among a dozen other adventurers, seeking the glory or riches such a prize offered. In the end, it was more a race than a hunt. It came down to following the others when you were lost and trying to lose them when you knew the way.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Luck</span>, <span class="TaleRoll2DSkill">Magic</span>, and <span class="TaleRoll2DSkill">Scholarship</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;4: In your haste, you improperly translated a section of text on the map. Had you done it correctly, you would have been forewarned of the curse awaiting you. [D+1 / <span class="TaleStatus">Beast Form</span>]</li>
+<li class="TaleDieRollResult">5&ndash;8: You spend more time following than leading, and in the end you arrive safely&hellip; just as another adventurer claims the lamp. [S+1]</li>
+<li class="TaleDieRollResult">9&ndash;11: You are able to keep a mere step ahead of the others and arrive at the cave. You find that the lamp is not the only thing hiding here! You take the lamp to the dervish and keep the rest. [S+1 / Choice of W+2 (Max: Princely) or Treasure]</li>
+<li class="TaleDieRollResult">12+: You are so accomplished that you arrive at the lamp&rsquo;s hiding place a full day before any others. You decide that the lamp could serve you well in your exploits and surely you can use it to perform deeds as great as any other could! [D+1 / S+1 / Magic Lamp]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

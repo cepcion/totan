@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0280.html#TaleHeader">(280) - None</a><br/>
+<br/>
+<a href="0282.html#TaleHeader">(282) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">281</p>
+<p class="TaleDestiny">(281) - STORYTELLING, SEDUCTION (if of opposite sex)</p>
+<p>The other, being deeply troubled and unable to sleep, is in a terrible mood. You attempt a bargain but the other is no more interested in you than in an earthworm. &ldquo;I am bored with you. I think that I will amuse myself by seeing how easy it will be to separate you from your limbs.&rdquo; You desperately reply, &ldquo;If it is amusement that you wish&hellip; let me tell you a tale.&rdquo; The other relaxes a bit and finally says, &ldquo;Perhaps you shall leave here intact. Let&rsquo;s hear this tale.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>:</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Acting and Disguise</span>, <span class="TaleRoll2DSkill">Determined</span>, and <span class="TaleRoll2DSkill">Enduring Hardship</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;6: You are terrified; you cannot speak. The other has you dragged behind a horse, and as you lie bleeding on the road, you curse your fate for ever meeting him. [D+1 / Lose Luck / <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleDieRollResult">7+: Your tale strikes the other&rsquo;s fancy and he permits you to leave&mdash;unfulfilled but, as promised, intact. [D+1 / Storytelling]</li>
+</ul>
+<p><span class="TaleSkill">STORYTELLING</span>: Your terror inspires you to one of your finest performances, and the other gratefully grants your favor. [D+2 / S+1 / Storytelling / <span class="TaleStatus">Blessed</span> / You may lose one status of your choice]</p>
+<p><span class="TaleSkill">SEDUCTION (if of opposite sex)</span>: You know the cause of many sleepless nights, for it is none other than the sickness of empty love. You take the other&rsquo;s hand in yours and caress the other&rsquo;s firm and tender arms, and lead him to a private place where you can administer the cure for longing. [D+2 / Choice of W+2 (Max: Rich) or <span class="TaleStatus">Beloved</span> (if appropriate)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

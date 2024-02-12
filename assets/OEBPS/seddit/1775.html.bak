@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1774.html#TaleHeader">(1774) - MAGIC</a><br/>
+<br/>
+<a href="1776.html#TaleHeader">(1776) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1775</p>
+<p class="TaleDestiny">(1775) - BARGAINING AND EVALUATION</p>
+<p>Ah, the cruelty of small men! Somehow, this village of savages has captured a noble lion. Having lashed the pitiful creature to a wooden stake, they make sport of teasing and torturing him. How can you stand by and allow such a regal animal be mistreated thus?</p>
+<p><span class="TaleSkill">NO SKILL</span>: Pulling out your bow, you bend an arrow to your ear and take careful aim. The dart whistles through the air, slicing through the lion&rsquo;s tether. Suddenly free, the lion lashes out at the surprised savages. Now the tables have turned! [D+1 / <span class="TaleStatus">Blessed</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You quickly identify the &ldquo;owner&rdquo; of the great beast. After some haggling, you convince him to sell you the animal for a bag of ducats. You lead the lion out of the village and release it. To your surprise, he follows you. Soon you discover that you have a new loyal companion. [D+1 / S+1 / Wilderness Lore]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

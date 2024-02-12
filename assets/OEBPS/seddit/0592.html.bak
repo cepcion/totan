@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0591.html#TaleHeader">(591) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="0593.html#TaleHeader">(593) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">592</p>
+<p class="TaleDestiny">(592) - SULTAN (M), VIZIER (M), RESPECTED (M), ROBE OF HONOR  (M)</p>
+<p>The slave&rsquo;s business acumen is common knowledge, and many highborn people are competing for him. However, he is quite advanced in years.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The asking price is very moderate for a slave of his intelligence.</p>
+<p class="TaleChoicePrompt">You may buy the slave for 1 wealth level if your wealth is Respectable or greater:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you buy the slave</span>: The slave&rsquo;s business acumen is excellent; eventually, he buys his own freedom, but not before helping you in your dealings. [W-1 (Min: Rich) / Bargaining and Evaluation at Master level]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: The slave goes for a high price, and you later hear that he has increased his master&rsquo;s already formidable wealth. [Bargaining and Evaluation]</li>
+</ul>
+<p><span class="TaleSkill">SULTAN, VIZIER, RESPECTED, ROBE OF HONOR  (All mandatory)</span>: None dare bid against you, for fear of insulting one so highly placed. The slave master decides to cut his losses by giving the slave to you as a gift. You get the slave for free and learn much of the world of trade from his vast experience. Eventually, though, the Ender of Stories takes him to his grave. [Bargaining and Evaluation at Master level]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

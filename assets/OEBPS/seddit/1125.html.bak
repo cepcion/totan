@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1124.html#TaleHeader">(1124) - APPEARANCE</a><br/>
+<br/>
+<a href="1126.html#TaleHeader">(1126) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1125</p>
+<p class="TaleDestiny">(1125) - WISDOM</p>
+<p>You meet an old dervish living in the wilderness. After speaking with him, you travel on and discover the ruins of an ancient city! There is much writing on stone pedestals in a language that you cannot read. Perhaps the old man can help.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You bring him a chunk of rock with samples of the writing. &ldquo;Desecrator!&rdquo; he screams. Brandishing a scimitar, he deals you several cruel wounds before you escape. [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">WISDOM</span>: You carefully copy some of the inscriptions and ask him what they mean. They are mostly blessed verses and familiar sayings, but one passage reveals the route to a city of great repute. [D+1 / S+1 / Opportunity to enter the <a href="0177.html#TaleHeader">City of Brass</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

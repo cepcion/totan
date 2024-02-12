@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+<a name="TaleHeader"></a><p class="TaleHeader">1345</p>
+<p class="TaleDestiny">(1345) - MAGIC</p>
+<p>Within, an evil enchantress is torturing a young prince. Acting quickly, you slay the enchantress. The prince thanks you, and explains that she was his unfaithful wife who turned him to stone and his people into fish. Now he fears the spell shall never be lifted.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You study well the enchantress&rsquo;s books and equipment, but discover no way to lift the curse, and depart. [D+2 / S+2 / Magic]</p>
+<p><span class="TaleSkill">MAGIC</span>: Although the enchantress was subtle and powerful, you lift the curse with a spell of your own. The prince names you his successor.
+[D+3 / S+3 / Magic / <span class="TaleStatus">Sultan</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

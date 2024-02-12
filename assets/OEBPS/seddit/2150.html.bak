@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2149.html#TaleHeader">(2149) - WISDOM</a><br/>
+<br/>
+<a href="2151.html#TaleHeader">(2151) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2150</p>
+<p class="TaleDestiny">(2150) - WILDERNESS LORE</p>
+<p>There is so much treasure that you could not possibly carry it on your own. So you buy camels to carry the hoard back home. The person who sold you the camels becomes curious and decides to follow you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You are unaware that you are being followed by the camel seller, who spies your hidden bounty. Unfortunately for you, you did not buy enough camels to carry the whole hoard, so you need to make a second trip. When you come back, the remaining treasure is gone. [S+1 / W+2 (Max: Rich)]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You are aware that you are being followed by the camel-seller. You easily lose him in the wilds and make your way unseen to your treasure hoard. [S+2 / W+3 (Max: Princely) / Wilderness Lore]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

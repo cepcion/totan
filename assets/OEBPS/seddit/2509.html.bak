@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2508.html#TaleHeader">(2508) - BEGUILING</a><br/>
+<br/>
+<a href="2510.html#TaleHeader">(2510) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2509</p>
+<p class="TaleDestiny">(2509) - None</p>
+<p>Travel makes for strange bedfellows, and one night you find yourself in the camp of a band of wandering dervishes. After dinner, their leader approaches you and asks if you will join them in their divine dance. He explains that adding another will aid in the balance of their ceremony. You accept, dancing and whirling along with them into the wee hours of the night.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Enduring Hardship</span>, <span class="TaleRoll2DSkill">Piety</span>, and <span class="TaleRoll2DSkill">Wisdom</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;5: You stumble through the rituals, straining your back and souring your mood. You make a mess of the devotion. [D+1 / <span class="TaleStatus">Scorned</span>]</li>
+<li class="TaleDieRollResult">6&ndash;8: You perform admirably but cannot honestly say that you are deeply moved. [S+1]</li>
+<li class="TaleDieRollResult">9&ndash;11: For a brief moment your mind lifts you from your body and you feel as if you could touch the divine. [D+1 / <span class="TaleStatus">Blessed</span> (1 use)]</li>
+<li class="TaleDieRollResult">12+: Affirmation is truly the guidebook for the soul. [D+1 / S+1 / Piety]
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

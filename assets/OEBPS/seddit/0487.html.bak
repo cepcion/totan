@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0486.html#TaleHeader">(486) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="0488.html#TaleHeader">(488) - SCHOLARSHIP, COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">487</p>
+<p class="TaleDestiny">(487) - QUICK THINKING, WEAPON USE  (M)</p>
+<p>With surprising stnength, he wrests your weapon from you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The other wounds you with it and makes his escape. [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: You cry out, &ldquo;Help, I am being robbed!&rdquo; Your ruse fools several passers-by, who &ldquo;come to your aid&rdquo; and subdue him. You thank them and quietly relieve the unconscious one of his purse. [D+1 / S+1 / W+1 (Max: Respectable) / Beguiling]</p>
+<p><span class="TaleSkill">WEAPON USE  (mandatory):</span> You panic, draw a dagger, and slay him, but you were seen committing the crime, and are pursued by the local guards. [D+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

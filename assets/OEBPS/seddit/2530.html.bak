@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2529.html#TaleHeader">(2529) - None</a><br/>
+<br/>
+<a href="2531.html#TaleHeader">(2531) - WILDERNESS LORE, STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2530</p>
+<p class="TaleDestiny">(2530) - STORYTELLING, SCHOLARSHIP</p>
+<p>Above all else, the other craves knowledge&hellip; but do you have what he needs?</p>
+<p><span class="TaleSkill">NO SKILL</span>: Unfortunately, you don&rsquo;t. The other is disappointed, but he is willing to teach his skills&mdash;for an outrageous sum.</p>
+<p class="TaleChoicePrompt">Do you wish to spend three wealth levels?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">Yes</span>: The other is an excellent teacher. [W-3 (Min: Penniless) / Weapon Use]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">No, or you do not have Wealth of Rich or greater</span>: You respectfully decline his terms, and he goes on his way. [S+1]</li>
+</ul>
+<p><span class="TaleSkill">STORYTELLING, SCHOLARSHIP</span>: You immediately begin to discourse on the skies and the earth and the sea, and all the things therein and thereupon&hellip; their comings and goings and their beginnings and ends. The other drinks in your stories like a traveler long stranded in the desert upon finding a deep, cool spring. He shares with you stories from his own long, adventurous life. [D+1 / S+1 / Storytelling]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

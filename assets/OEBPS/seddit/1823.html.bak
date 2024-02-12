@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1822.html#TaleHeader">(1822) - APPEARANCE</a><br/>
+<br/>
+<a href="1824.html#TaleHeader">(1824) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1823</p>
+<p class="TaleDestiny">(1823) - STORYTELLING</p>
+<p>When the Sultan caught you in the arms of his daughter, he needed a way to punish you both. Being particularly cruel, he forces you to drink from a magical well that has the power to transform man to woman and woman to man!</p>
+<p><span class="TaleSkill">NO SKILL</span>: Expelled from his kingdom and shorn of your identity, you sink to your knees in supplication to the All-Merciful. When you rise, you see a vision of holy Mecca. You determine to make a pilgrimage.
+[D+1 / S+1 / <span class="TaleStatus">Sex-Changed</span> / <span class="TaleStatus">On Pilgrimage</span>&mdash;if you are still Sex-Changed when the pilgrimage is complete, lose Sex-Changed]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: On the highway leaving the Sultan&rsquo;s kingdom, you tell your tale to all who will listen. A wise imam hears your tale and is moved to pray on your behalf. Under the holy man&rsquo;s guidance, you make generous gifts to the poor. Afterwards, you are still the wrong gender, but your soul feels much cleansed. [D+1 / S+1 / Piety / <span class="TaleStatus">Sex-Changed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

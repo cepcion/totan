@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2046.html#TaleHeader">(2046) - WISDOM</a><br/>
+<br/>
+<a href="2048.html#TaleHeader">(2048) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2047</p>
+<p class="TaleDestiny">(2047) - BEGUILING</p>
+<p>The brigands encircle you, scimitars drawn, teeth bared, eyes afire. One steps forward, points his blade at you and says, &ldquo;Give me one good reason I should spare your life.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You offer to serve the brigands on their next raid, with no expectation of compensation beyond your freedom. The leader agrees, and true to his word, returns you to your travels when the job is done&hellip; but by then, you are a wanted man. [D+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><span class="TaleSkill">BEGUILING</span>: You convince the brigand leader that you are capable of providing an effective distraction as a prelude to a successful raid. When the time comes to perform your task, however, you simply make good your escape into the night, leaving the brigands to face the merchant&rsquo;s guards unprepared. [D+2 / S+2 / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

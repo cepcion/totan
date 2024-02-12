@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0839.html#TaleHeader">(839) - BEGUILING</a><br/>
+<br/>
+<a href="0841.html#TaleHeader">(841) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">840</p>
+<p class="TaleDestiny">(840) - WEAPON USE</p>
+<p>The other is proud of his prowess and battle experience. He demands a high price, but to reach your destination you must travel through a very dangerous area.</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleChoicePrompt">You may pay him or decline</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you decline</span>: Brigands are indeed waiting for you. They beat you, rob you, and leave you for dead. [S+1 / W-2 (Min: Penniless) / <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you accept</span>: You pay his price and hope that he is as good as he says. [W-2 (Min: Poor) / Go to paragraph <a href="1395.html#TaleHeader">1395</a>]</li>
+</ul>
+<p><span class="TaleSkill">WEAPON USE</span>: When bargaining with the other, you propose to test his skills against your own. After a brief passage at arms, you gain the advantage, and his pride is somewhat deflated. He adjusts his price accordingly. [D+1 / Go to paragraph <a href="1395.html#TaleHeader">1395</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

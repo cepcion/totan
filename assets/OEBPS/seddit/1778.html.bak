@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1777.html#TaleHeader">(1777) - QUICK THINKING</a><br/>
+<br/>
+<a href="1779.html#TaleHeader">(1779) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1778</p>
+<p class="TaleDestiny">(1778) - ENVIOUS (M), STEALTH AND STEALING (M)</p>
+<p>You come across an empty palace with exactly one hundred rooms. You search room after room, looking for any sign of the inhabitants, but find none. Entering the last room, you find the long-dead remains of the wealthy Sultan who once owned the palace.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You recognize that all wealth is fleeting and of no value once you are dead. Thanking Allah for providing you with such a fine lesson, you continue on your way. [S+1 / Piety]</p>
+<p><span class="TaleSkill">ENVIOUS, STEALTH AND STEALING  (All mandatory)</span>: Seeing as the previous owner has no use for the valuables left here, you decide to help yourself to a few choice items. You say a quick prayer of thanks for this discovery, but you come to learn that there was a reason no one had stolen anything from this palatial mausoleum. [S+1 / W+2  (Max: Rich) / <span class="TaleStatus">Accursed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

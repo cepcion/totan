@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1499.html#TaleHeader">(1499) - WEAPON USE</a><br/>
+<br/>
+<a href="1501.html#TaleHeader">(1501) - ENDURING HARDSHIP, ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1500</p>
+<p class="TaleDestiny">(1500) - None</p>
+<p>&ldquo;I wish to grant your request,&rdquo; says the other, &ldquo;but I must undertake a holy pilgrimage and require a companion. Will you accompany me?&rdquo;</p>
+<p class="TaleChoicePrompt">You may accept his offer or decline:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you decline</span>: The other departs, leaving you in your prison. [D+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you accept</span>: You accept the offer, and the two of you head on to Mecca. [D+1 / <span class="TaleStatus">On Pilgrimage</span> / Lose <span class="TaleStatus">Imprisoned</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

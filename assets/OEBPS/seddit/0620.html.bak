@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0619.html#TaleHeader">(619) - STORYTELLING</a><br/>
+<br/>
+<a href="0621.html#TaleHeader">(621) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">620</p>
+<p class="TaleDestiny">(620) - WILDERNESS LORE, SEAMANSHIP, SCHOLARSHIP</p>
+<p>You think that you were questioning someone, but now you find yourself confused&mdash;not aware of your surroundings. You review your approach to this point, trying to remember where you got lost.</p>
+<p><span class="TaleSkill">NO SKILL</span>: When you are confident of your direction, you set out. [D+1 / Lose <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE, SEAMANSHIP, SCHOLARSHIP</span>: You wait until night and navigate by the stars, and soon you are again in lands you recognize.
+[D+2 / Lose <span class="TaleStatus">Lost</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

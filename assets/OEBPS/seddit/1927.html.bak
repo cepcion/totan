@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1926.html#TaleHeader">(1926) - LUCK</a><br/>
+<br/>
+<a href="1928.html#TaleHeader">(1928) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1927</p>
+<p class="TaleDestiny">(1927) - SEDUCTION  (M), SCHOLARSHIP</p>
+<p>You notice a mysterious glimmer in the eye of the other as you hand him a few coins. There may be more to this one than you first thought.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You shrug off your intuition and continue on your way. Only later do you discover that you gave him your purse, and you don&rsquo;t remember why. [D+1 / W-2 (Min: Penniless)]</p>
+<p><span class="TaleSkill">SEDUCTION  (mandatory):</span> You find yourself strangely attracted to the other, though you cannot be sure why. You return to visit him later in the day, hoping to find yourself drawn into a torrid affair. When your senses return, you discover that he has cast a charm upon you! [D-1 / S+2 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: This must be some kind of magician in disguise! You quickly avert your gaze before he can charm you with his magic. [D+1 / S+1 / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

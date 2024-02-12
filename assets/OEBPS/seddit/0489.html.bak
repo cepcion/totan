@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0488.html#TaleHeader">(488) - SCHOLARSHIP, COURTLY GRACES</a><br/>
+<br/>
+<a href="0490.html#TaleHeader">(490) - STEALTH AND STEALING, BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">489</p>
+<p class="TaleDestiny">(489) - SEDUCTION, STORYTELLING</p>
+<p>You easily take the other&rsquo;s purse. Weeping, he begs you to return it, as he needs that money to woo a lover.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You laugh at this feeble excuse and count the small wealth you have gained. [D-1 / S+1 / W+1 (Max: Respectable)]</p>
+<p><span class="TaleSkill">SEDUCTION, STORYTELLING</span>: Your soul is stirred by the other&rsquo;s tale, and you return his purse and offer to help him. It seems his project is hopeless, though, for he is exceedingly ugly.</p>
+<p class="TaleRoll2D">Roll one die, adding one for <span class="TaleRoll2DSkill">Appearance</span>:</p>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: You do your best, but the other&rsquo;s suit fails. But what a tale! [D+1 / S+2 / Storytelling]</li>
+<li class="TaleDieRollResult">4+: You succeed!</li>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are not Married</span>: Passion, like a plague, spreads from mouth to mouth, and you have spent too long in the company of the other&mdash;for you have fallen for a beauteous youth who is the lover&rsquo;s best friend! You do not cease from assisting the other, but press your court on his friend most ardently. [D+2 / S+2 / <span class="TaleStatus">Love Struck</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are Married</span>: You know some tricks of beauty, and teach them to the other. With your determined assistance, he presses his suit, and to your amazement, his love is returned in kind! He blesses you for your aid, and you go on your way knowing you have done a great deed. [D+2 / S+2 / <span class="TaleStatus">Blessed</span>]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

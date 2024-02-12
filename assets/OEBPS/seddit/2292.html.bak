@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2291.html#TaleHeader">(2291) - SEDUCTION, BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="2293.html#TaleHeader">(2293) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2292</p>
+<p class="TaleDestiny">(2292) - LUCK</p>
+<p>The other is delighted by your generous offer. He invites you to his home for the evening meal.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You enjoy a wondrous evening in his home. Your host welcomes you to explore the fine collection of art and literature in his stewardship. You find a number of intriguing volumes, and your host makes of them a fine gift. [D+1 / Scholarship / Treasure]</p>
+<p><span class="TaleSkill">LUCK</span>: The other introduces you to his wife, and you realize that she is your cousin! You never hoped to see her again. You happily tell each other your tales and journeys and as you are a relation, the other is pleased to share with you his wisdom from his many journeys. [D+2 / Wilderness Lore / <span class="TaleStatus">Fated</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

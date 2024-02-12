@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1485.html#TaleHeader">(1485) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1487.html#TaleHeader">(1487) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1486</p>
+<p class="TaleDestiny">(1486) - QUICK THINKING</p>
+<p>The other looks astounded by your audacity as you draw your weapon to attack. &ldquo;Guards!&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: The other&rsquo;s well-paid and experienced personal guards move in swiftly. Within moments you are at their mercy, bruised and beaten. The other looks upon you contemptuously. &ldquo;Today you live and I hope you have learned your lesson. Guards, take this would-be robber&rsquo;s purse as payment.&rdquo; You are left coinless and wounded. [D+1 / W-1 (Min: Penniless) / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: Realizing you have bitten off more than you can chew, you flee like the wind. You manage to lose the pursuing guards, and live to another day. The other reports your assault to the authorities. [D+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

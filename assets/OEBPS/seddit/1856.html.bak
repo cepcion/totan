@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1855.html#TaleHeader">(1855) - None</a><br/>
+<br/>
+<a href="1857.html#TaleHeader">(1857) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1856</p>
+<p class="TaleDestiny">(1856) - None</p>
+<p>The other cries to the heavens and attacks you as you speak.</p>
+<p class="TaleChoicePrompt">You may flee or stand your ground:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you flee</span>: The other&rsquo;s attack hurts you, but you escape, knowing that you will see him again. [D+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Pursued</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you stand your ground</span>: You kneel on the ground and offer a prayer to Allah. The conviction in your voice is such that the other wavers, then soon joins you. [D+2 / Piety]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

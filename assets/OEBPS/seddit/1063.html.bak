@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1062.html#TaleHeader">(1062) - SEAMANSHIP, COURTLY GRACES, SCHOLARSHIP</a><br/>
+<br/>
+<a href="1064.html#TaleHeader">(1064) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1063</p>
+<p class="TaleDestiny">(1063) - BEGUILING  (M), QUICK THINKING</p>
+<p>Your present course will carry you into unknown waters. The captain refuses to sail further.</p>
+<p><span class="TaleSkill">NO SKILL, BEGUILING  (mandatory):</span> Your attempts at persuasion are futile. Even brandishing your sword does not help, and the captain besmirches your reputation. [D+1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: You bet the captain that he is not skilled enough to bring you through. He takes your bet, sails on, and is successful. You lose the bet, but get where you need to be. [D+1 / W-1 (Min: Respectable) / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

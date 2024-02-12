@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1557.html#TaleHeader">(1557) - None</a><br/>
+<br/>
+<a href="1559.html#TaleHeader">(1559) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1558</p>
+<p class="TaleDestiny">(1558) - BARGAINING AND EVALUATION, WEALTH: PENNILESS or less (M)</p>
+<p>The other is willing to free you, but his price is high.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Despite your clever maneuverings, you must pay full price or remain in prison. [W-2 (Min: Beggar) / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You are able to talk him down to a price that does not significantly affect your pocketbook. [D+1 / S+1 / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">WEALTH: PENNILESS or less (mandatory):</span> You cannot meet his price, and remain where you are. [D+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0926.html#TaleHeader">(926) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="0928.html#TaleHeader">(928) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">927</p>
+<p class="TaleDestiny">(927) - WILDERNESS LORE, GOLDEN BRIDLE</p>
+<p>A pride of lions is hidden in the vicinity. The prince is concerned that they are starving and directs you to bring food to them, that such magnificent beasts might not suffer, nor prey upon the cattle of the fields.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The lions will not eat the meat you bring, and slowly die out. The prince is furious at your failure, and denounces you. [D+1 / <span class="TaleStatus">Scorned</span> (1 turn)]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: Knowing that lions will only eat freshly killed meat, you instruct the prince to tie out old horses for the animals&rsquo; consumption. The pride thrives, and the prince hails you as a friend to man and beast.
+[D+2 / S+1 / Wisdom / <span class="TaleStatus">Blessed</span>]</p>
+<p><span class="TaleSkill">GOLDEN BRIDLE</span>: The Golden Bridle allows you to command the eldest lion of the pride to come and eat the food that the prince provides. The lions soon learn the joy of domestication, and they thrive. [D+2 / S+1 / Wisdom / <span class="TaleStatus">Blessed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

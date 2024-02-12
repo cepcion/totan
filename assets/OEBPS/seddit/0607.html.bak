@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0606.html#TaleHeader">(606) - WEAPON USE, STEALTH AND STEALING</a><br/>
+<br/>
+<a href="0608.html#TaleHeader">(608) - SCHOLARSHIP, WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">607</p>
+<p class="TaleDestiny">(607) - PIETY</p>
+<p>You lower yourself to the ground. Clasping your hands, you pray fervently for deliverance. Time passes. Darkness falls.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Though your voice grows hoarse, you pray throughout the night. In the morning you are weak from hunger and thirst. [D+1 / S+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: As you pray, a variously-hued snake slithers by. Is it a sign from Allah? You follow it.</p>
+<p class="TaleRoll2D">Roll one die, adding one for <span class="TaleRoll2DSkill">Piety</span>:</p>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: [Go to paragraph <a href="0762.html#TaleHeader">762</a>]</li>
+<li class="TaleDieRollResult">4+: [Go to paragraph <a href="0610.html#TaleHeader">610</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

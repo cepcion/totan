@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0627.html#TaleHeader">(627) - None</a><br/>
+<br/>
+<a href="0629.html#TaleHeader">(629) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">628</p>
+<p class="TaleDestiny">(628) - LUCK  (M)</p>
+<p>You plunge down the mountainside, offering fervent prayers of supplication to Allah as you are carried away by waves of dust and rubble.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Miraculously, when you reach bottom, you have survived unhurt. There is no strength or power save in Allah! [D+2 / S+2 / Piety]</p>
+<p><span class="TaleSkill">LUCK  (mandatory):</span> Deep in your heart you believe your own luck will serve you better than prayers. Thus, you are battered by many stones.
+[S+1 / Lose Piety / <span class="TaleStatus">Wounded</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1478.html#TaleHeader">(1478) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="1480.html#TaleHeader">(1480) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1479</p>
+<p class="TaleDestiny">(1479) - None</p>
+<p>You cry at the misery you have suffered, proclaiming that you were tricked and no boon was to be had. The other offers you another pick.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you choose to pick again: Roll two dice, adding three for <span class="TaleRoll2DSkill">Luck</span>:</li>
+<ul>
+<li class="TaleDieRollResult">2: The slip says, &ldquo;You cannot cheat an honest man.&rdquo; When you look up, the jinni is gone, along with everything you own. [D+1 / S+1 / Wisdom / W=Beggar]</li>
+<li class="TaleDieRollResult">3&ndash;7: &ldquo;Gift of 10 gold.&rdquo; [W+1 (Max: Respectable)]</li>
+<li class="TaleDieRollResult">8&ndash;10: &ldquo;Gift of 100 gold.&rdquo; [W+2 (Max: Rich)]</li>
+<li class="TaleDieRollResult">11: &ldquo;Gift of 1000 gold.&rdquo; [W+3 (Max: Princely)]</li>
+<li class="TaleDieRollResult">12+: &ldquo;A prince&rsquo;s ransom!&rdquo; [W+3 (Max: Princely) / Treasure]</li>
+</ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you choose not to pick again</span>: The jinni transports you to the nearest city. [S+1 / Move to the nearest city (if two are equidistant, you may choose either of them)]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

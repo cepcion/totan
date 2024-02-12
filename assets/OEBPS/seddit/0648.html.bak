@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0647.html#TaleHeader">(647) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="0649.html#TaleHeader">(649) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">648</p>
+<p class="TaleDestiny">(648) - BLESSED  (M)</p>
+<p>The waters are cool and refreshing. You rise from them feeling rejuvenated.</p>
+<p><span class="TaleSkill">NO SKILL</span>: [S+1 / Lose <span class="TaleStatus">Wounded</span> / Lose <span class="TaleStatus">Diseased</span> / Lose <span class="TaleStatus">Crippled</span> / Lose <span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">BLESSED  (mandatory):</span> These marvelous waters have magical powers! You drink deeply, and give thanks to the Most High for His benevolent miracles. [D+1 / S+1 / Enduring Hardship / Lose any statuses of your choice]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

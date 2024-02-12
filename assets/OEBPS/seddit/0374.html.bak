@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0373.html#TaleHeader">(373) - APPEARANCE</a><br/>
+<br/>
+<a href="0375.html#TaleHeader">(375) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">374</p>
+<p class="TaleDestiny">(374) - QUICK THINKING</p>
+<p>Your victim seems to be far away, and you glimpse treasure and strange artifacts among his possessions. However, the other comes upon you in the act.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your feeble explanation of your presence is transparent. You are brought before the Sultan, whose justice is harsh but fair&mdash;a whipping and imprisonment. You burn at the thought of the treasure you might have had. [D+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Imprisoned</span> / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: You improvise a marvelous story describing how you found a brass jar in a cave, just like the one in the other&rsquo;s treasure trove. When you picked it up and rubbed it, a great &rsquo;efreet appeared and cast a powerful spell, and you found yourself here in the other&rsquo;s chambers. Accustomed to such marvels, the other believes you and lets you go.
+[D+2 / S+2 / Storytelling]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

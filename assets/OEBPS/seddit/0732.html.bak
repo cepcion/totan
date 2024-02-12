@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0731.html#TaleHeader">(731) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="0733.html#TaleHeader">(733) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">732</p>
+<p class="TaleDestiny">(732) - DETERMINED (M), ENDURING HARDSHIP, WEAPON USE</p>
+<p>You find your path blocked by a bloom of fire. As you run for cover your ears are filled by a great cry of agony and despair.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your fear is too great&mdash;you dive into shelter and huddle, shivering in terror. The screams continue, and then finally fade into the distance, but their chilling cadences linger, chilling your soul. [D-1 / S+1 / <span class="TaleStatus">Grief Stricken</span> (1 turn)]</p>
+<p><span class="TaleSkill">DETERMINED (mandatory), ENDURING HARDSHIP, WEAPON USE</span>: At the cry, you rush back to rescue whoever is in trouble. It is a fair maiden, caught in the embrace of a fiery creature! You grab the maiden, drive off the demon, and run for your life.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are female or Married</span>: Praise Allah you acted with such speed, else she surely would have perished. She becomes your lifelong friend. [D+2 / S+1 / Quick Thinking]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: Praise Allah you acted with such speed, else she surely would have perished. She clings to your heroic frame and gazes at you with love. You gaze down on her lovely frame, perfectly formed from eyes to ankles, and pull her close. [D+1 / S+1 / Quick Thinking / <span class="TaleStatus">Beloved</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

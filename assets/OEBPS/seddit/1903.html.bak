@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1902.html#TaleHeader">(1902) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1904.html#TaleHeader">(1904) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1903</p>
+<p class="TaleDestiny">(1903) - SEDUCTION, BARGAINING AND EVALUATION</p>
+<p>&ldquo;What use have I for such petty baubles!&rdquo; The other mocks your offered gift.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You are embarrassed by the other&rsquo;s rejection, and meekly make your way out of town. [D+1 / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">SEDUCTION</span>: &ldquo;Perhaps I can interest you in a different kind of bauble.&rdquo; The other finds your offer far more tempting and agreeable. [S+1 / <span class="TaleStatus">Beloved</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: &ldquo;Clearly, esteemed one, you have not fully examined these items, for if you had you would see&hellip;&rdquo; With your skill of salesmanship, you convince the other that your gifts are of great value. The other grants you gifts of actual worth in exchange. [D+1 / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2333.html#TaleHeader">(2333) - WEAPON USE</a><br/>
+<br/>
+<a href="2335.html#TaleHeader">(2335) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2334</p>
+<p class="TaleDestiny">(2334) - None</p>
+<p>You have come to a town where the people practice layer upon layer of ritual. Before you can enter, you are asked to do many strange things. After half a day of questions and songs and recitations, finally, you are asked to remove your clothes and be bathed in a nearby shallow pool.</p>
+<p class="TaleChoicePrompt">You may change your mind or continue:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you change your mind</span>: You&rsquo;ve done what they have asked up until this point but you feel this last custom is ridiculous&mdash;all this just to enter a small village. Only so much will you endure before you walk away. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you continue</span>: You have done other things they have required of you and while this last one seems unreasonable, you do not wish to insult them. You agree, but before you remove any clothing, the villagers shout, &ldquo;Thank Allah!&rdquo; and suddenly the village and its people are transformed into a city and people of splendor. You are told that they were under a curse: they were required to have a stranger agree to following all their ridiculous customs in order to free themselves of this enchantment. They reward you handsomely for your perseverance. [D+2 / S+1 / W+2 (Max: Princely) / Enduring Hardship / <span class="TaleStatus">Blessed</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

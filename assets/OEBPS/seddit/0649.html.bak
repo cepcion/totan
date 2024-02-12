@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0648.html#TaleHeader">(648) - BLESSED</a><br/>
+<br/>
+<a href="0650.html#TaleHeader">(650) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">649</p>
+<p class="TaleDestiny">(649) - WILDERNESS LORE</p>
+<p>You cautiously sniff the water before drinking, and it has a bitter, oily smell.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Afraid of poisoning, you do not drink. When you tell others of the poison river, they laugh at your cowardice. [D-1 / S+1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: From your travels, you recognize this odor as harmless minerals, and do not hesitate to drink your fill. You collect a few bottles to sell as &ldquo;health elixir&rdquo;. [D+1 / W+1 (Max: Respectable) / Lose <span class="TaleStatus">Wounded</span> / Lose <span class="TaleStatus">Diseased</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

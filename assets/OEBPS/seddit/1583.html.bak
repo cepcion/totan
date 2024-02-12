@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+<a name="TaleHeader"></a><p class="TaleHeader">1583</p>
+<p class="TaleDestiny">(1583) - SCHOLARSHIP</p>
+<p>You drift on an empty barrel for many days before you finally come to a distant island.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You have no idea where you are. [<span class="TaleStatus">Lost</span> / Have another player move you to any island space]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You recognize this from traveler&rsquo;s tales as the land of the Druids, and set out to find their temple. [Move to <a href="0174.html#TaleHeader">Stonehenge</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

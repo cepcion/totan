@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1020.html#TaleHeader">(1020) - APPEARANCE</a><br/>
+<br/>
+<a href="1022.html#TaleHeader">(1022) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1021</p>
+<p class="TaleDestiny">(1021) - WISDOM</p>
+<p>By chance, you meet with a Vizier and give him the respect due his office. In turn, he asks your help to catch a notorious criminal. He proposes to bait a trap for him by executing his sister. You wonder about the morals of man who proposes such a scheme and consider walking away&hellip;</p>
+<p class="TaleChoicePrompt">You may agree to the plan or refuse:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you agree</span>: Despite your misgivings, you agree to assist with the plan. [Go to paragraph <a href="1022.html#TaleHeader">1022</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse</span>:</li>
+<ul clas="SubTaleChoice">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: You refuse to slay a Muslimeh under any circumstances. The Vizier is furious and casts you into the dungeon. [D+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+<li><span class="TaleSkill">WISDOM</span>: You understand that the Vizier is an evil man who will not accept your refusal. You pretend to go along with the plot, but escape at the earliest opportunity to warn the &ldquo;criminal.&rdquo; You both make your escape from this place, and the woman is spared. [D+1 / Piety]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

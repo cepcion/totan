@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1732.html#TaleHeader">(1732) - COURTLY GRACES</a><br/>
+<br/>
+<a href="1734.html#TaleHeader">(1734) - WILDERNESS LORE, STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1733</p>
+<p class="TaleDestiny">(1733) - BARGAINING AND EVALUATION  (M)</p>
+<p>To your amazement, the Chieftain of the apes can speak!</p>
+<p><span class="TaleSkill">NO SKILL</span>: The ape chief is impressed by your bravery and willingness to negotiate on behalf of the villagers. He offers you a choice: Return to his mountain home and entertain him with tales of your homeland, or suffer the same fate as the villagers.</p>
+<p class="TaleChoicePrompt">Do you agree or refuse?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you agree</span>: You are forced to spend weeks telling tales and amusing the ape chief. [D+1 / Storytelling / <span class="TaleStatus">Imprisoned</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse</span>: You are beaten and robbed by the ape chief&rsquo;s mate. [S+1 / W-2 (Min: Penniless)]</li>
+</ul>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION  (mandatory):</span> Though you are unable to convince the ape chief to stop attacking the villages, he is amused by your efforts and allows you to go free. [S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

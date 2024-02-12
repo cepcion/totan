@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1707.html#TaleHeader">(1707) - COURTLY GRACES</a><br/>
+<br/>
+<a href="1709.html#TaleHeader">(1709) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1708</p>
+<p class="TaleDestiny">(1708) - APPEARANCE</p>
+<p>Late at night, you stand alone on the deck when the water begins to churn and bubble beneath the ship. Nearly in a panic, you turn to and fro hoping to see some way to escape from whatever is rising from the deeps. Without warning, a gigantic dendan appears, its massive jaws ripping the ship apart. Your screams are drowned out by the sound of smashing timbers as you and most of the ship are swallowed whole! You find yourself deep in the bowels of the fish, but you are not alone! A wealthy merchant and his attractive daughter share your fate.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You have no sense of time whilst resting in the dark and dismal entrails of the fish. Apparently, however, you were not to the fish&rsquo;s liking, as with a mighty heaving, you are deposited on some distant soil. But you learn many interesting tales from your fellow passengers before the fish is done with you. [S+1 / Storytelling / Have another player move you to any coastal space]</p>
+<p><span class="TaleSkill">APPEARANCE</span>: You spend many days in the great beast&rsquo;s gullet.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are not Married</span>: Your princely looks and cultured style quickly attract the attention of your fellow travelers, and you enjoy their company for many long hours. Over the many days you are trapped there, you grow close, then closer. Finally, the fish grows weary of carrying you along, expelling you on some distant shore. [D+1 / S+1 / <span class="TaleStatus">Beloved</span> / Have another player move you to any coastal space]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are Married</span>: When the dendan finally deposits you on some unknown shore, your newfound friends are delighted to help you on your way. [D+1 / S+1 / W+1 (Max: Rich) / <span class="TaleStatus">Lost</span> / Have another player move you to any coastal space]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

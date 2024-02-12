@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2304.html#TaleHeader">(2304) - WEAPON USE , SEAMANSHIP</a><br/>
+<br/>
+<a href="2306.html#TaleHeader">(2306) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2305</p>
+<p class="TaleDestiny">(2305) - SEAMANSHIP</p>
+<p>You choose to take a voyage and meet the other aboard. You soon decide that the other is an infidel and must be dealt with. Unfortunately the other has many followers aboard and you are easily subdued and tossed over.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You wash up on shore, unsure of who you are. [D+1 / W-2 (Min: Penniless) / <span class="TaleStatus">Insane</span> / <span class="TaleStatus">Wounded</span> / Have another player move you to any coastal space]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: You are deft enough at swimming that you can reach the dinghy dragged by the ship. You cut the tether and row to the shore.
+[S+1 / Luck / Have another player move you to any coastal space]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

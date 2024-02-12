@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1152.html#TaleHeader">(1152) - WEAPON USE</a><br/>
+<br/>
+<a href="1154.html#TaleHeader">(1154) - APPEARANCE, SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1153</p>
+<p class="TaleDestiny">(1153) - BARGAINING AND EVALUATION</p>
+<p>You intended to rob the wicked Vizier Kafour, but his gates are well locked and guarded. Now, a greasy thief offers to sell you a secret way into the vaults.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You agree, but his information leads through a trapdoor&mdash;into the arms of waiting guards! [D+1 / W-1 (Min: Poor) / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You refuse to pay until after the robbery. He decides to go with you and leads you through a trapdoor into a maze of corridors leading to the treasure vault! &ldquo;We have two minutes before the guard comes,&rdquo; he hisses. You stuff your pockets quickly and make good your escape. [D+2 / W+1 (Max: Rich)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2039.html#TaleHeader">(2039) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="2041.html#TaleHeader">(2041) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2040</p>
+<p class="TaleDestiny">(2040) - WEAPON USE</p>
+<p>Fishing to supplement your meager stores, you hook a small iron box. Eagerly opening it, you find a small sack of coins and a sparkling crystal amulet that pulses with an inner light.</p>
+<p class="TaleChoicePrompt">You may take the coins, the amulet, or both:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you take only the coins</span>: A wise man knows to leave the things of magic to themselves. [D+1 / W+1 (Max: Respectable) / Wisdom]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you take only the amulet, or both</span>: The coins are all well and good, but the real prize here is the amulet. With trembling fingers, you raise it over your head and drop it upon your neck and shoulders. A sudden crash sounds, and an angry jinni appears. &ldquo;You dare disturb my rest, mortal! You shall be punished.&rdquo;</li>
+<ul class="SubTaleSkill">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: The magical being seizes you and you both disappear in a puff of acrid smoke. [D+1 / <span class="TaleStatus">Ensorcelled</span>]</li>
+<li><span class="TaleSkill">WEAPON USE</span>: Although the jinni is more powerful than you in the magical arts, your prowess with the sword wins you the day. The entity grants you one wish. [D+1 / S+1 / <span class="TaleStatus">Blessed</span>]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

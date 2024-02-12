@@ -1,0 +1,35 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:title>Book of Tales - Tales of the Arabian Nights</dc:title>
+        <dc:date>2016-04</dc:date>
+        <dc:identifier opf:scheme="ISBN">TOTAN-BOT-1.0</dc:identifier>
+        <dc:creator opf:role="aut">Eric Goldberg</dc:creator>
+        <dc:publisher>Z-MAN Games</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:identifier id="BookID" opf:scheme="UUID">TOTAN-BOT-1.0</dc:identifier>
+        <meta content="cover.jpg" name="cover"/>
+    <description xmlns="http://purl.org/dc/elements/1.1/">This is the ebook version of the &ldquo;Book of Tales&rdquo; included with the 2009 version of the game <b>Tales of the Arabian Nights</b> published by Z-Man Games.</description>
+</metadata>
+    <manifest>
+        <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+        <item href="images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
+        <item href="css/epub.css" id="epub.css" media-type="text/css"/>
+        <item href="EncounterTables.html" id="EncounterTables" media-type="application/xhtml+xml"/>
+        <item href="ReactionMatrix-List.html" id="ReactionMatrix-List" media-type="application/xhtml+xml"/>
+        <item href="PlacesofPower.html" id="PlacesofPower" media-type="application/xhtml+xml"/>
+        <item href="TaleList.html" id="TaleList" media-type="application/xhtml+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="EncounterTables"/>
+        <itemref idref="ReactionMatrix-List"/>
+        <itemref idref="PlacesofPower"/>
+        <itemref idref="TaleList"/>
+    </spine>
+    <guide>
+        <reference href="cover.xhtml" title="Cover" type="cover"/>
+        <reference href="EncounterTables.html" title="Encounter Tables" type="text"/>
+        <reference href="ReactionMatrix-List.html" title="Reaction Matrix" type="text"/>
+        <reference href="PlacesofPower.html" title="Places of Power" type="text"/>
+        <reference href="TaleList.html" title="List of all Tales" type="text"/>
+    </guide>
+</package>

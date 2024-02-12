@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0248.html#TaleHeader">(248) - COURTLY GRACES</a><br/>
+<br/>
+<a href="0250.html#TaleHeader">(250) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">249</p>
+<p class="TaleDestiny">(249) - None</p>
+<p>To your amazement, the other is eager to speak to you. &ldquo;Come close and attend. I have heard a prophecy which concerns your future.&rdquo;</p>
+<p class="TaleRoll2D">Roll two dice, adding two each for <span class="TaleRoll2DSkill">Quick Thinking</span>, <span class="TaleRoll2DSkill">Wisdom</span>, and <span class="TaleRoll2DSkill">Fated</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: The prophecy is obscure, and the only meaning you take from it is that you are destined for a strange fate, though you cannot even say if it is kind or ill. [D+2 / <span class="TaleStatus">Fated</span>]</li>
+<li class="TaleDieRollResult">8+: &ldquo;Your fate is shrouded in mystery. Your destiny lies in a distant land of legend and wonder, where weal or woe hang in the balance of each action. If you but say the word, there you will be taken.&rdquo; [D+3 / S+1 / Opportunity to enter any <a href="PlacesofPower.html">Place of Power</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

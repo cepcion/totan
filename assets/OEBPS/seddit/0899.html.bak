@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0898.html#TaleHeader">(898) - WEAPON USE, QUICK THINKING</a><br/>
+<br/>
+<a href="0900.html#TaleHeader">(900) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">899</p>
+<p class="TaleDestiny">(899) - WILDERNESS LORE, GOLDEN BRIDLE</p>
+<p>You have come across a most interesting beast, and give it chase. However, it is fleet of foot, and you cannot keep up.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You follow onward, drawn forward by the faint sounds it makes at it races away from you. Finally, even the sounds disappear. You decide to stop the pursuit. [D+1]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: With craft, you track the creature to its lair. You approach carefully, but as you are about to seize it, it turns and leaps past you. You are stunned by the horror of its visage, and you faint. When you waken, it has disappeared; but where it stood you see a marvelous object. [D+1 / S+1 / <span class="TaleStatus">Insane</span> (1 turn) / Treasure]</p>
+<p><span class="TaleSkill">GOLDEN BRIDLE</span>: With the power of the Golden Bridle, you easily capture the creature. When you are better able to see it, you faint from its fearsome visage. When you wake, it has disappeared; but where it stood you see a marvelous object. [D+1 / S+1 / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

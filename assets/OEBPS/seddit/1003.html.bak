@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1002.html#TaleHeader">(1002) - WEAPON USE</a><br/>
+<br/>
+<a href="1004.html#TaleHeader">(1004) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1003</p>
+<p class="TaleDestiny">(1003) - ACTING AND DISGUISE, MARRIED  (M)</p>
+<p>You spend the night with a rich local merchant, but are dismayed to learn of an obscure custom&mdash;by accepting his hospitality, you are committed to marry his child! You have no wish to marry an infidel, but an armed slave is tasked to insure your cooperation.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Since you have no choice, you are married. [D+1 / Lose Seduction / <span class="TaleStatus">Married</span> / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: When you are alone that day, you make yourself look diseased. Appalled, the merchant gladly allows you to leave.
+[D+1 / S+1]</p>
+<p><span class="TaleSkill">MARRIED  (mandatory):</span> You explain that you are already married and cannot do as he asks. The merchant waxes greatly wroth at this, and casts you out of his house. Though you feel you have done no wrong, all the people of this land shun you for taking advantage of the merchant in this way. [D+1 / <span class="TaleStatus">Scorned</span> (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

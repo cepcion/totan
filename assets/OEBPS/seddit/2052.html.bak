@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2051.html#TaleHeader">(2051) - None</a><br/>
+<br/>
+<a href="2053.html#TaleHeader">(2053) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2052</p>
+<p class="TaleDestiny">(2052) - PIETY</p>
+<p>You spy the band of brigands standing in a semi-circle, an array of stones laid out before them. With a wooden stick in his hand, one of them slashes his own arm to bring forth blood. This he uses to draw elaborate patterns on the stones. You step forward and ask what this strange ritual is supposed to accomplish.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The gang responds to your intrusion by robbing you, beating you, and leaving you for dead. [S+2 / <span class="TaleStatus">Wounded</span> / Reduce your Wealth to Beggar, but gain D1 for each level lost in this way]</p>
+<p><span class="TaleSkill">PIETY</span>: Further, you implore the brigands to think of their faiths! Allah cannot look upon them kindly for using foul magics to plan their crimes! Surprisingly, a few of the brigands take your lesson and flee at once; with them gone, the remaining brigands see no choice but to disband. Allah be praised! [D+2 / S+1 / Luck]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

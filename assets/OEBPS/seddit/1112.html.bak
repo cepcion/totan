@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1111.html#TaleHeader">(1111) - None</a><br/>
+<br/>
+<a href="1113.html#TaleHeader">(1113) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1112</p>
+<p class="TaleDestiny">(1112) - None</p>
+<p>The walls of this place are shaped and inscribed with precision and artistry. The features are so crisp they might have been carved yesterday, but the dunes heaped at the gate indicate none have passed this way in years.</p>
+<p class="TaleChoicePrompt">You may pass on or enter the city:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you pass on</span>: You decide that any city which has been deserted so long must be deserted for a reason, and move on. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you enter the city</span>: [Go to paragraph <a href="1128.html#TaleHeader">1128</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

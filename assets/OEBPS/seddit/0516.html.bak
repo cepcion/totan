@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0515.html#TaleHeader">(515) - None</a><br/>
+<br/>
+<a href="0517.html#TaleHeader">(517) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">516</p>
+<p class="TaleDestiny">(516) - SCHOLARSHIP</p>
+<p>The other is acting very strangely, and calls out wildly as you pass.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You hurry on, resolved to have nothing to do with him. [S+1]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You are struck by his bizarre words and pause to investigate. The other touches your face, and you feel faint and woozy.
+[D+1 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

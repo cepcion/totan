@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1933.html#TaleHeader">(1933) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1935.html#TaleHeader">(1935) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1934</p>
+<p class="TaleDestiny">(1934) - WISDOM</p>
+<p>You encounter the other weeping by the roadside. You offer to share some of your wealth to aid with his troubles, but he spurns your offers! &ldquo;It is my heart that makes me weep, not my purse!&rdquo; </p>
+<p><span class="TaleSkill">NO SKILL</span>: The other cannot be consoled by your words. The harder you try to help, the stronger his refusals become. Finally, he bellows a curse at you and departs. [D-1 / S+1 / <span class="TaleStatus">Accursed</span>]</p>
+<p><span class="TaleSkill">WISDOM</span>: You know that it is the soul of folly to meddle in affairs of the heart. You wish the other well and continue your journey. [D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

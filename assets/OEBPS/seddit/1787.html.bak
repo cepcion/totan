@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1786.html#TaleHeader">(1786) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="1788.html#TaleHeader">(1788) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1787</p>
+<p class="TaleDestiny">(1787) - None</p>
+<p>Who would have believed that a palace could be so large or complex? You are lost in the Palace of 100 Closets, and cannot find your way out. You have tried calling for your host, but the only answer is the echoes. You round a corner and you find a small impish-looking fellow seated on a divan. He looks up at you and says, &ldquo;Lost?&rdquo; You nod, and he points across the way to a door locked by a golden padlock. Surely this is the hundredth room, the very same you promised your host you would not enter!</p>
+<p class="TaleChoicePrompt">Do you take the advice of the imp and open the forbidden door?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: As soon as you open the door, the entire palace vanishes and you find yourself standing in the midst of a barren plateau. [S+1 / Have another player move you exactly three spaces in any direction]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: The imp&rsquo;s grin grows many times its previous size, then the rest of him grows into the form of your host! You have passed his test of honesty! [D+1 / S+1 / <span class="TaleStatus">Respected</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

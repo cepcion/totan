@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1923.html#TaleHeader">(1923) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1925.html#TaleHeader">(1925) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1924</p>
+<p class="TaleDestiny">(1924) - WILDERNESS LORE, ENDURING HARDSHIP, BARGAINING AND EVALUATION</p>
+<p>With a heavy heart, you do what must be done. This sorrowful wretch will never learn except at the end of a sound beating.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The anguished cries of the other are more than you can bear. You leave the beating half-done to wallow in your own sorrows. [S+1 / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE, ENDURING HARDSHIP</span>: Nature teaches a hard lesson, and you must be willing to do the same. Despite the pleas from the other, you deliver the well-deserved beating with as much mercy as nature allows. [D+1 / <span class="TaleStatus">Determined</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You just can&rsquo;t bring yourself to do it. You have no choice but to hire a hunchback to finish the beating for you. To your disgust, the hunchback enjoys the task, so you find that you need to teach him a lesson as well. [D+1 / S+1 / Wisdom]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

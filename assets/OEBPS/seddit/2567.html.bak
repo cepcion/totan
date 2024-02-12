@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2566.html#TaleHeader">(2566) - None</a><br/>
+<br/>
+<a href="2568.html#TaleHeader">(2568) - LUCK, WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2567</p>
+<p class="TaleDestiny">(2567) - SEAMANSHIP</p>
+<p>You are approached by a well-dressed man who boldly sits next to you and tells you a tale of a treasure stolen from him by pirates. Indeed it is a sad tale, but your mind turns to the other treasures these pirates might possess. You ask the man to draw you a map of the last-known location of the pirates, and you pay him handsomely for it. When you return home with the map and begin plans for your voyage, you find the markings nearly incomprehensible.</p>
+<p><span class="TaleSkill">NO SKILL</span>: After a month of struggling to make sense of the information a on the map, you realize you have wasted your time&mdash;and money!
+[S+1 / W-1 (Min: Poor)]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: Your knowledge of the seas allows you to decipher the oddly scrawled map and fills in some information that was intentionally left out to cheat you. When you arrive at the location indicated, the pirates are gone, but their booty remains for the taking. [D+2 / S+1 / W+2
+(Max: Princely) / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

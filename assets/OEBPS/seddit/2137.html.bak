@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2136.html#TaleHeader">(2136) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="2138.html#TaleHeader">(2138) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2137</p>
+<p class="TaleDestiny">(2137) - COURTLY GRACES</p>
+<p>You have found a ruined city in the desert. It is a fascinating place with great pillars and massive chambers inscribed with esoteric symbols and artifacts aplenty. No doubt great knowledge can be found there, but it would require a veritable army of sages to dig it out. Perhaps the Vizier will hear you out and devote the resources to such an endeavor.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your rough manner undermines your cause. The Vizier will not even meet with you, much less act as you request. [S+1]</p>
+<p><span class="TaleSkill">COURTLY GRACES</span>: By observing the proper etiquette and conveying the necessary gifts, you move from one functionary to another, describing your find in wondrous terms. At last, you dine with the Vizier, who is enraptured by your descriptions and impassioned by your thirst for knowledge. He agrees to fund an expedition to the ruins, and he places you in command. [D+1 / S+1 / Scholarship]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

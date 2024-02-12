@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2167.html#TaleHeader">(2167) - None</a><br/>
+<br/>
+<a href="2169.html#TaleHeader">(2169) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2168</p>
+<p class="TaleDestiny">(2168) - None</p>
+<p>The ominous storm clouds approach. Oddly, nary can a thunderclap be heard, nor can a flash of lightning be seen. The rain lasts for but a few short minutes. As the sun shines on the ship&rsquo;s deck, the rain droplets begin to shine with great intensity and seem to solidify rather than evaporate.</p>
+<p class="TaleChoicePrompt">Do you pick one up?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: They disappear in an instant. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: It is a gift from Allah! These are no mere raindrops, but indeed are magical gemstones! [D+2 / S+1 / Ionian Gems]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

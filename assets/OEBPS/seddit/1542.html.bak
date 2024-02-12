@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1541.html#TaleHeader">(1541) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="1543.html#TaleHeader">(1543) - BEGUILING, BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1542</p>
+<p class="TaleDestiny">(1542) - QUICK THINKING</p>
+<p>&ldquo;Heh, if it&rsquo;s tales yer interested in&hellip; Well, I&rsquo;ve those aplenty. Why, I recalls&hellip;&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: The ramblings are fabulous and imaginative, but not illuminating. [S+1 / Storytelling]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: Without realizing it, he tells you of the means to escape. When he is gone, you free yourself and depart. [D+2 / S+1 / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

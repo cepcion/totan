@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1411.html#TaleHeader">(1411) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="1413.html#TaleHeader">(1413) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1412</p>
+<p class="TaleDestiny">(1412) - SCHOLARSHIP</p>
+<p>The other seeks to trick you into surrendering your wealth to him. You feed on his ego about his intelligence to make a wager: If you can come up with a riddle he cannot solve, he will give you his wealth and leave. Otherwise, you will hand over yours.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your best attempts to construct a difficult riddle are easily answered, and you are forced to concede the wager. [W-1 (Min: Beggar) / Scholarship]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: By crafting an unanswerable question, you easily defeat the other. While he may be crafty, he is still a man of his word. [S+1 / W+1
+(Max: Princely)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

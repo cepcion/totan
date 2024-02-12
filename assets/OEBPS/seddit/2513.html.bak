@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2512.html#TaleHeader">(2512) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="2514.html#TaleHeader">(2514) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2513</p>
+<p class="TaleDestiny">(2513) - BEGUILING</p>
+<p>Jailed unjustly, you are finally released. As you depart, you pass a particularly dank and smelly cell. A shape huddled in the darkness crawls forward, squinting into the light. &ldquo;I beg you. Pay for my freedom, and I will reward you with a treasure map.&rdquo; The guards push you along, saying, &ldquo;Ignore that poisoning hussy.&rdquo; You cannot forget the other&rsquo;s words, however: You must get your hands on that map.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You return to the jail and claim that a prisoner stole a map from you. You point to the other as the culprit. The guards search but find nothing. The maiden cackles at your frustration. [D+1 / <span class="TaleStatus">Envious</span>]</p>
+<p><span class="TaleSkill">BEGUILING</span>: You sneak into the jail, bribing the guards to let you pass. Outside the maiden&rsquo;s cell, you whisper heart-felt promises that you will return once you have the money. In the process, you trick her into revealing the map&rsquo;s hiding place. You retrieve it and find the treasure. You travel on, putting your promise to the woman out of your mind. [D+1 / W+2 (Max: Rich)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

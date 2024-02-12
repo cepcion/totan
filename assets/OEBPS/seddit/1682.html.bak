@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1681.html#TaleHeader">(1681) - STORYTELLING</a><br/>
+<br/>
+<a href="1683.html#TaleHeader">(1683) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1682</p>
+<p class="TaleDestiny">(1682) - BARGAINING AND EVALUATION</p>
+<p>The other hangs bound from pillars in a ruined temple to an ancient, false god. Clearly, whatever cruel master has done this wanted the other to suffer. He struggles upon seeing you, gesturing wildly to set him free. You say that you will cut him down, but he must reward you. The other nods his head in agreement.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You cut the chains holding him. As the shackles fall a thousand voices call out from all around, &ldquo;Who was bound here, was accursed for great crimes. Now you have taken the curse upon yourself!&rdquo;
+[D-1 / S+1 / <span class="TaleStatus">Accursed</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You realize from the other&rsquo;s silence that here are chains invisible as well as visible. Such a great power is not to be tampered with. You turn your attention away from the creature and discover scattered around the ruins of the temple several large gems. Far better this reward than to meddle in forces beyond your ken.
+[D+1 / W+2 (Max: Rich) / Wisdom]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

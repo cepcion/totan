@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1136.html#TaleHeader">(1136) - WEAPON USE, APPEARANCE</a><br/>
+<br/>
+<a href="1138.html#TaleHeader">(1138) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1137</p>
+<p class="TaleDestiny">(1137) - STEALTH AND STEALING, ONE HUNDRED KEYS</p>
+<p>In the floor of the other&rsquo;s hovel you find a jeweled trapdoor beneath dusty floorboards. It is locked.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The lock is beyond your ability to open. Sighing with longing, you leave. [S+1]</p>
+<p><span class="TaleSkill">STEALTH AND STEALING, ONE HUNDRED KEYS</span>: You easily slip the lock and struggle along interminable passages in the dark. At last you come to an open space. You light a torch and behold a room full of treasure!
+[D+2 / S+1 / W+2 (Max: Princely) / <span class="TaleStatus">Determined</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

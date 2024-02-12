@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2514.html#TaleHeader">(2514) - None</a><br/>
+<br/>
+<a href="2516.html#TaleHeader">(2516) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2515</p>
+<p class="TaleDestiny">(2515) - None</p>
+<p>Wounded by a group of bandits, you escaped into the wilderness. Stumbling into a town, you desperately seek a healeit. You are told that the local herbalist might be able to help you, but she has been imprisoned by the magistrate for failing to cure a noble&rsquo;s impotence. You set off from the healer&rsquo;s home, intending to take what you need to survive.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Enduring Hardship</span>, <span class="TaleRoll2DSkill">Stealth and Stealing</span>, and <span class="TaleRoll2DSkill">Wilderness Lore</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;5: Caught! Guards watch the herbalist&rsquo;s home. You join the good doctor in jail, where, thankfully, she does tend to your wounds. [S+1 / <span class="TaleStatus">Imprisoned</span> / Lose <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleDieRollResult">6&ndash;10: Surprise! At the healer&rsquo;s home, you find not only the medicines you need, but also a silver vial filled with a strange purple balm. Believing it to be a magical salve, you rub it onto your body in the hopes of an instant cure. Indeed, you are cured by the unguent. You are also turned to the opposite sex. This reminds you that those versed in the arts of healing often are versed in the arts of magic as well. [D+1 / <span class="TaleStatus">Sex-Changed</span> / Lose <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleDieRollResult">11+: Success! You steal away into the night with salves and medicines. You also take a golden vial filled with a strange yellow powder with you. Experimenting with the herbs and lotions, you quickly heal your wounds and find that you have happened upon a wondrous item. [D+1 / Wilderness Lore / Lose <span class="TaleStatus">Wounded</span> / Yellow Kohl]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

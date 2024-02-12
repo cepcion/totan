@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2504.html#TaleHeader">(2504) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="2506.html#TaleHeader">(2506) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2505</p>
+<p class="TaleDestiny">(2505) - SCHOLARSHIP</p>
+<p>A messenger comes from a far-off village asking you to visit a great merchant there to discuss a business proposition: the merchant has had difficulty securing a tutor for his son, and would like you to serve in that capacity. You travel to the village to accept the task, although you protest that another would be better suited.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Sadly, your humble assessment was correct. In a short time, you are dismissed from service. [S+1]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: The boy proves to be a good student and you a wise teacher. The merchant is greatly pleased. Better yet, the merchant&rsquo;s library turns out to be extraordinary and you are given the run of it. [D+1 / S+1 / Scholarship / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

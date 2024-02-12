@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1080.html#TaleHeader">(1080) - ENDURING HARDSHIP, WEAPON USE</a><br/>
+<br/>
+<a href="1082.html#TaleHeader">(1082) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1081</p>
+<p class="TaleDestiny">(1081) - QUICK THINKING</p>
+<p>In a small courtyard, you spy a splendid ebony horse. The master of the estate (an elderly sage) mounts the statue&mdash;and it rises into the air! Your heart is filled with greed.</p>
+<p class="TaleChoicePrompt">You may attempt to steal the statue yourself or seek assistance:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you seek assistance</span>: [Go to paragraph <a href="1082">1082</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you decide to steal the statue yourself</span>:</li>
+<ul class="SubTaleSkill">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: You sneak into the courtyard and mount the statue. Suddenly, it flies up, and you find it impossible to control. Finally, the horse drops to earth. [D+1 / S+1 / Have another player move you to any space except a Place of Power]</li>
+<li><span class="TaleSkill">QUICK THINKING</span>: You are very cautious when you mount the statue and quickly learn the guiding principles. Soon the marvelous device is yours! [D+2 / S+1 / Ebony Horse]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

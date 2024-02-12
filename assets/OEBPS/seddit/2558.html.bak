@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2557.html#TaleHeader">(2557) - BEGUILING, COURTLY GRACES, SCHOLARSHIP</a><br/>
+<br/>
+<a href="2559.html#TaleHeader">(2559) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2558</p>
+<p class="TaleDestiny">(2558) - ACCURSED  (M), WEAPON USE, MAGIC</p>
+<p>You have come up with a scheme to make the object of your affections return your love: you will feign a duel with a renowned soldier who is passing through town, thus making yourself look heroic. You approach the other, but he wants no part of your plan. Infuriated, you slip a little benj in his drink and, when he starts to fade, you pick him up and lead him to the town square. You whisper, &ldquo;Make it look good and there&rsquo;s double the coin in it for you.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL, ACCURSED  (mandatory):</span> Even drugged, the other is far your superior: With but a single blow, he sends you reeling across the town square. He turns on his heel and staggers off, leaving you in shame. [S+1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">WEAPON USE, MAGIC</span>: The other leaps to the attack, and you are hard-pressed to keep up. If you had not drugged him, he probably would have defeated you! In the end, you knock him to the ground. There can be no glory in such a victory though. [D-1 / Lose <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

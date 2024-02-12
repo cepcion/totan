@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0450.html#TaleHeader">(450) - SEDUCTION (if opposite sex), APPEARANCE, BEGUILING</a><br/>
+<br/>
+<a href="0452.html#TaleHeader">(452) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">451</p>
+<p class="TaleDestiny">(451) - WEALTH: POOR or less (M)</p>
+<p>In response to your request, the other says gently, &ldquo;I&rsquo;ll be happy to accept the fee you offer, but I must warn you. Sometimes things don&rsquo;t always go as I anticipate.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You take your chances.</p>
+<p class="TaleRoll2D">Roll two dice, adding one for <span class="TaleRoll2DSkill">Luck</span> and two for <span class="TaleRoll2DSkill">Magic</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;8: The other is incompetent and nearly destroys both of you. Your mind is ravaged by the things that he calls up.
+[D+1 / S+1 / W-1 (Min: Poor) / <span class="TaleStatus">Ensorcelled</span>]</li>
+<li class="TaleDieRollResult">9+: The other performs with perfect skill. You feel as fresh as a newborn. [D+2 / S+1 / W-1 (Min: Poor) / Lose any statuses of your choice]</li>
+</ul>
+<p><span class="TaleSkill">WEALTH: POOR or less (mandatory):</span> You are too poor to pay the fee the other demands, and you leave. [<span class="TaleStatus">Envious</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

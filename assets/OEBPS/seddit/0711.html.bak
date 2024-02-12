@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0710.html#TaleHeader">(710) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="0712.html#TaleHeader">(712) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">711</p>
+<p class="TaleDestiny">(711) - MAGIC (M), SCHOLARSHIP  (M)</p>
+<p>You have heard tales of the tragic fates of those caught in such unnatural disturbances, and you flee as fast as you can. In the course of your flight, you spot a lone dervish lost in his devotions.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You call his attention to the approaching conflagration, and he thankfully joins you. [D+1 / S+1]</p>
+<p><span class="TaleSkill">MAGIC, SCHOLARSHIP  (All mandatory)</span>: Curiosity overcomes your impulse to warn the dervish; you remain at a distance to note the effects of the vortex on the holy man. You are appalled at the result, and stricken with remorse. However, you did learn much from witnessing his grisly demise. [S+1 / Scholarship / <span class="TaleStatus">Accursed</span> / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

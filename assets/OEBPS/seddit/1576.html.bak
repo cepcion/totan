@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1575.html#TaleHeader">(1575) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="1577.html#TaleHeader">(1577) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1576</p>
+<p class="TaleDestiny">(1576) - WILDERNESS LORE</p>
+<p>You carefully examine your surroundings after the jailor leaves. You find a colony of ants living in the dirt walls of your cell.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Unfortunately, you are much larger than an ant, and cannot make use of their tunnels to free yourself. [S+1]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You spend hours watching the ants, and realize that the colony is immense, and its tunnels are extensive. You strike the wall, and it collapses under your blows; soon, you have tunneled your way to freedom (though you have suffered some stings along the way). [D+2 / S+1 / <span class="TaleStatus">Wounded</span> (1 turn) / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

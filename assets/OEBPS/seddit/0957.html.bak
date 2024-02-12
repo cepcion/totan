@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0956.html#TaleHeader">(956) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0958.html#TaleHeader">(958) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">957</p>
+<p class="TaleDestiny">(957) - None</p>
+<p>A group of merry brigands has met up with you. You are invited to take part in a plan to humiliate the wicked Vizier who rides this way.</p>
+<p class="TaleChoicePrompt">You may help them or decline:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you decline: The brigands harbor no hard feelings and go to find another to help in their prank. [D+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you agree to help them, roll two dice, adding one each for <span class="TaleRoll2DSkill">Stealth and Stealing</span>, <span class="TaleRoll2DSkill">Beguiling</span>, and <span class="TaleRoll2DSkill">Acting and Disguise</span>, and subtracting one for <span class="TaleRoll2DSkill">Piety</span>:</span></li>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: You play-act as a wounded traveler, but you are not convincing in your charade. The Vizier is suspicious, and his guards attack. You are taken captive. [D+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+<li class="TaleDieRollResult">8+: By guile and quick wits, you trick the Vizier into a compromising position in front of many witnesses. The brigands are so pleased that they offer you a fine gift. [D+1 / S+1 / W+1 (Max: Respectable)]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

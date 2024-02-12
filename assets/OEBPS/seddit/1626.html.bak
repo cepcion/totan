@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1625.html#TaleHeader">(1625) - None</a><br/>
+<br/>
+<a href="1627.html#TaleHeader">(1627) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1626</p>
+<p class="TaleDestiny">(1626) - WISDOM</p>
+<p>The other&rsquo;s evil visage and rasping voice lead you to believe that he is some kind of demon, and you offer to pay for his otherworldly powers in service to your journey. Your true aim is to steal any treasures he may have.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The other follows along for a while, but proves to be a singularly useless and unimpressive villain&mdash;in fact, you begin to suspect you have misjudged the other completely. You go on your way in frustration. [S+1]</p>
+<p><span class="TaleSkill">WISDOM</span>: After speaking to him for a while, you realize you were mistaken about his being a demon. The wretch before you simply labors under a curse and is no menace at all (and certainly of no use to you). You are able to free the poor wretch from his misfortune and return him to his life. [D+1 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

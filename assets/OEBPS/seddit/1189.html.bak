@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1188.html#TaleHeader">(1188) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1190.html#TaleHeader">(1190) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1189</p>
+<p class="TaleDestiny">(1189) - LUCK, GOLDEN BRIDLE</p>
+<p>You are alone in the forest when you are suddenly confronted by a rogue elephant. It charges!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You set your spear, but in your terror your aim is not true, and the animal is only wounded. Again and again it attacks, and if it had not abruptly lost interest and walked away, you would be dead. [D+1 / S+1 / <span class="TaleStatus">Crippled</span>]</p>
+<p><span class="TaleSkill">LUCK</span>: You stand firm and hope for the best. Fortunately your puny spear wounds the creature mortally; it withdraws. [D+1 / Go to paragraph
+<a href="1190.html#TaleHeader">1190</a>]</p>
+<p><span class="TaleSkill">GOLDEN BRIDLE</span>: In a burst of inspiration, you produce the Golden Bridle. The elephant bows down before its power, and you ride upon it in the manner of kings. [D+2 / S+1 / W+2 (Max: Princely)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

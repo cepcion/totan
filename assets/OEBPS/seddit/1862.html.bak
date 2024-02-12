@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1861.html#TaleHeader">(1861) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1863.html#TaleHeader">(1863) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1862</p>
+<p class="TaleDestiny">(1862) - SCHOLARSHIP</p>
+<p>The other is treated with fear and superstition by the locals, so you know that no one will come to his aid when you rob him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: As soon as you make your move, you realize why the locals fear this one&mdash;he is an awe-inspiring and terrible magician! [D-1 / S+1 / Wisdom / <span class="TaleStatus">Beast Form</span>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You recognize certain arcane symbols on the clothes of the other. You will need protective magics to rob this one!</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you have Magic</span>: You cast a protective spell and turn the other&rsquo;s curses against him. His magical equipment&mdash;mere beads and baubles&mdash;sell quite well. [D+1 / S+1 / W+1 (Max: Rich)]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If not</span>: You decide it&rsquo;s best to let this one go. [S+1]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

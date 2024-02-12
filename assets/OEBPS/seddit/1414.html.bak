@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1413.html#TaleHeader">(1413) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="1415.html#TaleHeader">(1415) - APPEARANCE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1414</p>
+<p class="TaleDestiny">(1414) - BARGAINING AND EVALUATION, ACTING AND DISGUISE</p>
+<p>You have a trinket that the other may be able to assess for you. You decide to try your luck and ask for assistance. The other tells you that the trinket is of no value, but being a follower of Allah, the other offers to ease your load by taking the trinket off your hands for a small fee.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You agree, happy to be rid of it at last. [D+1]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You negotiate on the small fee and find that the other becomes more and more anxious as you discuss the item. You begin to think that you&rsquo;re being had. You tell the other that you are going to have someone else appraise the item for you and the other stops you, admitting that you have a fine treasure and ups the offer.</p>
+<p class="TaleChoicePrompt">You may either take the offer or refuse:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you take the offer</span>: [S+1 / W+2 (Max: Princely)]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse the offer</span>: [D+1 / Treasure]</li>
+</ul>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: You pretend to be ignorant of such things and pull the other into a conversation about trinkets. You flatter the other until he talks so much, that he gives away that the trinket you carry is actually valuable. The other does not even notice that he&rsquo;s given away this information as you part ways. [S+1 / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

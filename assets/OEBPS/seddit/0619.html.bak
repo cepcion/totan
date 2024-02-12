@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0618.html#TaleHeader">(618) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0620.html#TaleHeader">(620) - WILDERNESS LORE, SEAMANSHIP, SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">619</p>
+<p class="TaleDestiny">(619) - STORYTELLING</p>
+<p>You sit around the fire and take turns telling tales.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You quickly realize they are not impressed with you. They finally sneer and suggest that you not follow them or they will kill you. They disappear, leaving you no better off&mdash;but at least you are no worse off. [S+1 / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: With each tale you tell, their mood improves. They approve of your wit and comment on your wisdom. You are accepted as a member of the band and entrusted with all their secrets, including the location of a most remarkable place of which they know. [D+2 / S+2 / Stealth and Stealing / Lose <span class="TaleStatus">Lost</span> / Opportunity to enter the <a href="0175.html#TaleHeader">Cave of Wonders</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

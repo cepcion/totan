@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0999.html#TaleHeader">(999) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="1001.html#TaleHeader">(1001) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1000</p>
+<p class="TaleDestiny">(1000) - COURTLY GRACES</p>
+<p>You notice that all of the people in this strange land have only four fingers on their left hands, and you ask why. You are informed that it is the custom of these people to sever the little finger of all newborns. You must submit to this practice if you are to remain here.</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleChoicePrompt">You may cut off your finger or depart</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you cut off your finger</span>: You submit to the custom. It is painful, but you gain rare and fascinating insights into a strange culture. [D+1 / S+1 / Scholarship / <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you depart</span>: You hastily leave rather than mutilate yourself. [Have another player move you one space in any direction]</li>
+</ul>
+<p><span class="TaleSkill">COURTLY GRACES</span>: Asking further, you determine that an king in ancient times who lacked this finger decreed that all his subjects should be blessed in the same way. You gain audience with the current Sultan and convince him to establish a new tradition to enhance his own honor. Pleased with your wisdom, he makes you a trusted advisor. [D+2 / S+1 / <span class="TaleStatus">Vizier</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

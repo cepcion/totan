@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0997.html#TaleHeader">(997) - WEAPON USE</a><br/>
+<br/>
+<a href="0999.html#TaleHeader">(999) - SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">998</p>
+<p class="TaleDestiny">(998) - PIETY</p>
+<p>You see an emaciated man wagering on a dice game.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Afraid of being cheated, you refuse to participate, though you become the object of some good-natured jeering. [D+1 / <span class="TaleStatus">Scorned</span> (1 turn)]</p>
+<p><span class="TaleSkill">PIETY</span>: You give the man a coin, saying, &ldquo;If you are in such need of money that you do this to your brothers, you are in greater need than I.&rdquo; The other man is shamed and abandons his game. [D+1 / S+1 / Piety]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

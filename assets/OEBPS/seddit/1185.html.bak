@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1184.html#TaleHeader">(1184) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1186.html#TaleHeader">(1186) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1185</p>
+<p class="TaleDestiny">(1185) - QUICK THINKING</p>
+<p>In your explorations, you discover an elephant carcass stripped of its tusks&mdash;the work of poachers! You fear that they will kill you if they find you here.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You flee, but the poachers find you and, assuming you will reveal them to the prince, beat and confine you as incentive to keep your mouth shut. [D+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: The poachers return but you scramble into a tall tree to avoid them. When they have gone, you report immediately to the prince. He captures them and praises your good deeds. [D+1 / S+1 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0607.html#TaleHeader">(607) - PIETY</a><br/>
+<br/>
+<a href="0609.html#TaleHeader">(609) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">608</p>
+<p class="TaleDestiny">(608) - SCHOLARSHIP, WILDERNESS LORE</p>
+<p>You devote your full attention to your prayers.</p>
+<p><span class="TaleSkill">NO SKILL</span>: While you are thus distracted, a fiendish creature pounces upon you. The beast wounds you, and the untended wounds trouble your prayers and the pain tempts you to utter blasphemies. [D+1 / S+1 / Lose Piety / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: As you are praying a great beast approaches you. You know from your studies that soft words will pacify a lion, so you speak soothingly to the beast. Apparently the creature is either deaf or not a lion, as it is not deterred from gnawing on you. You decide to pray elsewhere and as luck would have it, you find a familiar landmark. [D+1 / S+1 / Lose Appearance / <span class="TaleStatus">Wounded</span> / Lose <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: As you are praying you sense a creature nearby. Preparing yourself for the beast&rsquo;s attack, you unfurl your robe and as it jumps, you capture it in the folds of your clothing. The beast is frightened and you take pity on it. You let it go and it slowly moves away, but it looks back, as if wanting you to follow. You do, and soon the beast brings you to a familiar landmark where you can continue your journey. [S+1 / Lose <span class="TaleStatus">Lost</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

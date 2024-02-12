@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2293.html#TaleHeader">(2293) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="2295.html#TaleHeader">(2295) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2294</p>
+<p class="TaleDestiny">(2294) - SEDUCTION, SCHOLARSHIP</p>
+<p>You notice a mysterious glimmer in the eye of the other as you offer your assistance. There may be more to this being than meets the eye.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You shrug off your intuition and continue with your conversation. Suddenly you awaken to discover that summer has ended and winter begun! You&rsquo;re not sure where you are, but you are sure that you need to find some clothes fast! [D+2 / S+1 / W-4 (Min: Penniless) / Wilderness Lore / Have another player move you to any land  space]</p>
+<p><span class="TaleSkill">SEDUCTION</span>: You find yourself strangely attracted to the other, though you cannot be sure why. When your senses return, you discover that he has cast a charm upon you! [D-1 / S+2 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You realize that this is a magician in disguise! You quickly avert your gaze before he can charm you with his magic. [D+1 / S+1 / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

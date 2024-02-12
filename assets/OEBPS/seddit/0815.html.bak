@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0814.html#TaleHeader">(814) - COURTLY GRACES</a><br/>
+<br/>
+<a href="0816.html#TaleHeader">(816) - STEALTH AND STEALING, QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">815</p>
+<p class="TaleDestiny">(815) - BARGAINING AND EVALUATION</p>
+<p>The other names a soberingly high fee. Initially appalled, after a brief demonstration of his prowess you agree that his services would well be worth that sum.</p>
+<p><span class="TaleSkill">NO SKILL</span>:</p>
+<p class="TaleChoicePrompt">If you have wealth greater than Poor, you may pay his price or decline:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you cannot or will not pay his price</span>: Although you are very impressed, you decline. He takes no offense, and looks for another patron to hire him. [D+1 / Bargaining and Evaluation]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you pay the price</span>: You agree to the exorbitant price, and the soldier becomes your bodyguard. [D+1 / W-3 (Min: Beggar) / Weapon Use (Master level)]</li>
+</ul>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: Cleverly, you tell the other of the potential of your business enterprises, and convince him to accept a share of the profits as his fee. [D+1 / Weapon Use at Master level]
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

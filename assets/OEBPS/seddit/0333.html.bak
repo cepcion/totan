@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0332.html#TaleHeader">(332) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="0334.html#TaleHeader">(334) - SCHOLARSHIP, WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">333</p>
+<p class="TaleDestiny">(333) - None</p>
+<p>Your kind words please the other, and he says, &ldquo;I wish to grant your wishes, but for my own reasons I must undertake a holy pilgrimage on foot, and I require a companion. Will you accompany me?&rdquo;</p>
+<p class="TaleChoicePrompt">You may decline or accept:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you decline</span>: The other walks slowly away, leaving you deeply dissatisfied with your lot. [<span class="TaleStatus">Envious</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you accept</span>: The two of you head on to Mecca. [D+1 / <span class="TaleStatus">On Pilgrimage</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

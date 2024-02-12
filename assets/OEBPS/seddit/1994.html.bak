@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1993.html#TaleHeader">(1993) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1995.html#TaleHeader">(1995) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1994</p>
+<p class="TaleDestiny">(1994) - ENDURING HARDSHIP</p>
+<p>At the urging of the local people, you have chosen to try to find a safer path through the Valley of Dogs. The way is strenuous and full of dangers. It takes all of your strength and resilience to reach the far side.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Exhausted by your endeavors, you collapse on the edge of the valley. You pushed yourself much too hard, and now you must pay the price. [D+1 / Enduring Hardship / <span class="TaleStatus">Diseased</span>]</p>
+<p><span class="TaleSkill">ENDURING HARDSHIP</span>: Bands of hungry wolves, gangs of wolf&mdash;like men, marshes and heavy brush. All this and more you have overcome. What challenges will the world throw your way next? Whatever they are, you stand ready for them! [D+1 / S+1 / <span class="TaleStatus">Determined</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

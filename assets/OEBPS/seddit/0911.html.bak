@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0910.html#TaleHeader">(910) - COURTLY GRACES</a><br/>
+<br/>
+<a href="0912.html#TaleHeader">(912) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">911</p>
+<p class="TaleDestiny">(911) - DETERMINED  (M),  ENDURING HARDSHIP</p>
+<p>While resting in the countryside, you overhear a conversation from a nearby grove. Curious, you creep closer and discover a beautiful maiden speaking with a dark serpent, her voice dull and lifeless. With a prayer to Allah on your lips, you step forward with your sword to hand. As the serpent&rsquo;s gaze meets yours, though, you feel your will slipping away.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You turn and walk away, your body no longer at your own command. [D+1 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><p><span class="TaleSkill">DETERMINED  (mandatory),  ENDURING HARDSHIP</span>: Steeling your will against the magical blandishments of the serpent, you advance. Frightened, it slithers away, and the maiden breaks free of its evil spell.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are male and not Married</span>: Casting shame aside, the girl smothers you with kisses and clings tightly to you, and refuses to be parted from you save only by death. [D+1 / S+1 / <span class="TaleStatus">Beloved</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: She produces from her robe a gem of great value. &ldquo;It is all I can give you, and only a fraction of what you deserve for your brave deed.&rdquo; [D+1 / S+1 / W+2 (Max: Princely)]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

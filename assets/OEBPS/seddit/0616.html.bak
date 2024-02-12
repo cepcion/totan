@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0615.html#TaleHeader">(615) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="0617.html#TaleHeader">(617) - LUCK, WILDERNESS LORE, SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">616</p>
+<p class="TaleDestiny">(616) - WILDERNESS LORE</p>
+<p>You sit and await whatever fate Allah has ordained for you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You are not pleased, but resigned, when your fate includes starving near to death, being attacked by animals and brigands, suffering from exposure in a terrible storm, and, finally, being discovered on the point of death by a band of wandering dervishes. The dervishes, however, are endlessly amazed by your tales, and they aid you in your return to health and civilization. [D+1 / S+2 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Diseased</span> / Lose <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: With your great skill, you live comfortably off the land until one day you spy a group of traveling dervishes, who lead you back to civilization. They are endlessly fascinated by your tales of life in the wilderness. [D+2 / S+2 / <span class="TaleStatus">Respected</span> / Lose <span class="TaleStatus">Lost</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

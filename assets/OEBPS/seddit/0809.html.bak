@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0808.html#TaleHeader">(808) - PIETY</a><br/>
+<br/>
+<a href="0810.html#TaleHeader">(810) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">809</p>
+<p class="TaleDestiny">(809) - None</p>
+<p>The young man seems anxious to pay you a high price for an item you believe is worthless.</p>
+<p class="TaleChoicePrompt">You can sell it to him or keep it to examine later:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you sell it</span>: You make a tidy profit. [D+1 / W+1 (Max: Rich)]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you keep it, roll one die, adding one for <span class="TaleRoll2DSkill">Scholarship</span></span>:</li>
+<ul>
+<li class="TaleDieRollResult">1&ndash;4: You suspect that is has value beyond what is obvious, and keep it. Later, you examine it but you find no evidence of special value. You should have let the fellow buy it. [Bargaining and Evaluation]</li>
+<li class="TaleDieRollResult">5+: You suspect that it has value beyond what is obvious, and keep it. You discover that it is a precious treasure! [D+2 / Protective Talisman]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

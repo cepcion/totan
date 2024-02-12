@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+  <head>
+    <title>Encounter Table 41</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/epub.css"/>
+  </head>
+  <body>
+    <p class="encounterTableHeader" id="table41">41</p>
+    <ol class="encounterTableOL">
+      <li value="1"><a href="ReactionMatrix-F-HouseFire.html">House Fire</a> (F)</li>
+      <li value="2"><a href="ReactionMatrix-C-HypnoticHag.html">Hypnotic Hag</a> (C)</li>
+      <li value="3"><a href="ReactionMatrix-J-FineBeast.html">Fine Beast</a> (J)</li>
+      <li value="4"><a href="ReactionMatrix-I-StrangeCustoms.html">Strange Customs</a> (I)</li>
+      <li value="5"><a href="ReactionMatrix-J-UnknownBeast.html">Unknown Beast</a> (J)</li>
+      <li value="6"><a href="ReactionMatrix-A-ImprisonedPrincess.html">Imprisoned Princess</a> (A)</li>
+      <li value="7"><a href="ReactionMatrix-I-BloodthirstyBrigands.html">Bloodthirsty Brigands</a> (I)</li>
+      <li value="8"><a href="ReactionMatrix-O-MightyWizard.html">Mighty Wizard</a> (O)</li>
+      <li value="9"><a href="ReactionMatrix-E-SecretTrapdoor.html">Secret Trapdoor</a> (E)</li>
+      <li value="10"><a href="ReactionMatrix-E-GlitteringArtifact.html">Glittering Artifact</a> (E)</li>
+      <li value="11"><a href="ReactionMatrix-E-GuardedTreasure.html">Guarded Treasure</a> (E)</li>
+      <li value="12"><a href="ReactionMatrix-E-WonderfulArtifact.html">Wonderful Artifact</a> (E)</li>
+    </ol>
+    <p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+  </body>
+</html>

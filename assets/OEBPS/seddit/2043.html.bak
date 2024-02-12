@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2042.html#TaleHeader">(2042) - SEDUCTION</a><br/>
+<br/>
+<a href="2044.html#TaleHeader">(2044) - COURTLY GRACES, MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2043</p>
+<p class="TaleDestiny">(2043) - LUCK, MAGIC</p>
+<p>As you cross a great desert, you become lost. One evening, as the sun sets, it leaves a burning pyre on the horizon. With nowhere else to go, you approach it. A mighty marid is encased in the fire. In a booming voice, he asks that you free him by using the remainder of your water on the flames.</p>
+<p class="TaleChoicePrompt">You can do so, or leave the being to his prison:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you walk back into the desert</span>: A few days later, you arrive at a settlement. You tell your tale, but few believe you. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you douse the flames</span>: The grateful efreet gifts you with a magical ring. &ldquo;Put it on and it will take you any place your heart desires.&rdquo; You slip the ring over your finger, and a dozen doors appear in the sand. The marid vanishes, leaving behind an echoing laughter.</li>
+<ul class="SubTaleSkill">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: You pick a door at random and enter. It takes you home to Baghdad. [D+1 / Move to Baghdad]</li>
+<li class="MidSubTaleSkill"><span class="TaleSkill">LUCK</span>: You consider all the places you would like to visit, envision one of them, and step through a door. It takes you to a fine home there. The slaves bow down to you as their new master. [D+2 / W+2 (Max: Rich) / Move to any city space]</li>
+<li><span class="TaleSkill">MAGIC</span>: Studying the ring and the glowing portals, you understand a great deal about the magic inherent in them. Confident in your power, you step through the least of the doors, arriving in the fabled City of Brass. [D+2 / Seal Ring / Move to the <a href="0177.html#TaleHeader">City of Brass</a> and have an immediate encounter]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

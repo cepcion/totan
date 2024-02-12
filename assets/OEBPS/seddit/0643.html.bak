@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0642.html#TaleHeader">(642) - None</a><br/>
+<br/>
+<a href="0644.html#TaleHeader">(644) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">643</p>
+<p class="TaleDestiny">(643) - LUCK</p>
+<p>As you pass by, you hear soft, soothing voices calling to you. The water seems so peaceful&hellip; You step forward into its gentle embrace.</p>
+<p><span class="TaleSkill">NO SKILL</span>: When you awaken, you remember nothing of what has occurred&mdash;In fact, you remember nothing at all! [D+3 / W-2 (Min: Beggar) / Lose <span class="TaleStatus">Blessed</span> / <span class="TaleStatus">Insane</span> / Lose all Treasures]</p>
+<p><span class="TaleSkill">LUCK</span>: As you run forward, you trip over a stone and knock yourself senseless. When you awake it is dark and the river is quiet. You flee in terror, and thank your good luck for your clumsy fall. [D+2 / S+2 / <span class="TaleStatus">Blessed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

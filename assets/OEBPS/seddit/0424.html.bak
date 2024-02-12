@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0423.html#TaleHeader">(423) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="0425.html#TaleHeader">(425) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">424</p>
+<p class="TaleDestiny">(424) - SCHOLARSHIP, STORYTELLING</p>
+<p>You strike down the other, but instantly a weird mist envelops his body, and a fierce wind springs up. &ldquo;How shall your actions benefit you, fool?&rdquo; booms a voice from the air.</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleChoicePrompt">You may approach the body or leave it alone</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you leave it alone</span>: You leave the body of your slain opponent on the ground. Instead, you free his horse and go your own way. [D+1 / S+2]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you approach the body</span>: You struggle towards the body of the slain other, though the fierce wind batters you.</p>
+<ul>
+<li class="TaleRoll2D MidSubTaleSkill" style="list-style-type:none;">Roll two dice, adding two for <span class="TaleRoll2DSkill">Magic</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: The closer you get the more difficult the going. Finally everything goes black as something invades your very mind and drives out your own thoughts. [D+2 / <span class="TaleStatus">Ensorcelled</span>]</li>
+<li class="TaleDieRollResult">8+: You manage to push through the howling whirlwind and rescue the other&rsquo;s purse. You do not tarry, but make haste away from this accursed place. [D+2 / S+2 / W+1 (Max: Rich)]</li>
+</ul>
+</ul>
+</ul>
+<p><span class="TaleSkill">SCHOLARSHIP, STORYTELLING</span>: You are well aware that there are creatures that can strike the living even from beyond death, and you prudently decide to leave the body alone. As you set about freeing the other&rsquo;s horse, you note the magical design on its saddlebags. [D+2 / S+1 / Magic Saddlebags]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

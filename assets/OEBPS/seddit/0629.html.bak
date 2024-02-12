@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0628.html#TaleHeader">(628) - LUCK</a><br/>
+<br/>
+<a href="0630.html#TaleHeader">(630) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">629</p>
+<p class="TaleDestiny">(629) - PIETY</p>
+<p>A huge boulder narrowly misses your head as the face of the mountain collapses.</p>
+<p><span class="TaleSkill">NO SKILL</span>: When the dust settles you are still alive (Allah be praised!) but badly hurt and lost. [D+1 / S+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: You rise unhurt from a veritable tomb of rock. A nearby goat-herd witnesses your escape, and soon the tale is being told throughout the land. You come to be known as the Favored of Allah. [D+3 / S+2 / Luck / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

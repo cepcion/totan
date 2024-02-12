@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1032.html#TaleHeader">(1032) - WISDOM</a><br/>
+<br/>
+<a href="1034.html#TaleHeader">(1034) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1033</p>
+<p class="TaleDestiny">(1033) - STEALTH AND STEALING</p>
+<p>There have been reports of gools and goolehs in this area, and you are careful not to encounter them. Soon, however, the Sultan offers a substantial reward for their heads. In your travels you spy one of the fiendish flesh-eaters! You follow her silently, trying to find her hiding place that you might warn others away from it.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The gooleh senses your presence and turns on you. There is no room to run. You are caught and badly injured, but a group of men drive the creature away. [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">STEALTH AND STEALING</span>: You follow silently and discover a whole family of them! You sneak away to report to the Sultan, who rewards you for your skill. [D+1 / S+1 / W+2 (Max: Rich) / <span class="TaleStatus">Blessed</span>)</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

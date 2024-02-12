@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1872.html#TaleHeader">(1872) - MAGIC, SEAMANSHIP</a><br/>
+<br/>
+<a href="1874.html#TaleHeader">(1874) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1873</p>
+<p class="TaleDestiny">(1873) - WILDERNESS LORE</p>
+<p>The other was once a renowned explorer, but something he saw in some distant land has permanently unhinged his mind. You hope that you can break through his haze to get information to help you in your travels.</p>
+<p><span class="TaleSkill">NO SKILL</span>: In a brief moment of lucidity, the other manages to answer one of your questions. [S+1]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: Between his rambling and the occasional question that you can puzzle out an answer for, you discover what he found that broke his mind. You resolve to steer clear of that area. [D+1 / <span class="TaleStatus">Blessed</span> (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

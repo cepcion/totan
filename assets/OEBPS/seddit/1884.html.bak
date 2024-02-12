@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1883.html#TaleHeader">(1883) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="1885.html#TaleHeader">(1885) - WILDERNESS LORE, ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1884</p>
+<p class="TaleDestiny">(1884) - STORYTELLING, BARGAINING AND EVALUATION</p>
+<p>Though the other is hopelessly drunk, you hope that he can be relied on for a simple task. </p>
+<p><span class="TaleSkill">NO SKILL</span>: Somehow the other delivered a completely different message than you intended! Now you have accidentally insulted an important merchant, and your once-profitable deal has turned sour. [S+1 / W-1 (Min: Respectable)</p>
+<p><span class="TaleSkill">STORYTELLING</span>: You tell the other grand and dire tales of the horrible fates meted out by the Most High for those whose drunkenness prevented their destined work. Swallowing hard, the other swears to deliver your message to your merchant friend. [D+1 / Bargaining and Evaluation]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: Though the drunken fool you hired delivers the wrong message, your superior negotiation skills enable to you mend your damaged relationship with the merchants of the town.
+[D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

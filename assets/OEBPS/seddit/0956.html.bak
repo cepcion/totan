@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0955.html#TaleHeader">(955) - None</a><br/>
+<br/>
+<a href="0957.html#TaleHeader">(957) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">956</p>
+<p class="TaleDestiny">(956) - WILDERNESS LORE</p>
+<p>A rowdy bunch of brigands pass you by without a backwards glance. Then, one of them turns and cries, &ldquo;Come, friend, join our hunt&hellip;&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You have no skill at such things and decline. The final brigand gives you a rude poke with the butt of his spear as they ride off, and the story of your humiliation spreads through the nearby lands. [<span class="TaleStatus">Scorned</span>
+(1 turn)]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You join in eagerly. After you have pointed out the correct path, you realize they are &ldquo;hunting&rdquo; a man on horseback. You are chagrined to be involved in such dishonorable doings and flee them.
+[D+1 / <span class="TaleStatus">Grief Stricken</span> (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

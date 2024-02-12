@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2110.html#TaleHeader">(2110) - COURTLY GRACES</a><br/>
+<br/>
+<a href="2112.html#TaleHeader">(2112) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2111</p>
+<p class="TaleDestiny">(2111) - WILDERNESS LORE</p>
+<p>Your caravan slowly winds its way through the mountain pass. Without warning, the rider in the lead is pulled from his mount as though by a giant invisible hand! Smashed into a nearby cliff, he is crushed instantly! Another life is lost to the dreaded Magnetic Mountain.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Clearly, a different route must be found. You volunteer to find a local guide to assist the caravan. But you quickly become lost in the maze of canyons and valleys and cannot find your way back! [S+1 / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: It takes you some time, but you locate a nearby village. A boy there offers to show you a safe path around the mountain for a single dinar. You gratefully accept his deal. [D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

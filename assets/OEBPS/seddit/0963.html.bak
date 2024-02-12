@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0962.html#TaleHeader">(962) - WEAPON USE, COURTLY GRACES</a><br/>
+<br/>
+<a href="0964.html#TaleHeader">(964) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">963</p>
+<p class="TaleDestiny">(963) - WISDOM</p>
+<p>In your travels, you met briefly with a band of brigands. When you asked to join them they laughed and cast you away. You follow them, vowing revenge.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You strike when the brigands attack a small merchant caravan. It is a shrewd plan, but goes awry&mdash;a thief pierces you with a spear. So goes your revenge&hellip; [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">WISDOM</span>: Revenge is a dish best served cold. You bide your time and follow, waiting for your chance to destroy them. [D+1 / S+1 / <span class="TaleStatus">Determined</span> / Have an immediate second encounter with the brigands, choosing a different reaction]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

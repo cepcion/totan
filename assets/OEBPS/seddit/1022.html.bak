@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1021.html#TaleHeader">(1021) - WISDOM</a><br/>
+<br/>
+<a href="1023.html#TaleHeader">(1023) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1022</p>
+<p class="TaleDestiny">(1022) - ACTING AND DISGUISE, BRASS TRUMPET  (M)</p>
+<p>The Vizier tells you he needs your help. You readily ask what should be done to aid one of such honor. He outlines an elaborate plan to capture a wanted criminal. You are to aid in the execution of a maiden&mdash;the criminal&rsquo;s sister&mdash;as bait for the trap. You are introduced to the maiden and given a sword. At the proper moment you are to cry out that she is faithless&mdash;and kill her. This scene will bring the criminal to her side.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You perform as you are required, and the plan works&mdash;the man is easily taken. Later you learn the man was no criminal, but the Vizier&rsquo;s elder brother, whom the Vizier schemed to murder with his own sister. Your heart is shattered. [D+1 / Lose Piety / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: You cannot go through with this vile plan and instead arrange to simulate her murder. When the &ldquo;criminal&rdquo; appears, you accuse the Vizier of wickedness, crying, &ldquo;If Allah agrees with me, this maiden shall live again!&rdquo; She rises from the ground, the guards scurry in fear, and the evil Vizier flees for his life. [D+2 / S+1 / Quick Thinking]</p>
+<p><span class="TaleSkill">BRASS TRUMPET  (mandatory):</span> As you bring up your sword, the Brass Trumpet sounds, proving to you and to all around that the Vizier is evil. You slay him instead, and the crowds cheer you for your bravery. [D+2 /
+S+1 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

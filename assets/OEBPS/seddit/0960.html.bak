@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0959.html#TaleHeader">(959) - BEGUILING</a><br/>
+<br/>
+<a href="0961.html#TaleHeader">(961) - STEALTH AND STEALING, ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">960</p>
+<p class="TaleDestiny">(960) - None</p>
+<p>A small party of grimy-looking men come upon you. &ldquo;We are scouts for the nomad tribe of Bedouins,&rdquo; they say. When you ask to meet their chief, they laugh and escort you to his presence. &ldquo;What would you have of me?&rdquo; he asks.</p>
+<p class="TaleChoicePrompt">You can ask for information or to join the bandit tribe:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you ask for information</span>: [Go to paragraph <a href="1382.html#TaleHeader">1382</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you ask to join the tribe</span>: He accepts, but you will have to undergo a trial of combat, pain, or storytelling:</li>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you choose a trial by combat</span>: [Go to paragraph <a href="1298.html#TaleHeader">1298</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you choose a trial by pain</span>: [Go to paragraph <a href="1120.html#TaleHeader">1120</a>] </li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you choose a contest of storytelling</span>: [Go to paragraph <a href="0619.html#TaleHeader">619</a>]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

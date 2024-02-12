@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0358.html#TaleHeader">(358) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="0360.html#TaleHeader">(360) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">359</p>
+<p class="TaleDestiny">(359) - MAGIC</p>
+<p>&ldquo;Ah, you may assist me in a difficult enchantment I am about to undertake!&rdquo; The other hands you a scroll. &ldquo;I have need to call forth a most powerful jinni. Read this aloud the moment he appears.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You admit to the other that you know nothing of magic and cannot even read the scroll. You are sent away. [S+1]</p>
+<p><span class="TaleSkill">MAGIC</span>: The jinni appears, and the feeble scroll spell is not enough to contain him. You rely on your own power to save both yourself and the other. You defeat the jinn and order transportation to magical lands.
+[D+3 / S+2 / Move to the <a href="0182.html#TaleHeader">Dusky Land</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

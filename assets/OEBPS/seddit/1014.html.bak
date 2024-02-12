@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1013.html#TaleHeader">(1013) - None</a><br/>
+<br/>
+<a href="1015.html#TaleHeader">(1015) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1014</p>
+<p class="TaleDestiny">(1014) - WEAPON USE</p>
+<p>In your travels, you meet a man who is fleeing for his life! He tells you that a wicked Vizier is infatuated with his wife and has declared him an outlaw. You do not want to be involved and are about to go on your way when moments later he is taken by guards. You soon hear that he will die tomorrow at dawn unless you can do something.</p>
+<p class="TaleChoicePrompt">You may approach the Vizier or try to free your friend by other means:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you approach the Vizier</span>: [Go to paragraph <a href="1015.html#TaleHeader">1015</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you try to rescue your friend</span>: You try to help your new friend by whatever means you can.</li>
+<ul class="SubTaleSkill">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: However, you are caught and banished from the land.[D+1 / <span class="TaleStatus">Outlaw</span>]</li>
+<li><span class="TaleSkill">WEAPON USE</span>: You overpower the guards and rescue the man. He leaves to rescue his beloved, and you feel the satisfaction of one who has done what is best. [D+1 / S+2 / <span class="TaleStatus">Blessed</span>]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

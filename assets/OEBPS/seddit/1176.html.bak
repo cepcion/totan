@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1175.html#TaleHeader">(1175) - None</a><br/>
+<br/>
+<a href="1177.html#TaleHeader">(1177) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1176</p>
+<p class="TaleDestiny">(1176) - ACTING AND DISGUISE</p>
+<p><span class="TaleSkill">NO SKILL</span>: The guards are too numerous and vigilant for you. They repulse your every attempt to enter the palace and, at last, become impatient with you, giving you a beating and a warning not to bother them again. [D-1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: You observe those who go through the gates and impersonate them. The guards do not pierce your deception. Once inside, you find the one in distress; together you escape in the costume of a donkey.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are not Married</span>: When you are far away, you remove the costume&mdash;and discover the beneficiary of your kindness to be of consummate beauty. The costume is not the last of your clothing to be shed. [D+2 / S+1 / <span class="TaleStatus">Beloved</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are Married</span>: The person you have saved was unjustly imprisoned for the crimes of another. With your help, he manages to prove his innocence, and your wisdom and kindness are shown to all. [D+2 / S+1 / Wisdom / <span class="TaleStatus">Respected</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

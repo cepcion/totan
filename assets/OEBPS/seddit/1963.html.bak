@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1962.html#TaleHeader">(1962) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="1964.html#TaleHeader">(1964) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1963</p>
+<p class="TaleDestiny">(1963) - STEALTH AND STEALING</p>
+<p>You discover a large fleet of ships during the darkness of night. You realize that they are pirates! If they discover you, you will certainly be robbed and murdered.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You hide your ship among the others in the fleet, hoping for a chance to sneak away. It is many days before you make good your escape, and now you have no idea where you are. [S+1 / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">STEALTH AND STEALING</span>: Under cover of darkness, you sneak onto the pirate captain&rsquo;s ship and make off with his charts and logs. Before the theft is discovered, you turn your ship about and sail the other way. You can only imagine the confusion when the pirates learn that their captain has no idea which way to sail! [D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2306.html#TaleHeader">(2306) - WEAPON USE</a><br/>
+<br/>
+<a href="2308.html#TaleHeader">(2308) - WILDERNESS LORE, SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2307</p>
+<p class="TaleDestiny">(2307) - WEAPON USE, APPEARANCE</p>
+<p>The other speaks of interesting things from far-off places. You note before it&rsquo;s too late that you and the others listening are being lulled by a spell. You attack!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You beat the other soundly and the listeners hail your insight.
+[D+1 / Seduction / <span class="TaleStatus">Respected</span>]</p>
+<p><span class="TaleSkill">WEAPON USE</span>: The other grabs a basket and swings it at you. Your experience comes into play as you avoid the blow and take the makeshift weapon from the other. With a single strike, you render the other harmless. Now you must deal with the other&rsquo;s followers.</p>
+<ul>
+<li class="MidSUbTaleSkill" style="list-style-type:none;"><span class="TaleSkill">NO SKILL</span>: You are beaten and thrown into an alley. Apparently they continued to be under the other&rsquo;s spell. [D+1 / <span class="TaleStatus">Envious</span> / <span class="TaleStatus">Scorned</span>]</li>
+<li style="list-style-type:none;"><span class="TaleSkill">APPEARANCE</span>: You stun the others with your visage long enough to explain that they are under a spell. Enough of the others shake it off to save you from a horrible fate. [D+2 / Seduction]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

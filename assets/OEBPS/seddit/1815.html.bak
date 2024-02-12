@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1814.html#TaleHeader">(1814) - LUCK</a><br/>
+<br/>
+<a href="1816.html#TaleHeader">(1816) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1815</p>
+<p class="TaleDestiny">(1815) - VIZIER (M), SULTAN (M), RESPECTED (M)</p>
+<p>You stagger into the village, half-dead from the serpent venom burning in your veins. If you do not get some kind of help, you know that you will soon be dead.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The only villager who offers to assist you is a twisted old crone. She agrees to provide you with an anti-venom if you agree to aid her with a certain task that she cannot do on her own. Reluctantly, you agree to her terms. After she has cured you, she describes what she needs you to do. [D+1 / S+1 / <span class="TaleStatus">Under Geas</span>]</p>
+<p><span class="TaleSkill">VIZIER, SULTAN, RESPECTED  (All mandatory)</span>: The people of the village rush to your aid. After three days, your fever breaks, and you are able to continue on your journey. [D-1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

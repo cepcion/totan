@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2302.html#TaleHeader">(2302) - WEAPON USE, SEAMANSHIP</a><br/>
+<br/>
+<a href="2304.html#TaleHeader">(2304) - WEAPON USE , SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2303</p>
+<p class="TaleDestiny">(2303) - SEAMANSHIP  (M)</p>
+<p>You are taking a voyage when you see the other drifting in a small boat. The other seems to be wailing while tossing something over the side of the boat. You are suspicious of the other and think there must be foul play involved.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You try to convince the captain of your vessel to aid you in attacking the other&rsquo;s small craft. The captain offers you a dinghy of your own to go after the other. You take him up on the offer but you are unable to navigate the dinghy to the other&rsquo;s boat. You drift for a few days before another ship picks you up. [S+1 / Seamanship / <span class="TaleStatus">Envious</span> / <span class="TaleStatus">Wounded</span> / Have another player move you to any coastal space]</p>
+<p><span class="TaleSkill">SEAMANSHIP  (mandatory):</span> You convince the captain to turn his vessel upon the other. The other turns out to have stolen from a friend and has decided that he cannot profit thusly. He further cannot tell his friend, and is therefore tossing the treasures into the waters. You are able to save some of the items and bring the other to justice. There is a fine, yet tearful reward. [D+1 / S+1 / W+2 (Max: Princely) / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

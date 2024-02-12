@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0767.html#TaleHeader">(767) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0769.html#TaleHeader">(769) - WILDERNESS LORE, SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">768</p>
+<p class="TaleDestiny">(768) - None</p>
+<p>The other sees you making to get away and mistakes you for his amour. There is nowhere but a sailing ship for you to escape to. You try to rush onboard, stating you are a new sailor and giving directions not to allow anyone to follow you onboard.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Acting and Disguise</span>, <span class="TaleRoll2DSkill">Seamanship</span>, <span class="TaleRoll2DSkill">Appearance</span>, and <span class="TaleRoll2DSkill">Bargaining and Evaluation</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;5: The ship&rsquo;s guard roars with laughter, &ldquo;Don&rsquo;t try to avoid your woes on this ship, whelp!&rdquo; He hurls you down the plank and into the arms of your new love. [<span class="TaleStatus">Beloved</span>]</li>
+<li class="TaleDieRollResult">6+: The ship&rsquo;s guard smiles and says, &ldquo;Hurry on, whelp. You certainly won&rsquo;t be the last who&rsquo;s late this morning!&rdquo; You convince the ship&rsquo;s mate that you&rsquo;re supposed to be on board while the ship&rsquo;s guard turns away your would-be lover. Having done such a fine job convincing them that you are part of the crew, you find that you cannot leave. You set sail for parts unknown. [S+2 / Seamanship / Lose Courtly Graces]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

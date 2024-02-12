@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1172.html#TaleHeader">(1172) - WISDOM</a><br/>
+<br/>
+<a href="1174.html#TaleHeader">(1174) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1173</p>
+<p class="TaleDestiny">(1173) - ACTING AND DISGUISE</p>
+<p>The outside of the palace is so splendid that you yearn to view the wonders inside.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The guards catch you trying to enter the palace. They beat and send you away with a warning. [D+1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: You study the guards&rsquo; routine and manage to enter the palace in disguise. The marvels within are a feast for the eyes, the heart, and the mind. [D+2 / S+2 / Wisdom / <span class="TaleStatus">Blessed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

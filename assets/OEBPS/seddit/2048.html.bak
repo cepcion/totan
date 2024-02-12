@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2047.html#TaleHeader">(2047) - BEGUILING</a><br/>
+<br/>
+<a href="2049.html#TaleHeader">(2049) - SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2048</p>
+<p class="TaleDestiny">(2048) - WEAPON USE</p>
+<p>The leader of the brigands sizes you up a moment before bringing the point of his scimitar to rest beneath your chin. &ldquo;Prove that you know your way around a blade,&rdquo; he says, &ldquo;And you just might be of use to me.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleChoicePrompt">You can duel with him or refuse</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you duel with him</span>: You are no match for the brigand leader&rsquo;s skill with a scimitar, but you fight with courage and his men are entertained. The brigands leave you alive, but bereft of all possessions, naturally. [S+2 / Reduce your Wealth to Beggar, but gain D1 for each level lost in this way]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse</span>: One of the brigands tosses a scimitar at your feet. &ldquo;Let it lie, if you like,&rdquo; says the leader, &ldquo;But armed or not, you will fight me!&rdquo; You are no match for his prowess, and he leaves you not only bereft of all possessions, but bloodied for your cowardice, as well. [D+1 / S+1 / W=Beggar) / <span class="TaleStatus">Wounded</span>]</li>
+</ul>
+<p><span class="TaleSkill">WEAPON USE</span>: To the surprise of all assembled, you manage to duel the brigand leader to a draw. He allows you to assist him on his next raid, which earns you not only a fair portion of the spoils, but a bounty on your head, as well. [D+2 / S+2 / W+1 (Max: Rich) / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

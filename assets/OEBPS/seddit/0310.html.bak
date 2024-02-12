@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0309.html#TaleHeader">(309) - COURTLY GRACES, SEDUCTION</a><br/>
+<br/>
+<a href="0311.html#TaleHeader">(311) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">310</p>
+<p class="TaleDestiny">(310) - SEAMANSHIP, BARGAINING AND EVALUATION</p>
+<p>You meet the other at the docks and your heart goes out to him. You profess your great desire to aid the other. When you view him up close, you realize how makeup and dim light has concealed an ugliness of epic proportion. However, it is too late now to honorably withdraw your offer. The other says, &ldquo;You can best aid me by marriage, which would give me status with my neighbors.&rdquo;</p>
+<p><span class="TaleSkill"> NO SKILL</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are the same sex as the other or are Married</span>: You persuade a friend to undertake the marriage in exchange for a mighty favor. [D+1 / <span class="TaleStatus">Under Geas</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: You realize that you must be the one to do this thing. Your life is miserable for long after. [D+1 / <span class="TaleStatus">Married</span> / <span class="TaleStatus">Accursed</span>]</li>
+</ul>
+<p><span class="TaleSkill">SEAMANSHIP</span>: You propose to the other that you teach him how to fish and be a fish monger. This will give him a trade and therefore respect amongst his neighbors. He agrees and you spend some weeks training him. [D+2 / Bargaining and Evaluation]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You consider approaching the other, but you wisely never bargain for goods without first inspecting them. In conversation with those around, you discover the other&rsquo;s terrible faults and steer clear. You count yourself fortunate for your restraint. [D+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

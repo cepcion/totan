@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2202.html#TaleHeader">(2202) - BEGUILING</a><br/>
+<br/>
+<a href="2204.html#TaleHeader">(2204) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2203</p>
+<p class="TaleDestiny">(2203) - LUCK</p>
+<p>Your detailed schemes always seem to end badly, so when an opportunity presents itself, you follow your instincts. With a quick blow, you knock out your victim and then drag him to an empty home nearby.</p>
+<p><span class="TaleSkill">NO SKILL</span>: All seems well until the members of the household return. You are able to escape, but your face has been seen by many. [S+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><span class="TaleSkill">LUCK</span>: The house belongs to a merchant who is away on business. This allows you to conduct the ransom negotiations without interference, which brings you you a nice profit. [W+2 (Max: Rich)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

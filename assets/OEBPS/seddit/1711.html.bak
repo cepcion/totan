@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1710.html#TaleHeader">(1710) - MAGIC</a><br/>
+<br/>
+<a href="1712.html#TaleHeader">(1712) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1711</p>
+<p class="TaleDestiny">(1711) - LUCK, QUICK THINKING</p>
+<p>As your vessel passes through a narrow strait, the lookout high above calls down, &ldquo;A sail! I see a sail!&rdquo; You turn toward the other ship, hoping to get some news. Your sharp eyes notice a disturbance in the water. To your shock, you realize it is an enormous creature: a dendan! You watch aghast as the mighty fish attacks the other vessel, splintering the timbers and scattering the terrified sailors to the waves. As fast as it appeared, the creature vanishes beneath the waves, leaving debris and carnage in its wake.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You order the captain to sail to the wreckage so you can rescue any survivors. Among the sailors you find a salty old man whose entire life has been the sea. For the remainder of your voyage, you happily listen to his tales of sailing and adventure. [S+1 / Seamanship]</p>
+<p><span class="TaleSkill">LUCK</span>: You decide to row a lifeboat over to the wreck to check for survivors. Sadly, you find no sailors still alive. But you do notice a watertight chest bobbing in the surf. Taking it aboard, you break open the lock and discover an aged and mildewed map. [D+1 / Opportunity to enter the <a href="0180.html#TaleHeader">Valley of Diamonds</a>]</p>
+<p><span class="TaleSkill">QUICK THINKING</span>: As fast as you can, you order the sailors to the boats to gather everything they can find from the wreckage. Among the debris is many dinars worth of precious silks and textiles. Enough to fetch a tidy sum in your next port of call! [D+1 / W+1 (Max: Rich)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

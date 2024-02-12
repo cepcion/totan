@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2130.html#TaleHeader">(2130) - PIETY</a><br/>
+<br/>
+<a href="2132.html#TaleHeader">(2132) - SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2131</p>
+<p class="TaleDestiny">(2131) - BEGUILING</p>
+<p>It has been a hot and wearying road, and your travels have been difficult. As you wander the dusty city streets, you long for companionship, love, and passion. A colorful banner catches your eye&mdash;a lovely fortune teller beckons to you. You enter her shop and explain your desires. She holds a heart-shaped pendant before you, and explains that donning it will transport you to a fantastic palace. The residents can give you all you need. You give her a sack of coins for the pendant.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You arrive in the palace as promised. There you find countless beauteous and strange residents who welcome you. Soon, you return to the world, but your mind is no longer your own. [D+1 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><span class="TaleSkill">BEGUILING</span>: Placing the pendant around your neck, the world dissolves around you. Your feet touch down in the gardens of a glorious palace. Enchanting and beautiful denizens frolic among the paths and chambers. They take an immediate liking to you, and show you passion as you have never seen. [D+1 / S+2 / Seduction]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

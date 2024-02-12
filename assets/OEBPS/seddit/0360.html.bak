@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0359.html#TaleHeader">(359) - MAGIC</a><br/>
+<br/>
+<a href="0361.html#TaleHeader">(361) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">360</p>
+<p class="TaleDestiny">(360) - PIETY</p>
+<p>The other is depressed and weary, but friendly. &ldquo;You may accompany me on my doomed trek, if you wish.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You go with him as far as you dare. You must eventually bid him farewell, to return to your own quest. Before you leave, he tells you a fascinating tale about your future. [D+2 / S+1 / <span class="TaleStatus">Fated</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: You reply, &ldquo;There is no strength or power but in Allah. If you are doomed, it is by His wise decree. And if there is no decree, you are not doomed.&rdquo; This cheers your companion, and he accompanies you, praising you to all you meet. [D+3 / S+2 / Enduring Hardship / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

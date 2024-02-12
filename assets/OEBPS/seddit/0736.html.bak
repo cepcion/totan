@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0735.html#TaleHeader">(735) - MAGIC</a><br/>
+<br/>
+<a href="0737.html#TaleHeader">(737) - SCHOLARSHIP, STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">736</p>
+<p class="TaleDestiny">(736) - None</p>
+<p>The whirlpool opens beneath the ship&mdash;there is no time to avoid it. At its center is a small gleaming tower of rock, wreathed in a clutter of metal. Could it be magnetic?</p>
+<p class="TaleChoicePrompt">You can jettison all things metallic or trust in your abilities to sail on:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you dump your metal</span>: Once free of the magnetic pull, the ship sails away easily. Unfortunately, you lost a great deal of wealth, and the other passengers, disbelieving your story of a &ldquo;magnetic island,&rdquo; consider you feeble-minded. [D+1 / S+1 / W-2 (Min: Poor) / <span class="TaleStatus">Scorned</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you sail on, roll two dice, adding one for <span class="TaleRoll2DSkill">Seamanship</span>:</li>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: You try to sail out of the whirlpool, but it is too powerful. The ship is wrecked, and you are cast up on a distant shore. [W-2 (Min: Beggar) / Have another player move you to any coastal space]</li>
+<li class="TaleDieRollResult">8+: You bravely fight against the whirlpool, and finally triumph! You succeed in saving the ship and all who are on it. The other passengers praise you for your supreme skill. [D+2 / S+2 / Seamanship / <span class="TaleStatus">Respected</span>]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

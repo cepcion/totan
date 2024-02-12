@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2028.html#TaleHeader">(2028) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="2030.html#TaleHeader">(2030) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2029</p>
+<p class="TaleDestiny">(2029) - FATED (M)</p>
+<p>A strange outcropping of rock catches your attention. You investigate and notice strange symbols on one of the stones. As you run your fingers along them, the stones underneath part, revealing a paved walkway descending into the earth.</p>
+<p class="TaleChoicePrompt">Do you dare enter?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: Fearing the unknown, you depart. [S-1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: Courageously, you make your way down. The stones come together above you, shutting out the light you are familiar with, but the walkway has its own illumination. On either side of the path you see ancient buildings. One such building has activity: light, laughter, people! Men and women in strange garb make merriment, and something compels you to join them.</li>
+<ul class="SubTaleSkill">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: However, you resist the call to revelry. The next thing you know, you are in the hands of guards who take you to the Sultan. He wants the robe you are wearing&mdash;the one with encrusted jewels&mdash;and he offers anything from his treasury. Unsure of what is going on, you do not refuse; and you end up very happy indeed.
+[D+2 / Search through the Treasure deck and take any one Treasure]</li>
+<li><span class="TaleSkill">FATED (mandatory):</span> You join them without a second thought. Soon all memories of your past life fade away like wisps of smoke slowly rising in the air. Nothing is left of your old life but the ash of a previous existence, replaced by this moment, this eternally locked moment among these new people. [Death]</li>
+</ul></ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0589.html#TaleHeader">(589) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="0591.html#TaleHeader">(591) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">590</p>
+<p class="TaleDestiny">(590) - BARGAINING AND EVALUATION, WILDERNESS LORE</p>
+<p>Your captive is surly and uncooperative and is worthless for ransom.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You let him go without a word. [S+1]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: You decide that he can be sold as a slave into the gladiatorial circuit. [W+1 (Max: Rich)]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You speak briefly and find you share a love of the natural world. Finally, piecing together information each of you has, you discover a great secret&mdash;the location of a fabulous valley full of diamonds. You resolve to adventure there together. [D+2 / S+1 / Wilderness Lore / <span class="TaleStatus">Blessed</span> / Opportunity to enter the <a href="0180.html#TaleHeader">Valley of Diamonds</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

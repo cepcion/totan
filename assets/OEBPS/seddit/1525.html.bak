@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1524.html#TaleHeader">(1524) - SEDUCTION (if you are female), APPEARANCE (if you are male)</a><br/>
+<br/>
+<a href="1526.html#TaleHeader">(1526) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1525</p>
+<p class="TaleDestiny">(1525) - COURTLY GRACES, ACTING AND DISGUISE</p>
+<p>The jailor accepts your flattery as a sponge accepts water, and he demands that you go on.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You soon run out of praises to heap upon him, and he beats you for your insincere lies. [D+1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">COURTLY GRACES, ACTING AND DISGUISE</span>: You flatter him for hours, likening him to the greatest of Caliphs. You so impress him that he grants you your freedom on your promise that you will stay to flatter him longer. You agree, but once out of your prison, you make good your escape. [D+1 / Beguiling / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

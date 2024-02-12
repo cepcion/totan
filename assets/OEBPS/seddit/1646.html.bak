@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1645.html#TaleHeader">(1645) - WEAPON USE</a><br/>
+<br/>
+<a href="1647.html#TaleHeader">(1647) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1646</p>
+<p class="TaleDestiny">(1646) - ENDURING HARDSHIP</p>
+<p>A convicted criminal sits inside a glowing metal cage, taunting you. Though at first you try to ignore him, you find yourself becoming angrier and angrier at the taunts. You brandish your weapon, which does nothing to silence him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You try to strike at him through the cage, but he merely moves aside and insults you again. After a few strikes, you accidentally hit the lock, releasing him. He thanks you, then gestures and disappears into the air. The townspeople are not happy that you freed an evil sorcerer. [S+1 / <span class="TaleStatus">Scorned</span> / <span class="TaleStatus">Pursued</span> (SOLDIER)]</p>
+<p><span class="TaleSkill">ENDURING HARDSHIP</span>: Thinking better of it, you put away your weapon and move on. [D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

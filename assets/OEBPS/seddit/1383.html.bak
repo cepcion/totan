@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1382.html#TaleHeader">(1382) - BEGUILING, SEDUCTION (if you are female), APPEARANCE</a><br/>
+<br/>
+<a href="1384.html#TaleHeader">(1384) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1383</p>
+<p class="TaleDestiny">(1383) - None</p>
+<p>The robber chief does not seem to mind your refusal.</p>
+<p class="TaleRoll2D">Roll one die, adding one for <span class="TaleRoll2DSkill">Wisdom</span>:</p>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: As you leave the tent, you do not notice the two men who sneak up behind you and&hellip; well, fortunately, they leave you alive. [D+1 / W-2 (Min: Poor) / <span class="TaleStatus">Wounded</span>]</li>
+<li class="TaleDieRollResult">4+: Wary of treachery, you offer to show the robber chief something you have left with your horse. Intrigued, he follows. When you reach your horse, you leap astride and ride off before they can react. [D+1 / S+2 / Quick Thinking]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

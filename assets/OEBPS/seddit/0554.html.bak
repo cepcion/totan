@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0553.html#TaleHeader">(553) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="0555.html#TaleHeader">(555) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">554</p>
+<p class="TaleDestiny">(554) - WEAPON USE</p>
+<p>As you step to the attack, you note the quality of his weapons and the confidence of his demeanor. He is a sublimely skilled swordsman.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your opponent humiliates you and spoils your clothes, and lays waste to extensive areas of your skin. [D+1 / <span class="TaleStatus">Scorned</span> / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">WEAPON USE</span>: Despite your considerable skill, you barely manage to defend yourself, and finally you manage to escape unharmed. All who witnessed your battle are amazed at your ability, for none has fought this desert bandit before and survived. None think ill of you for retreating, and your reputation is enhanced. [D+2 / S+2 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

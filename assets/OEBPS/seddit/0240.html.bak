@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0239.html#TaleHeader">(239) - LUCK, SEDUCTION</a><br/>
+<br/>
+<a href="0241.html#TaleHeader">(241) -  WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">240</p>
+<p class="TaleDestiny">(240) - ACTING AND DISGUISE, BARGAINING AND EVALUATION</p>
+<p>Despite an outward appearance of poverty, the other is secretly amazingly wealthy.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You are so amazed at the wealth of this apparently destitute soul that you cry out in surprise. Others hear you, and you are caught in the act. Your victim turns out to be a Vizier sojourning among the people to learn of their condition.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Wisdom</span>, <span class="TaleRoll2DSkill">Appearance</span>, <span class="TaleRoll2DSkill">Courtly Graces</span>, and <span class="TaleRoll2DSkill">Quick Thinking</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: You are jailed for your crimes. [D+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+<p></p>
+<li class="TaleDieRollResult">8+: You plead in your defense the very thing the Vizier was trying to find out. The condition of the people, as represented by yourself, is so bad that you must rob for a living. The Sultan is impressed by your plea and your judgment is light. [D+2 / S+1]</li>
+</ul>
+<p><span class="TaleSkill">ACTING AND DISGUISE, BARGAINING AND EVALUATION</span>: You study the actions of your intended victim, realizing that something seems out of place. You soon discover that the other is actually a disguised Vizier, and you confront him and ask him of his purpose. Impressed with your discerning nature, he asks you to join the Sultan's court as an honored adviser. [D+2 / S+1 / Wisdom / <span class="TaleStatus">Respected</span> / <span class="TaleStatus">Robe of Honor</span>]</p>
+<p>
+<p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

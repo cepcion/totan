@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+  <head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="css/epub.css"/>
+  </head>
+  <body>
+    <a name="TaleHeader"></a><p class="TaleHeader">181</p>
+    <p class="TaleName">THE UNDERSEA KINGDOM</p>
+    <p>The Undersea Kingdom is a vast and varied empire of mermen (and mermaids) which few land dwellers ever see. It contains cities without number, vast wealth, and inhabitants who have a burning curiosity about and great admiration for the sons of Adam. But the perils of this great land are also great: the dendan swim these waters, and they are the most ferocious creatures in existence. </p>
+    <p>You are treated as an honored guest by the Sea-Born, and many great sights are shown to you. </p>
+    <p>You may&hellip;</p>
+    <p><span class="choice">Choice 1:</span> Drink deeply of the sights and marvels of the Undersea Kingdom.</p>
+    <p><span class="choice">Choice 2:</span> Learn as much as you can of the people of this remarkable land, so similar to and yet different from your own people.</p>
+    <p><span class="choice">Choice 3:</span> Gain the confidence of one of the Kings of this land and persuade him to conquer his neighbors.</p>
+    <p>Which do you choose?</p>
+    <dl>
+      <dt><span class="choice">Choice 1</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1361.html#TaleHeader">1361</a></dd>
+      <dd>[blank] <a href="1362.html#TaleHeader">1362</a></dd>
+      <dd>[+] <a href="1363.html#TaleHeader">1363</a></dd>
+    </dl>
+    <dl>
+      <dt><span class="choice">Choice 2</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1364.html#TaleHeader">1364</a></dd>
+      <dd>[blank] <a href="1365.html#TaleHeader">1365</a></dd>
+      <dd>[+] <a href="1366.html#TaleHeader">1366</a></dd>
+    </dl>
+    <dl>
+      <dt><span class="choice">Choice 3</span> (Roll the Destiny Die):</dt>
+      <dd>[&ndash;] <a href="1367.html#TaleHeader">1367</a></dd>
+      <dd>[blank] <a href="1368.html#TaleHeader">1368</a></dd>
+      <dd>[+] <a href="1369.html#TaleHeader">1369</a></dd>
+    </dl>
+    <p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+  </body>
+</html>

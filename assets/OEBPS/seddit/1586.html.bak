@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+<a name="TaleHeader"></a><p class="TaleHeader">1586</p>
+<p class="TaleDestiny">(1586) - DETERMINED (M*), WEALTH: POOR or less (M*), CRIPPLED (M), DISEASED (M), INSANE (M)</p>
+<p>You drift, thirsty, hungry, and cold, for many days. In time, your mind begins to wander. When you come to your senses, you are being taken aboard a ship full of grinning rogues. &ldquo;Well, surely you&rsquo;ll bring a fine ransom,&rdquo; they chortle.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You have no choice but to arrange for payment. [D+1 / S+1 / W-1 (Min: Penniless) / Have another player move you to any coastal space]</p>
+<p><span class="TaleSkill">DETERMINED, WEALTH: POOR or less (All mandatory unless you are Crippled, Diseased or Insane):</span> The rogues decide you are more trouble than you are worth. They toss you overboard, and already weak, you sink rapidly. As you begin to drown, you feel hands grasping at your clothing.
+[D+2 / S+1 / Move to the <a href="0181.html#TaleHeader">Undersea Kingdom</a> and have an immediate encounter]</p>
+<p><span class="TaleSkill">CRIPPLED, DISEASED, INSANE  (All mandatory)</span>: When they discover your affliction, they change their minds and make sport of you until you cease to provide amusement. They then set you adrift in an old barrel and throw rocks and bottles at it until you sink. The last thing you hear, as you commend your soul unto Allah, is a particularly odious pirate wagering an insultingly small sum that you will fail to come up again. [Death]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

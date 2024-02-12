@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0783.html#TaleHeader">(783) - MAGIC</a><br/>
+<br/>
+<a href="0785.html#TaleHeader">(785) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">784</p>
+<p class="TaleDestiny">(784) - WILDERNESS LORE</p>
+<p>As you speak, the bizarre creature cocks its head as if curious, then turns and moves swiftly away.</p>
+<p><span class="TaleSkill">NO SKILL</span>: It quickly outdistances you, and no one believes your wild tale.
+[S+1]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You easily track the beast to its lair and discover an entire family. You wait until the parents leave to forage, then sneak inside and steal a baby to bring to the Sultan for his menagerie. [D+1 / S+1 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

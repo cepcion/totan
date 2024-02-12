@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2106.html#TaleHeader">(2106) - LUCK</a><br/>
+<br/>
+<a href="2108.html#TaleHeader">(2108) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2107</p>
+<p class="TaleDestiny">(2107) - STORYTELLING</p>
+<p>For years travelers in this region have told tales of the mysterious Magnetic Mountain. Rumors of the source of its magnetic powers abound. You decide to investigate it for yourself. After setting aside all metal objects in your possession, you set out to explore the mountainside.</p>
+<p><span class="TaleSkill">NO SKILL</span>: After two days of fruitless searching, you give up and return to the village, no wiser than when you left. Your time in the magnetic fields was not without benefit, however, as your companions comment on how healthy you look upon your return. [S+1 / Lose <span class="TaleStatus">Crippled</span> / Lose <span class="TaleStatus">Wounded</span> / Lose <span class="TaleStatus">Diseased</span>]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: As you wander the mountainside, you encounter a mysterious young man who insists that you join him for a drink. The two of you tell each other tales long into the night. When the dawn arrives, your companion mysteriously fades from view. You realize that the source of the magnetic power is a ghost! If you can find the site of the haunting, perhaps you can lift the curse. [D+1 / W-1 (Min: Poor) / Move to the <a href="0176.html#TaleHeader">Haunted House</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0784.html#TaleHeader">(784) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0786.html#TaleHeader">(786) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">785</p>
+<p class="TaleDestiny">(785) - MAGIC</p>
+<p>You speak in a soft voice to the beast to entice it to come along with you. You praise Allah as the beast stares as if it understands and would speak. A noise startles it, and it bounds away.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You seek to follow but lose its trail. Others scoff at your unlikely tale and offer no help. [S+1]</p>
+<p><span class="TaleSkill">MAGIC</span>: This beast is ensorcelled! You call the beast back, and it kneels before you. You utter a magical word and sprinkle it with water, and the creature is transformed into a beautiful youth!</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you are not Married</span>: Her gratitude is unrestrained. [D+1 / S+2 / <span class="TaleStatus">Beloved</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: The one you have freed praises you again and again to the Most High for removing the curse. [D+1 / S+2 / <span class="TaleStatus">Blessed</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

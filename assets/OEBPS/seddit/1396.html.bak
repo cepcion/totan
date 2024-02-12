@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1395.html#TaleHeader">(1395) - None</a><br/>
+<br/>
+<a href="1397.html#TaleHeader">(1397) - LUCK, MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1396</p>
+<p class="TaleDestiny">(1396) - None</p>
+<p>You square off and prepare.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Weapon Use</span>, <span class="TaleRoll2DSkill">Courtly Graces</span>, and <span class="TaleRoll2DSkill">Appearance</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;6: Enraged by your impolite refusal, he attacks. Soon you lie groaning in the dust. [S+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Lost</span>]</li>
+<li class="TaleDieRollResult">7+: He accepts your refusal without comment, but hands you something wrapped in cloth before he goes. Within is a marvelous treasure! [D+1 / S+1 / <span class="TaleStatus">Lost</span> / Treasure]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

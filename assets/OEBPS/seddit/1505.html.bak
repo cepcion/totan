@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1504.html#TaleHeader">(1504) - BEGUILING</a><br/>
+<br/>
+<a href="1506.html#TaleHeader">(1506) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1505</p>
+<p class="TaleDestiny">(1505) - STORYTELLING</p>
+<p>The other looks at you speculatively.</p>
+<p><span class="TaleSkill">NO SKILL</span>: &ldquo;You are too kind,&rdquo; he says. &ldquo;However, there is little I can do for you, I&rsquo;m afraid.&rdquo; [D+1]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: After a moment&rsquo;s pause, he asks if you have any talent at entertainment. Your tales delight him, and in payment, he frees you.
+[D+1 / S+1 / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

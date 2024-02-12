@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2379.html#TaleHeader">(2379) - PIETY</a><br/>
+<br/>
+<a href="2381.html#TaleHeader">(2381) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2380</p>
+<p class="TaleDestiny">(2380) - DENDAN OIL</p>
+<p>A string of robberies has been plaguing the area, and luckily you have spotted the culprit&mdash;a merman!&mdash;depositing his ill-gotten goods in a nearby lake. Patiently, you sit watching until he re-emerges from the water and heads off. Then you dive in, carrying as much as you can from his makeshift home.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You return some of the treasure to the victims, but keep the bulk of it for yourself. [W+2 (Max: Respectable) / <span class="TaleStatus">Determined</span>]</p>
+<p><span class="TaleSkill">DENDAN OIL</span>: You return all the treasure to their respective owners, and are even left with something for yourself. The people applaud your actions. [D+1 / W+2 (Max: Rich) / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

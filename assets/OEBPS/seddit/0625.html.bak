@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0624.html#TaleHeader">(624) - QUICK THINKING</a><br/>
+<br/>
+<a href="0626.html#TaleHeader">(626) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">625</p>
+<p class="TaleDestiny">(625) - BEGUILING  (M)</p>
+<p>In response to your cries, a wild-eyed dervish appears. He eagerly promises to lead you home. However, there is definitely something odd about his speech and manner, and you hesitate to trust him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleChoicePrompt">You may accept his aid, or refuse</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse</span>: [Go to paragraph <a href="1396.html#TaleHeader">1396</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you accept</span>: [Go to paragraph <a href="0627.html#TaleHeader">627</a>]</li>
+</ul>
+<p><span class="TaleSkill">BEGUILING  (mandatory):</span> Your familiarity with connivers warns you against this fellow and you revile him. [Go to paragraph <a href="1396.html#TaleHeader">1396</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

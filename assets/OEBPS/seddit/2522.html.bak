@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2521.html#TaleHeader">(2521) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="2523.html#TaleHeader">(2523) - SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2522</p>
+<p class="TaleDestiny">(2522) - MAGIC</p>
+<p>Exploring the lower reaches of an ancient tomb, you find a robust youth sitting on a glowing sarcophagus in the center of an otherwise bare room. The youth smiles cheerily. &ldquo;Greetings, fair stranger!&rdquo; The youth claims to have discovered an enchanted item (patting the sarcophagus) that preserves vigor at the cost of free will. &ldquo;I&rsquo;ve been here untold years and would be grateful for your help escaping the curse.&rdquo; The youth reaches out a hand and asks that you take it, promising you a sparkling bauble for your help. You agree, and reach out.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The moment you touch his hand, you find yourself on the sarcophagus, and the youth in your place. Shrugging nonchalantly, the youth apologizes for the deceit and wanders off. [S+1 / <span class="TaleStatus">Ensorcelled</span>]</p>
+<p><span class="TaleSkill">MAGIC</span>: Just before you touch the hand, you notice certain symbolic carvings on the sarcophagus. You withdraw and cast some protective wards about yourself. You then grab the proffered hand and pull the youth away. Stunned by these events, the grateful person stammers thanks. &ldquo;Please, take this. It is a small price to pay for my freedom.&rdquo; [D+1 / S+2 / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1230.html#TaleHeader">(1230) - APPEARANCE</a><br/>
+<br/>
+<a href="1232.html#TaleHeader">(1232) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1231</p>
+<p class="TaleDestiny">(1231) - WILDERNESS LORE</p>
+<p>While watching the activity over the pearl beds, you notice one swimmer struggling in the water. Suddenly he goes down. You dive in after him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You grab him and try to haul him to the surface, but he panics and drags you under as well. You barely break free. He is not so fortunate, and you feel his death on your hands. [S+1 / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: Although he panics, you manage to save the diver. In gratitude, he gives you his haul of pearls. [D+1 / S+1 / W+2 (Max: Rich) / <span class="TaleStatus">Respected</span>] (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

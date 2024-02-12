@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0408.html#TaleHeader">(408) - None</a><br/>
+<br/>
+<a href="0410.html#TaleHeader">(410) - WISDOM</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">409</p>
+<p class="TaleDestiny">(409) - BEGUILING, ACTING AND DISGUISE</p>
+<p>You attempt to fool the other into giving you a valuable magic item, by pretending to be a scholar who has discovered the item is cursed. You learn, however, that the other is a scholar also, and will see through your blatant lies.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You hastily abandon your scheme and get out while you can.
+[D+1 / Wisdom]</p>
+<p><span class="TaleSkill">BEGUILING, ACTING AND DISGUISE</span>: So confident are you in your own talents of deception that you carry through with your plans. When they fail, as they must with a victim so astute, you regret your foolishness. The other is furious, and you suffer accordingly. [D+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

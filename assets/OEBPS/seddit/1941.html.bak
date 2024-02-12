@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1940.html#TaleHeader">(1940) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1942.html#TaleHeader">(1942) - SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1941</p>
+<p class="TaleDestiny">(1941) - BARGAINING AND EVALUATION</p>
+<p>It is well known that many guards are, at some level, corrupt. Perhaps you can find a guard at the Crystal Palace who will allow you to pass in exchange for some small token?</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your clumsy efforts at bribery are met with snorts of derision by the guards. Without ceremony, you are dragged away from the palace and cast into the muddy road. [S+1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: With a clever gleam in your eye, you approach a lone guard and strike up a conversation. Once you have his trust, you learn of his desire to court a certain young maiden from the nearby village. In exchange for a suitable courting gift, he agrees to look the other way as you sneak into the palace. [D+1 / S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

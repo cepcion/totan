@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1542.html#TaleHeader">(1542) - QUICK THINKING</a><br/>
+<br/>
+<a href="1544.html#TaleHeader">(1544) - STEALTH AND STEALING, LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1543</p>
+<p class="TaleDestiny">(1543) - BEGUILING, BARGAINING AND EVALUATION</p>
+<p>You engage the jailor in conversation and casually mention the existence of an elixir that can change one&rsquo;s appearance. The jailor is intrigued and offers you freedom in exchange for the whereabouts of this wondrous drink.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You are unable to convince him that you know where to find such a potion and he leaves you to rot. [D-1]</p>
+<p><span class="TaleSkill">BEGUILING, BARGAINING AND EVALUATION</span>: You give convincing information on where to find this elixir and the jailor lets you go. Fortunately, he is as foolish as he is ugly. [D+1 / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

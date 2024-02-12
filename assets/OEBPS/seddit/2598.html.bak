@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2597.html#TaleHeader">(2597) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="2599.html#TaleHeader">(2599) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2598</p>
+<p class="TaleDestiny">(2598) - PIETY  (M)</p>
+<p>You are amazed by the fine steed you see outside the stables of the emir. You wonder how you might acquire such a mount for yourself and seek help from a local merchant friend.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The merchant tells you that you could not hope to purchase the horse, for it belongs to a distant cousin of the emir who is due any day to reclaim it. Together, you make a plan to disguise yourself as the emir&rsquo;s cousin and trick the emir into giving you the horse. [S+1 / W+1 (Max: Rich) / Acting and Disguise]</p>
+<p><span class="TaleSkill">PIETY  (mandatory):</span> When your friend tells you the story of the owner of the horse, you realize that you cannot with clear conscience steal such a wondrous beast. You leave empty-handed but with a warm heart.
+[D+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

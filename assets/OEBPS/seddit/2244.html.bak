@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2243.html#TaleHeader">(2243) - SEAMANSHIP</a><br/>
+<br/>
+<a href="2245.html#TaleHeader">(2245) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2244</p>
+<p class="TaleDestiny">(2244) - ACTING AND DISGUISE</p>
+<p>Seeing the effort the other has gone to, you assume there must be riches to be had. Desperate for coin, you implore the other to allow you to aid him for a modest share.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The other silences you with a hard stare. Quickly looking about to find if you have undone the disguise, the other grabs you firmly by the arm and drags you to a hidden location. He lets you in on his plan in all its intricacies, and too he tells of the enormous reward awaiting its completion. Your part is to observe one of the side gates of a local merchant&rsquo;s compound. It takes a full day and most of a night before you realize you have been sent on a wild goose chase while the other carried out whatever his real work was. [S+2]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: The other whisks you to a hidden location to speak with you unheard. After learning the plan, you list the many ways in which you could be of use. The other settles on disguising you to play the part of an advisor during his complicated plot to wrest gold from a local merchant.</p>
+<p class="TaleRoll2D">Roll one die, adding one each for <span class="TaleRoll2DSkill">Beguiling</span>, <span class="TaleRoll2DSkill">Quick Thinking</span>, and <span class="TaleRoll2DSkill">Courtly Graces</span>.</p>
+<ul>
+<li class="TaleDieRollResult">1: The merchant has been alerted to your plot. Barely have you entered the compound when the gates swing shut behind you and a host of guards rush to greet you. [D-1 / S+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+<li class="TaleDieRollResult">2&ndash;3: The merchant is highly suspicious of the whole situation, having been warned that something may be afoot. With quick tongue, you craft an offer of obtaining proof of the other&rsquo;s veracity. The merchant allows you to leave to fetch the evidence. You flee the region, never looking back. The other manages to extricate himself as well and vows vengeance. [S+2 / <span class="TaleStatus">Pursued</span>]</li>
+<li class="TaleDieRollResult">4&ndash;6: You play your part well enough, but the merchant is highly suspicious. At an alarmed look from the other, you weave an excuse and delay the dealings for another time. Under the watchful scowl of the merchant, you and the other escape to scheme another day. The other is grateful for your intervention. He rewards you and remembers you fondly till his dying day. [D+1 / S+2 / W+1 (Max: Rich) / <span class="TaleStatus">Respected</span>]</li>
+<li class="TaleDieRollResult">7&ndash;8: The merchant is taken in by the plot, cautiously. He is not caught as much as the other would have liked. With quick words you smooth the conversation, and the plot succeeds. The merchant is soon substantially poorer, while you enjoy your portion of the spoils from the fleecing. [D+1 / S+2 / W+2 (Max: Princely)]</li>
+<li class="TaleDieRollResult">9: The merchant is pulled into the plan hook, line, and sinker. While the other deals with the elaborate preparations of the false caravan that the merchant is being hooked into backing, you manage to slip away and dig through the compound&rsquo;s storehouse. You find many loose coins and treasures&mdash;and a very interesting map. [S+2 / W+2 (Max: Princely) / Treasure / Opportunity to enter the <a href="0180.html#TaleHeader">Valley of Diamonds</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

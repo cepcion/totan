@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0630.html#TaleHeader">(630) - QUICK THINKING</a><br/>
+<br/>
+<a href="0632.html#TaleHeader">(632) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">631</p>
+<p class="TaleDestiny">(631) - FATED  (M),  LUCK</p>
+<p>Your feet are quickly swept out from under you and you are carried into the valley below.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You are battered and dazed and pinned by debris. Worse, your cries attract small creatures which nibble on the exposed parts of your body. [S+1 / Lose Quick Thinking / <span class="TaleStatus">Wounded</span>]</p>
+<p><p><span class="TaleSkill">FATED  (mandatory),  LUCK</span>: The plunge is severe and you are sorely wounded, but when you regain consciousness you notice large gleaming gems scattered across the ground around you. Truly, Allah moves in mysterious ways! [D+2 / S+2 / <span class="TaleStatus">Crippled</span> / Move to the <a href="0180.html#TaleHeader">Valley of Diamonds</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

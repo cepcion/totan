@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0612.html#TaleHeader">(612) - WILDERNESS LORE, SEAMANSHIP</a><br/>
+<br/>
+<a href="0614.html#TaleHeader">(614) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">613</p>
+<p class="TaleDestiny">(613) - SCHOLARSHIP</p>
+<p>You begin your travel and soon realize you are in unfamiliar lands. Strange people flock about you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: [D+1 / Lose lost / Have an immediate encounter with <a href="ReactionMatrix-I-StrangeCustoms.html">Strange Customs (Matrix I)</a>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: From your wide reading you recognize the people and are able to pinpoint your location. They are fascinated and eagerly coax you to tell them stories of distant lands. You spend many a day with them, and learn their strange stories. [D+1 / S+2 / Lose <span class="TaleStatus">Lost</span> / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

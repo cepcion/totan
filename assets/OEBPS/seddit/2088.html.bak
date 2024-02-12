@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2087.html#TaleHeader">(2087) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="2089.html#TaleHeader">(2089) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2088</p>
+<p class="TaleDestiny">(2088) - WISDOM</p>
+<p>Captain Tariq has recently arrived in this town, and the word in every ear is that he has been seized by madness. He sleeps outside in the day, is awake at night and never outdoors, and he falls to the ground barking like a dog. You determine to investigate this and take every opportunity to follow him.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The poor man does indeed seem to be completely around the bend. A few days later, his ship sails off and you do not hear of him again. [S+1]</p>
+<p><span class="TaleSkill">WISDOM</span>: You realize that Tariq is feigning madness&mdash;his barks are actually a code to his crew, who are hurrying around the town gathering contraband to smuggle onto the ship while all eyes on their &ldquo;mad&rdquo; captain. You reveal the plot to the emir and are rewarded for your keen insight. [D+1 / S+1 / W+1 (Max: Rich) / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1885.html#TaleHeader">(1885) - WILDERNESS LORE, ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="1887.html#TaleHeader">(1887) - STEALTH AND STEALING, SEDUCTION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1886</p>
+<p class="TaleDestiny">(1886) - WEAPON USE  (M), SEAMANSHIP</p>
+<p>As soon as you approach the other, he immediately turns on you and attacks in a drunken rage!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You do not wish to harm the poor drunk, so you trip him up and make a hasty retreat. You&rsquo;ll have to find another lackey to hire. [S+1]</p>
+<p><span class="TaleSkill">WEAPON USE  (mandatory):</span> Before you can think, your weapon is in your hand, the other&rsquo;s blood dripping on the ground. &ldquo;Murder!&rdquo; you hear someone yell. You&rsquo;d best flee before you end up warming some dungeon. [D-1 / S+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: Your years on sailing ships have taught you a few tricks for dealing with drunken crewmen. In a flash you have subdued the other. Once he has sobered up, he eagerly offers to work for you. [D+1 / Gain one skill of your choice]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

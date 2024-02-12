@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2145.html#TaleHeader">(2145) - None</a><br/>
+<br/>
+<a href="2147.html#TaleHeader">(2147) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2146</p>
+<p class="TaleDestiny">(2146) - WILDERNESS LORE</p>
+<p>You have heard of an ancient city filled with riches in this area. After many days of searching, however, all you have found are a few old ruined walls. The prince of this land takes an interest in your explorations and sends his guards to &ldquo;assist&rdquo; you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You quickly get the message that any treasure you might find will not stay in your hands, and if you fail to find any, you will not walk away free. You try to make your escape, but you are not quick enough.
+[S+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: With your knowledge of the forests and deserts, you fill in the details of a map and make it appear very genuine. Your skill impresses the prince, who asks you to teach others how to make such maps, which will be of use in his military adventures. [S+2 / W+2
+(Max: Respectable)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

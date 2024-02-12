@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0274.html#TaleHeader">(274) - STORYTELLING</a><br/>
+<br/>
+<a href="0276.html#TaleHeader">(276) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">275</p>
+<p class="TaleDestiny">(275) - None</p>
+<p>You discourse with the other for long hours, delighting him no end. &ldquo;Your breeding and education are certainly superior. Everyone of my wealth and station should have such a one to advise him.&rdquo;</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Wisdom</span>, <span class="TaleRoll2DSkill">Bargaining and Evaluation</span>, and <span class="TaleRoll2DSkill">Scholarship</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: The evil one robs you of your freedom and enslaves you that you might remain with him. [D+2 / <span class="TaleStatus">Enslaved</span>]</li>
+<li class="TaleDieRollResult">8+: The other hires you as his advisor, inspiring in others jealously of your success. One who had long courted the favor of the other swears to destroy you. [D+2 / W+1 (Max: Rich) / <span class="TaleStatus">Pursued</span> (PRINCE)]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

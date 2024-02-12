@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0916.html#TaleHeader">(916) - QUICK THINKING</a><br/>
+<br/>
+<a href="0918.html#TaleHeader">(918) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">917</p>
+<p class="TaleDestiny">(917) - DISEASED (M), CRIPPLED (M), CARNELIAN IDOL (M), WEALTH POOR or less (M)</p>
+<p>On a dark and moonless night, a murmuring chant comes to your ears. You following the sound until you find its origin&mdash;a gathering of foul creatures, perhaps gools or Magians.</p><p><span class="TaleSkill">NO SKILL</span>: You are too frightened to show yourself and there is no one to rescue you from this situation. You hide in the shadows and listen to their terrible words, which cling to your soul. [D+1 / Lose Piety / <span class="TaleStatus">Accursed</span> (1 turn)]</p>
+<p><span class="TaleSkill">DISEASED, CRIPPLED, CARNELIAN IDOL, WEALTH POOR or less (All mandatory)</span>: The evil ones sing praises to their false gods. Your fortunes lately have been harsh and unjust, and you are open to their seductive promises of power and wealth. You succumb, agreeing to set aside Allah.
+[D+1 / W+1 (Max: Rich) / Lose Piety / <span class="TaleStatus">Accursed</span> / Lose any statuses of your choice]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

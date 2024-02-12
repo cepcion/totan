@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2072.html#TaleHeader">(2072) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="2074.html#TaleHeader">(2074) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2073</p>
+<p class="TaleDestiny">(2073) - ACTING AND DISGUISE</p>
+<p>Having stowed away on board a merchant vessel, you hear the sound of the captain&rsquo;s feet as he makes his way from cabin to cabin.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You remain where you are, ducked inside an empty wine barrel, in the hopes of evading discovery. The ship is too small to hide in forever, however. Eventually the captain finds you, strips you of your belongings and forces you to serve as his cabin boy. [D+1 / S+1 / W-5 (Min: Beggar) / <span class="TaleStatus">Enslaved</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: Realizing that there is really nowhere to hide on board a ship at sea, you decide to take a different approach. You disguise yourself as an unwashed deck hand. Although the captain doesn&rsquo;t recognize you, he sees nothing to take from you and thus keeps you on board as a crewman until the ship arrives at port. [D+1 / S+1 / Seamanship]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

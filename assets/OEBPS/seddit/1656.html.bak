@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1655.html#TaleHeader">(1655) - WEAPON USE</a><br/>
+<br/>
+<a href="1657.html#TaleHeader">(1657) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1656</p>
+<p class="TaleDestiny">(1656) - SEDUCTION (if of opposite gender)</p>
+<p>You are approached with an offer: a foul sorcerer&rsquo;s lair has been found, but no one is brave enough to try to bring the other to justice. You are not afraid, so you take the job. You sneak in. Suddenly, a light fills the room and you find yourself face to face with the most beautiful person you have ever seen&mdash;the sorcerer.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You find yourself stumbling numbly, awestruck by the beauty. He takes the opportunity to slip away into the night. [S+1 / <span class="TaleStatus">Love Struck</span>]</p>
+<p><span class="TaleSkill">SEDUCTION (if of opposite gender)</span>: Your glib yet intriguing tongue convinces him to stay. The two of you cannot help but be entranced with one another, and you tell him of your travels. You decide to escape that night together. [D+1 / <span class="TaleStatus">Beloved</span> / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

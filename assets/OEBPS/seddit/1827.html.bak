@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1826.html#TaleHeader">(1826) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1828.html#TaleHeader">(1828) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1827</p>
+<p class="TaleDestiny">(1827) - None</p>
+<p>While you are crossing the desert, a sandstorm robs you of your water bag and you are forced to drink from the first spring you can find. Sadly for you, it is a mysterious spring that reverses the gender of all who drink its waters! You travel from village to village seeking a wise man who can cure you of your bizarre ailment. You finally find a magician who agrees to transform you back in exchange for a favor in a distant land.</p>
+<p class="TaleChoicePrompt">Do you agree to his terms?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: He sends you on your way. You are still afflicted by the curse of the waters. [S+1 / <span class="TaleStatus">Sex-Changed</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: The magician casts a spell upon you. You are returned to your normal form, but now you have no control over your own movements! [D+1 / Lose <span class="TaleStatus">Sex-Changed</span> / Lose <span class="TaleStatus">Beast Form</span> / <span class="TaleStatus">Ensorcelled</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2257.html#TaleHeader">(2257) - None</a><br/>
+<br/>
+<a href="2259.html#TaleHeader">(2259) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2258</p>
+<p class="TaleDestiny">(2258) - MAGIC</p>
+<p>Your forehead touches the floor as you beg for a boon from the other. The other lifts you up. &ldquo;Beg not of me, for I can do nothing in my present condition. Rather, I need to beg of you.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: Alas, it&rsquo;s a situation you can do nothing about and you stammer an apology before moving away. [S+1]</p>
+<p><span class="TaleSkill">MAGIC</span>: You recognize the enchantment placed on the other and try to break it.</p>
+<p class="TaleRoll2D">Roll one die, adding one each for <span class="TaleRoll2DSkill">Wisdom</span> and <span class="TaleRoll2DSkill">Scholarship</span>:
+<ul>
+<li class="TaleDieRollResult">1: The being who placed this enchantment is far stronger than you&mdash;so much so that now you are engulfed in its magic! [<span class="TaleStatus">Ensorcelled</span>]</li>
+<li class="TaleDieRollResult">2: The enchantment is too strong, and the pain on the other&rsquo;s face at your failure strikes you to the core. [D+1 / <span class="TaleStatus">Grief Stricken</span>]</li>
+<li class="TaleDieRollResult">3&ndash;5: You lift the enchantment! The other rejoices, then grants your boon. [D+1 / W+2 (Max: Princely) / Treasure]</li>
+<li class="TaleDieRollResult">6+: Not only do you destroy the enchantment, you are able to trace it back to its origin, a location steeped in magic and wonder. [D+1 / W+2 (Max: Princely) / Opportunity to enter any <a href="PlacesofPower.html">Place of Power</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

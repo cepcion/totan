@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0773.html#TaleHeader">(773) - SEAMANSHIP</a><br/>
+<br/>
+<a href="0775.html#TaleHeader">(775) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">774</p>
+<p class="TaleDestiny">(774) - None</p>
+<p>Things have gone horribly wrong. You think upon the stories of great sailors you&rsquo;ve heard from the minstrels and try to emulate their skills to help the helmsman avoid a terrible whirlpool. The currents around this danger are unusual, and you know not which way to go. You call upon Allah to guide your hands.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Seamanship</span> and <span class="TaleRoll2DSkill">Wilderness Lore</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: You try to sail out of the whirlpool, but it is too powerful. The ship is wrecked, and you are cast up on a distant shore. [S+2 / Have another player move you to any coastal space]</li>
+<li class="TaleDieRollResult">8+: You triumph against the whirlpool! You succeed in saving the ship and all who are on it. The Master of the Ship makes you captain. [D+1 / S+2 / W+1 (Max: Rich) / Seamanship / Piety / <span class="TaleStatus">Respected</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

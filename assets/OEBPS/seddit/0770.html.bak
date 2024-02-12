@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0769.html#TaleHeader">(769) - WILDERNESS LORE, SEAMANSHIP</a><br/>
+<br/>
+<a href="0771.html#TaleHeader">(771) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">770</p>
+<p class="TaleDestiny">(770) - SEAMANSHIP, COURTLY GRACES</p>
+<p>You duck onto another ship to avoid the fearful trader, Captain Aziz. Aziz notices you and cries out that your avoidance of his ship is a bad omen&mdash;that you have put a curse on his ship and that anything bad that happens on his voyage is your fault.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Aziz&rsquo;s voice seems to carry supernaturally far as all in the port seem to immediately know what he said. You are not welcome on any ship that knows your name and the curse you bring. [Lose Seamanship / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">SEAMANSHIP, COURTLY GRACES</span>: You call back for all to hear and rebuff Aziz&rsquo;s claims. You are knowledgeable and well spoken on the matter and everyone can see that you are clearly not the cause of Aziz&rsquo;s troubles, past or future. [D+1 / Acting and Disguise]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

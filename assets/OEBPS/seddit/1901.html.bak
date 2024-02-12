@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1900.html#TaleHeader">(1900) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="1902.html#TaleHeader">(1902) - SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1901</p>
+<p class="TaleDestiny">(1901) - SEAMANSHIP</p>
+<p>Beating the other mercilessly, you barely notice when the guards arrive to arrest you. It seems that the other is a favorite of the Sultan!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You plead your case before the court, but the Sultan does not believe you. He orders you cast into his dungeons. [S+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: The Sultan learns of your skills as a sailor. He has need of such a man as you. He agrees to spare your life in exchange for delivering a message across a particularly dangerous sea.</p>
+<p class="TaleChoicePrompt">Do you agree to his offer?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you agree: roll two dice, adding one for <span class="TaleRoll2DSkill">Seamanship at Master level</span></span>:</li>
+<ul>
+<li class="TaleDieRollResult">2&ndash;5: Your skills are not up to the task. The ship is sunk. [Go to paragraph <a href="0315.html#TaleHeader">315</a>]</li>
+<li class="TaleDieRollResult">6&ndash;11: You deliver the Sultan&rsquo;s message. The recipient is pleased. [D+1 / Courtly Graces]</li>
+<li class="TaleDieRollResult">2&ndash;12+: You arrive with the message swiftly. The recipient is delighted with the news, and bestows great honors upon you for your skill and bravery. [D+1 / S+1 / <span class="TaleStatus">Robe of Honor</span>]</li>
+</ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you do not agree</span>: [S+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

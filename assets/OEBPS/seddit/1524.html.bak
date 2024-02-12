@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1523.html#TaleHeader">(1523) - COURTLY GRACES, ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="1525.html#TaleHeader">(1525) - COURTLY GRACES, ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1524</p>
+<p class="TaleDestiny">(1524) - SEDUCTION (if you are female), APPEARANCE (if you are male)</p>
+<p>At your words, the jailor responds with, &ldquo;Yes, yes, I can never tire of your flattery. Perhaps I&rsquo;ll bring you an extra piece of bread.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: Try as you might, you cannot persuade him to give you your freedom&hellip; but your meals are better than they were before. [S+1]</p>
+<p><span class="TaleSkill">SEDUCTION (if you are female)</span>: &ldquo;Hmm, how badly do you want your freedom?&rdquo; His green-toothed leer nearly shrivels your plans, but you still manage to say, &ldquo;I will do anything.&rdquo; With those words the jailor enters your prison&hellip; where you brain him with the rock you were holding behind you. [Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">APPEARANCE (if you are male)</span>: &ldquo;Hmm, I have an unfortunate daughter who could do worse than marry you. If you promise to wed my daughter and care for her, I will free you.&rdquo; You feel you have no choice in the matter if your story is to continue in this world. [<span class="TaleStatus">Married</span> / Lose <span class="TaleStatus">Imprisoned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

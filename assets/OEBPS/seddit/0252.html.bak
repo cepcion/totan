@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0251.html#TaleHeader">(251) - None</a><br/>
+<br/>
+<a href="0253.html#TaleHeader">(253) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">252</p>
+<p class="TaleDestiny">(252) - DETERMINED  (M)</p>
+<p>Your intended victim is easily taken and quite cooperative. He tries to convince you of the error of your ways with wise words and composed behavior.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You reflect on his words and are filled with shame and revulsion at your past behavior. Abashed, you humbly beg to become his companion, that you might learn from his actions, and he graciously consents. [D+2 / Wisdom / <span class="TaleStatus">Grief Stricken</span> (1 turn)]</p>
+<p><span class="TaleSkill">DETERMINED  (mandatory):</span> Your determination leaves you unmoved by your victim&rsquo;s words. Unfortunately, it seems your victim has no wealth, and your abduction of such a respected one earns you the hatred of the righteous. [D+1 / <span class="TaleStatus">Pursued</span> (SOLDIER) / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

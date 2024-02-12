@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1961.html#TaleHeader">(1961) - WEAPON USE, QUICK THINKING</a><br/>
+<br/>
+<a href="1963.html#TaleHeader">(1963) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1962</p>
+<p class="TaleDestiny">(1962) - SCHOLARSHIP</p>
+<p>You approach a large fleet of ships. Your vessel is surrounded and boarded. The admiral of the fleet demands that you join them in their raid on an enemy city.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You see no alternative but to join the fleet. Three days later, a massive storm strikes, and the fleet is scattered. Breathing a prayer of thanks to almighty Allah for his aid, you sail away before the fleet can regroup. [D+1 / S+1]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You impress the admiral with your knowledge and understanding of warfare. For many long hours, he listens as you describe methods and tactics for the attack. He follows your advice.</p>
+<p class="TaleRoll2D">Roll one die:</p>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: The defenders are too strong. Even with your input, the invasion is repulsed. [D-1 / S+1]</li>
+<li class="TaleDieRollResult">4+: Your strategy makes the difference between victory and defeat. The Admiral is pleased and gives you the first choice of the plunder. [D+1 / Treasure]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

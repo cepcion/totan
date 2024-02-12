@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2012.html#TaleHeader">(2012) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="2014.html#TaleHeader">(2014) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2013</p>
+<p class="TaleDestiny">(2013) - None</p>
+<p>A beggar offers to show you a wondrous sight for a few coins. You agree and are lead to decrepit building. A moaning figure gently rocks before a small campfire, head in hands. A freshly bloodied corpse lies nearby. You ask what is so wondrous about this grotesquery. The beggar says quietly, &ldquo;Watch.&rdquo; After a moment, the figure pushes back her hood and raises her head to the heavens, revealing the visage of a gooleh, tears streaming down her cheeks. &ldquo;I cannot abide by my nature, but what can I do? I must eat,&rdquo; she exclaims to no one. The beggar nudges you and points to the bulging sack at the gooleh&rsquo;s side. Noting her evident fatigue, you creep to the upper reaches of the building and begin playing softly on an oud.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Beguiling</span>, <span class="TaleRoll2DSkill">Courtly Graces</span>, and <span class="TaleRoll2DSkill">Storytelling</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7 The gooleh immediately notices you. Displeased by your music, she moves off, taking her bag with her. [S+1]</li>
+<li class="TaleDieRollResult">8+ The tired beast drifts off to sleep, lulled by your soft, hypnotic droning. You push yourself to continue, waiting until she is fully asleep. You make off with her bag without difficulty, finding a valuable item inside. [D+1 / S+2 / Enduring Hardship / Treasure]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

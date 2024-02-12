@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0266.html#TaleHeader">(266) - STORYTELLING</a><br/>
+<br/>
+<a href="0268.html#TaleHeader">(268) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">267</p>
+<p class="TaleDestiny">(267) - APPEARANCE</p>
+<p>After you finish speaking, the other responds, &ldquo;You have made your wishes clear to me. If you aid me in my search for justice, I shall consider what you ask.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Quick Thinking</span>, <span class="TaleRoll2DSkill">Seduction</span>, and <span class="TaleRoll2DSkill">Wisdom</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: You lack the necessary skills to aid the other, and he goes on his way. [D+1]</li>
+<li class="TaleDieRollResult">8+: With your help, the other brings a foul miscreant to his just end. The other is now free to spend time with you and learn of your charming personality. [D+2 / <span class="TaleStatus">Beloved</span> (if appropriate)]</li>
+</ul>
+<p><span class="TaleSkill">APPEARANCE</span>: The other is so taken with you that he soon forgets vengeance and returns your attentions wholeheartedly.</p>
+<p><span class="TaleChoiceOption">If the other is of the same sex as you, or if you are Married</span>: You and he spend many nights in pleasant discourse, and each grow wiser from the company of the other. [D+2 / Wisdom]</p>
+<p><span class="TaleChoiceOption">If the other is of opposite sex and is female</span>: With the stain of vengeance cleared from her visage, she shines in beauty, and her kiss is sweeter than the wines of Greece. [D+2 / Seduction / <span class="TaleStatus">Beloved</span>]</p>
+<p><span class="TaleChoiceOption">If the other is of opposite sex and is male</span>: Now that hatred no longer furrows his brow, you see that he is handsome as a prince of Samarkand, and his touch is as strong as Damascus steel. [D+2 / Seduction / <span class="TaleStatus">Beloved</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

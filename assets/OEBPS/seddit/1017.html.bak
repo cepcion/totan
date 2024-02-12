@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1016.html#TaleHeader">(1016) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="1018.html#TaleHeader">(1018) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1017</p>
+<p class="TaleDestiny">(1017) - STEALTH AND STEALING, ENVIOUS  (M), PIETY</p>
+<p>A young prince gives you a gift. Later, you are summoned before the Vizier, who finds a pretext for confiscating the item, and banishes you. Vengeful, you return at night.</p>
+<p><span class="TaleSkill">NO SKILL, STEALTH AND STEALING, ENVIOUS  (mandatory):</span> You find many treasures in his home and cannot resist taking some. You make a sound; the guards are on you like dogs on a hare. They beat you thoroughly before imprisoning you. [D+1 / S+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: You know better than to touch the Vizier&rsquo;s treasures. Allah will guide you in your righteous deed. You escape with your gift. [D+2 / S+1 / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

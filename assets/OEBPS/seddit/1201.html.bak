@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1200.html#TaleHeader">(1200) - BARGAINING AND EVALUATION, COURTLY GRACES</a><br/>
+<br/>
+<a href="1202.html#TaleHeader">(1202) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1201</p>
+<p class="TaleDestiny">(1201) - WEAPON USE, GOLDEN BRIDLE</p>
+<p>Never before have you encountered the fearsome lion! With a roar it charges you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: As you score a deep wound, an almost human wail comes from the beast, chilling you to the bone. You hesitate, and the lion strikes. Strangely it does not finish you off, but instead limps away. [D+1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">WEAPON USE, GOLDEN BRIDLE</span>: You realize the charge is a bluff and you lower your sword. The beast pauses, nods, then turns and stalks regally off. [D+2 / S+1 / Wisdom]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

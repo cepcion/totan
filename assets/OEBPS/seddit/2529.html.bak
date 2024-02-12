@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2528.html#TaleHeader">(2528) - WEAPON USE</a><br/>
+<br/>
+<a href="2530.html#TaleHeader">(2530) - STORYTELLING, SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2529</p>
+<p class="TaleDestiny">(2529) - None</p>
+<p>The other will accept nothing less and asks nothing more than the time required for you to master his teachings. It will be a long and tortuous process, but the reward will be well worth it.</p>
+<p class="TaleChoicePrompt">Do you accept his terms?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: You continue on your way. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: You remain for many weeks, learning all you can from this master. [Remain in this space for the next turn, drawing no encounter card. At the end of that turn, gain both Weapon Use and Enduring Hardship]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

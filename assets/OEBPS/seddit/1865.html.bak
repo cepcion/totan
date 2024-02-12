@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1864.html#TaleHeader">(1864) - BARGAINING AND EVALUATION, SCHOLARSHIP</a><br/>
+<br/>
+<a href="1866.html#TaleHeader">(1866) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1865</p>
+<p class="TaleDestiny">(1865) - APPEARANCE  (M), SEDUCTION</p>
+<p>You&rsquo;re certain that the time is right to strike, but as soon as you knock the other out, a patrol of guardsmen appear!</p>
+<p> </p>
+<p><span class="TaleSkill">NO SKILL</span>: You are immediately arrested for theft. Perhaps a cold night in the dungeon will teach you better! [S+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">APPEARANCE  (mandatory):</span> When the guards come to arrest you, they are shocked to find that you look exactly like their prince! Worried that you might use your appearance against him, he immediately banishes you from the kingdom. [S+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><span class="TaleSkill">SEDUCTION</span>: The guards arrest you for your crime. During your trip to the dungeons, the captain becomes so enamored with your charms, he decides to take you home instead! [D+1 / S+1 / <span class="TaleStatus">Beloved</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

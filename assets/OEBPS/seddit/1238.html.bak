@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1237.html#TaleHeader">(1237) - LUCK</a><br/>
+<br/>
+<a href="1239.html#TaleHeader">(1239) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1238</p>
+<p class="TaleDestiny">(1238) - WILDERNESS LORE</p>
+<p>In this land, the Sultan owns a huge forest preserve. He seeks your help to study two things: Some people have reported that a strange beast, the rhinoceros, is present in the forest; and some trees have been stripped bare of their bark.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You station yourself in the forest, and in time you catch sight of the rhino. Your report delights the Sultan, though the question of the bark goes unanswered. [S+2 / <span class="TaleStatus">Respected</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You quickly find the rhino and spend a full day observing it. You notice that his skin seems to itch him quite abominably. Finally, you see the rhino rubbing against a tree, stripping its bark. The Sultan is enlightened and delighted by your report. [D+1 / S+2 / Scholarship / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

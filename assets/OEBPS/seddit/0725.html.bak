@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0724.html#TaleHeader">(724) - None</a><br/>
+<br/>
+<a href="0726.html#TaleHeader">(726) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">725</p>
+<p class="TaleDestiny">(725) - ACCURSED (M), FATED (M), OUTLAW (M), PURSUED  (M), WILDERNESS LORE</p>
+<p>You want nothing to do with the other and wisely pass by.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You continue on your journeys for many days. [Wilderness Lore]</p>
+<p><span class="TaleSkill">ACCURSED, FATED, OUTLAW, PURSUED  (All mandatory)</span>: The other spies you and calls attention to you. &ldquo;That is the one! That is the one!&rdquo; You try to escape but they are too cunning for you and you are cornered.</p>
+<p><span class="TaleSkill">NO SKILL</span>: They beat and rob you before turning you in to the authorities for crimes you may or may not have committed.
+[<span class="TaleStatus">Imprisoned</span> / Lose <span class="TaleStatus">Outlaw</span> and <span class="TaleStatus">Pursued</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: You notice that your assailants are all plagued with a rash that has a hardly known cure. You offer to heal them if they let you go. They are amenable to this and after they see progress in their healing, they keep their word. [D+2 / S+1 / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

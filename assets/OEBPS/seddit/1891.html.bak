@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1890.html#TaleHeader">(1890) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1892.html#TaleHeader">(1892) - BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1891</p>
+<p class="TaleDestiny">(1891) - SEDUCTION</p>
+<p>You find the other bleeding by the road. Some ruthless adventurer has beaten him nearly to death. You know that he cannot be saved, but perhaps you can make him comfortable.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You buy the other all that he needs to be comfortable for his last few days. When you return to visit him, you discover that he has disappeared! The clever charlatan has made off with your money!
+[S+1 / W-2 (Min: Poor)]</p>
+<p><span class="TaleSkill">SEDUCTION</span>: To your amazement, the other was married to a beautiful and wealthy noblewoman! You decide to try to impress the widow with your charms. After comforting her for her loss, she generously rewards your kindness. [D+1 / W+1 (Max: Rich)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

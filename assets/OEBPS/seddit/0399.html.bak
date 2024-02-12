@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0398.html#TaleHeader">(398) - SCHOLARSHIP, MAGIC</a><br/>
+<br/>
+<a href="0400.html#TaleHeader">(400) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">399</p>
+<p class="TaleDestiny">(399) - None</p>
+<p>The other falls for your trick, and speaks to you from the bottom of the oubliette in which you have cruelly trapped him. &ldquo;You are a fool to do thus. If I escape, you shall surely feel my wrath!&rdquo;</p>
+<p class="TaleRoll2D">Roll two dice, adding one for <span class="TaleRoll2DSkill">Luck</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: The other escapes your trap and relentlessly chases you. [D+1 / <span class="TaleStatus">Pursued</span>]</li>
+<li class="TaleDieRollResult">8+: You assay a few spells you have never tried before, and are surprised when they work! You never hear from the other again. However, there is this dog which keeps trying to bite you&hellip; [D+2 / S+1 / Magic]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

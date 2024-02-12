@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0278.html#TaleHeader">(278) - SEDUCTION</a><br/>
+<br/>
+<a href="0280.html#TaleHeader">(280) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">279</p>
+<p class="TaleDestiny">(279) - COURTLY GRACES</p>
+<p>If you had known that the powerful other is infamous for his cruelty and misanthropy, you would never have approached him. You seem fortunate, however, for he says in a honeyed voice, &ldquo;It is my policy to occasionally reveal the generous side of my personality. What favor may I grant you?&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You make your request.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Appearance</span>, <span class="TaleRoll2DSkill">Acting and Disguise</span>, and <span class="TaleRoll2DSkill">Wisdom</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: Your request must have been too much; he explodes in rage at your presence, and calls down curses on your impertinent head. [D+1 / <span class="TaleStatus">Accursed</span>]</li>
+<li class="TaleDieRollResult">8+: To your great surprise, he grants your favor willingly! You take your boon and hurry off before you can arouse his wrath accidentally. [D+2 / S+2 / W+1 (Max: Rich) / You may lose one status of your choice]</li>
+</ul>
+<p><span class="TaleSkill">COURTLY GRACES</span>: Your tact and clever tongue lead you to make a reasonable request while avoiding the powerful other&rsquo;s wrath. Your request is granted graciously. [D+2 / S+1 / W+1 (Max: Respectable) / You may lose one status of your choice]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

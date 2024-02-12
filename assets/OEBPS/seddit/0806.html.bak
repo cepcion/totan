@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0805.html#TaleHeader">(805) - STORYTELLING</a><br/>
+<br/>
+<a href="0807.html#TaleHeader">(807) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">806</p>
+<p class="TaleDestiny">(806) - BEAST FORM  (M),  APPEARANCE</p>
+<p>As you humble yourself before him, he gazes closely upon your features and cries, &ldquo;Aha! Aren&rsquo;t you the dog I have sworn to kill?&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: &ldquo;This act of obeisance is meant to deceive me!&rdquo; He wounds you severely before he discovers his mistake, and he flees into the night.
+[D+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Crippled</span> (1 turn)]</p>
+<p><p><span class="TaleSkill">BEAST FORM  (mandatory),  APPEARANCE</span>: As he raises his sword, he gets a much better look at you. Your distinctive form could not long be mistaken for another. Realizing his mistake, the other apologizes profusely, and tells you the story of his vengeance&mdash;it is quite an interesting tale, and you promise to tell it to others that they might avoid the mistakes he has made. [D+1 / S+2]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1643.html#TaleHeader">(1643) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1645.html#TaleHeader">(1645) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1644</p>
+<p class="TaleDestiny">(1644) - ACTING AND DISGUISE</p>
+<p>The other is chained to a pillar in the wilderness. His face lights up as you bend down before him. &ldquo;My friend, I have been bound here by a foul geomancer. Will you help free me?&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You try to undo the chains, but before you realize it, many hours have slipped away. The geomancer returns and finds you, and with but a word he hurls you into a well. [S+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: You and the other switch clothes and wait for the geomancer to return. When he does, you cry out that you have bound this innocent in your place, and that the geomancer cannot harm you while he is bound. The geomancer immediately intones a strange phrase and the chains holding the wizard grab you&mdash;freeing the true wizard instead. Caught by surprise, the geomancer quickly falls before the wizard&rsquo;s power. [D+1 / W+2 (Max: Rich) / Magic]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

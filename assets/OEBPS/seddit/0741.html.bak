@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0740.html#TaleHeader">(740) - COURTLY GRACES</a><br/>
+<br/>
+<a href="0742.html#TaleHeader">(742) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">741</p>
+<p class="TaleDestiny">(741) - BARGAINING AND EVALUATION, SCHOLARSHIP</p>
+<p>Near dusk, you are startled by the roar of turbulent water. Rushing to the bow, you find a huge whirlpool opening up before you. You shout for help.</p>
+<p><span class="TaleSkill">NO SKILL</span>: There is no one nearby. Besides, there is precious little anyone could do to save you. Your ship is sucked in, ground up, and spat out like gristle, and you float on a piece of driftwood. You float for some time when a merchant ship happens to spot you. You are taken onboard and asked to relate your tale.</p>
+<ul>
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: The story of your adventures and your near-death experience makes an impact with everyone. The merchants each give you a little money and the captain sets you down at the next port. [S+2 / W+1 (Max: Rich) / Move to any coastal space]</li>
+<li class="MidSubTaleSkill"><span class="TaleSkill">BARGAINING AND EVALUATION</span>: The tale you tell also shows off your virtuousness and one of the merchants is taken by your words. He offers to hire you to help him sell his wares.</li>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you agree</span>: you visit many wondrous ports and help the merchant not only sell his goods but sell them at great prices. When all the merchant&rsquo;s goods are sold, he repays you with a large bag of gold and wishes you all the blessings of Heaven. [D+1 / S+1 / W+2 (Max: Rich) / Move to any coastal space]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you decline</span>: The merchant blesses you, gives you some money and the captain lets you off at the next port. [S+1 / W+1 (Max: Respectable)]</li>
+</ul>
+</ul>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: Inspired, you think to cry out for help in the tongue of the sea-people. A host of mermen appear to guide your boat out of danger, but they ask for a fee.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If your wealth is Poor or greater and you choose to pay them</span>: You gladly pay their price, and they rescue your ship. [D+2 / S+1 / W-1 (Min: Poor) / Wisdom]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: They are offended by your miserliness and abandon you on a small island. [D+2 / S+1 / Have another player move you to any island space]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

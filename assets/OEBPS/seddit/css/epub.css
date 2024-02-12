@@ -1,0 +1,36 @@
+
+body {
+	font-family: Arial,Verdana,sans-serif;
+	font-size: 1em;
+}
+
+.nonindent { text-indent: 0em }
+
+span.encounterNumbers { font-size: 175%; }
+
+p.encounterTableHeader { font-size:200%; font-weight:bold; text-align:center; margin:0px; }
+ol.encounterTableOL { padding-left:1em; margin:0px; }
+
+p.matrixHeader { font-size:200%; font-weight:bold; text-align:center; margin:0px; }
+p.matrixTitle { text-align:center; margin:0em; }
+span.matrixLetters { font-size: 175%; padding: 1em;}
+
+p.TaleHeader { font-size:150%; font-weight:bold; text-align:center; margin:0px; }
+p.TaleName { font-weight:bold; text-align:center; margin:0px;}
+span.TaleSkill { font-weight:bold; }
+span.TaleStatus { font-style:italic; }
+ul.SubTaleSkill { padding-left:0em; list-style-type:none; }
+li.MidSubTaleSkill { padding-bottom:0.5em; }
+.TaleRoll2D { font-style:italic; }
+span.TaleRoll2DSkill { font-weight:bold; }
+li.TaleDieRollResult { margin-bottom:0.5em; list-style-type:square; }
+.TaleChoicePrompt { font-style:italic; }
+li.TaleChoice { padding-bottom:0.5em; }
+span.TaleChoiceOption { font-style:italic; }
+p.TaleDestiny { font-size:75%; }
+
+span.choice { font-weight:bold; }
+
+*[epub|type='pagebreak'] { display: none; }
+
+a[epub|type='noteref'] { vertical-align: super; }

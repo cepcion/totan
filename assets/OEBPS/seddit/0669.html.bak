@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0668.html#TaleHeader">(668) - ENDURING HARDSHIP, SEAMANSHIP</a><br/>
+<br/>
+<a href="0670.html#TaleHeader">(670) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">669</p>
+<p class="TaleDestiny">(669) - LUCK, SEAMANSHIP</p>
+<p>The wind shifts and blows you right toward the reefs! Only superb seamanship or luck could save you now!</p>
+<p><span class="TaleSkill">NO SKILL</span>: Unfortunately, you have neither. The ship is wrecked and you are cast upon a deserted shore. [D+1 / S+1 / W-1 (Min: Penniless) / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">LUCK, SEAMANSHIP</span>: Though you acknowledge that it is a miracle, you manage to bring the ship through without damage. Beyond the reef are mysterious islands you have heard of in legends&hellip; [D+2 / S+1 / Piety / Move to <a href="0174.html#TaleHeader">Stonehenge</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

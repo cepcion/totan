@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2093.html#TaleHeader">(2093) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="2095.html#TaleHeader">(2095) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2094</p>
+<p class="TaleDestiny">(2094) - SEAMANSHIP</p>
+<p>The beach is approaching too fast and you question the wisdom of the captain. The captain does not respond and you see the blank look of his eyes as they stare unblinkingly toward the approaching island.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You yell for everyone to brace themselves&mdash;just as a reef tears the hull open like a cracked nut. [D+1 / Have an immediate encounter on <a href="ReactionMatrix-N-ApeIsland.html">Ape Island</a> (Matrix N)]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: You push the captain aside and turn the wheel hard to starboard. This action saves the ship and the lives of the crew. All hail you as their new captain and you bring everyone safely home. [D+2 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

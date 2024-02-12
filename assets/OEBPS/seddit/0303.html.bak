@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0302.html#TaleHeader">(302) - COURTLY GRACES, STORYTELLING, APPEARANCE</a><br/>
+<br/>
+<a href="0304.html#TaleHeader">(304) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">303</p>
+<p class="TaleDestiny">(303) - LUCK, MARRIED  (M)</p>
+<p>The other interrupts you, declaring &ldquo;I have decided that you shall be married to my eldest child.&rdquo; He gets what he wants, regardless of the desires of others.</p>
+<p><span class="TaleSkill">NO SKILL</span>: <span class="TaleChoicePrompt">You can agree to the marriage, or refuse</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse</span>: The other vows vengeance for your insulting behavior. [D+2 / <span class="TaleStatus">Pursued</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you agree</span>: You agree to the demands of the other and prepare to be wed.</li>
+<ul class="SubTaleSkill">
+<li class="TaleRoll2D MidSubTaleSkill">Roll one die:</li>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: You view your impending wedding with trepidation, and with good cause. Your spouse is as overbearing and horrid as her parents. [D+2 / W+1 (Max: Respectable) / <span class="TaleStatus">Enslaved</span> / <span class="TaleStatus">Married</span>]</li>
+<li class="TaleDieRollResult">4+: Your marriage, while not the stuff of legend, is quite satisfying to you. [D+2 / W+1 (Max: Respectable) / <span class="TaleStatus">Married</span>]</li>
+</ul>
+</ul>
+</ul>
+<p><span class="TaleSkill">LUCK</span>: Despite an overbearing parent, your intended turns out to be a tender and loving soul with a face like the full moon! You praise Allah for your good fortune, for your marriage is pure bliss, and together you are a redoubtable combination. [D+2 / S+1 / W+1 (Max: Rich) / Quick Thinking / Bargaining and Evaluation / <span class="TaleStatus">Married</span>]</p>
+<p><span class="TaleSkill">MARRIED  (mandatory):</span> You protest that you are already married, and after much difficulty, you convince the other that it would be sinful to abandon your spouse for no better reason than to marry his child. You go on your way, praising Allah for sparing you this fate. [D+1 / S+1 / Piety]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

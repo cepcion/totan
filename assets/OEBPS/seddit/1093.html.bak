@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1092.html#TaleHeader">(1092) - MAGIC</a><br/>
+<br/>
+<a href="1094.html#TaleHeader">(1094) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1093</p>
+<p class="TaleDestiny">(1093) - STEALTH AND STEALING</p>
+<p>They allow you to travel with them, but keep you blindfolded at all
+times and treat you as a stranger.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Soon, you attempt to escape, but fail&mdash;they were too 
+suspicious. They offer you the chance to redeem yourself by performing
+a few robberies.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you refuse</span>: They beat you cruelly and leave you for dead. When you come to, you still have no idea where you are. [S+1 / D+1 / Wounded/ <span class="TaleStatus">Lost</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you accept</span>: You agree to help raid a wealthy merchant nearby. However, you are not skilled at the art of stealing, and you bungle the job; the merchant remembers your face and gives your description to the guards. [D+1 / <span class="TaleStatus">Outlaw</span>/ Lose <span class="TaleStatus">Lost</span>]</li>
+</ul>
+<p><span class="TaleSkill">STEALTH AND STEALING</span>: Crafty and subtle as you are, you can easily escape at any time.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you escape</span>: You waste no time, and make good your escape. [S+1 / D+1 / Enduring Hardship / Lose <span class="TaleStatus">Lost</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you remain</span>: Instead, you choose to remain with these outlaws for some time. Banditry serves you well, but is a sin in the eyes of Allah. [D-1 / W+2 (Max: Rich) / Stealth and Stealing / Lose Piety / Lose <span class="TaleStatus">Lost</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

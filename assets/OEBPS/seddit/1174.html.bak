@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1173.html#TaleHeader">(1173) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="1175.html#TaleHeader">(1175) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1174</p>
+<p class="TaleDestiny">(1174) - PIETY</p>
+<p>As you approach the gates of the Crystal Palace, you note the grim, forbidding guards. You despair of entering to view its wonders, but must try.</p>
+<p><span class="TaleSkill">NO SKILL</span>: As you expected, the guards turn you away. [<span class="TaleStatus">Grief Stricken</span> (1 turn)]</p>
+<p><span class="TaleSkill">PIETY</span>: Your earnest and devout entreaties move the guards to compromise their orders. They give you a tour of its splendors. [D+1 / <span class="TaleStatus">Blessed</span> (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

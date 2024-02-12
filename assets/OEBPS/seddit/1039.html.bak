@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1038.html#TaleHeader">(1038) - SEAMANSHIP</a><br/>
+<br/>
+<a href="1040.html#TaleHeader">(1040) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1039</p>
+<p class="TaleDestiny">(1039) - None</p>
+<p>Your ship is suddenly assailed by mermen who board and try to kill all passengers.</p>
+<p class="TaleChoicePrompt">You may pray for deliverance or head for the side of the ship:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you try to escape</span>: [Go to paragraph <a href="1040.html#TaleHeader">1040</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you pray for deliverance, roll two dice, adding one for <span class="TaleRoll2DSkill">Beguiling</span>:</span></li>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: They are gracious&mdash;they content themselves with tossing you overboard rather than slaying you outright. [Go to paragraph <a href="0315.html#TaleHeader">315</a>]</li>
+<li class="TaleDieRollResult">8+: Allah hears your prayers. The hearts of the mermen are softened by your pleas, and they depart without harming any others. [D+1 / S+1 / Piety]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1051.html#TaleHeader">(1051) - WEAPON USE, STEALTH AND STEALING</a><br/>
+<br/>
+<a href="1053.html#TaleHeader">(1053) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1052</p>
+<p class="TaleDestiny">(1052) - SEAMANSHIP</p>
+<p>The captain, Zau al-Makan, has forced all the passengers to give him a portion of their cargo. If you refuse, he will steer the ship onto a reef. You must fight back and take what is yours (and  a little more, for your trouble)! You lead the passengers in mutiny against Zau and his henchmen, slaying them all.</p>
+<p><span class="TaleSkill">NO SKILL</span>: However, this leaves no one to sail the ship. You are wrecked.
+[Go to paragraph <a href="0315.html#TaleHeader">315</a>]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: You take over the ship, and under your capable guidance, the voyage is completed. The ship&rsquo;s owner is very grateful. [D+1 / S+1 / W+1 (Max: Respectable) / <span class="TaleStatus">Respected</span>] (1 turn)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2295.html#TaleHeader">(2295) - SEAMANSHIP</a><br/>
+<br/>
+<a href="2297.html#TaleHeader">(2297) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2296</p>
+<p class="TaleDestiny">(2296) - MAGIC</p>
+<p>You find the other sitting on a stone in a river, rocking back and forth and muttering in a strange language. You try to make out some of what he is saying.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Whatever he is saying, you don&rsquo;t think it&rsquo;s a real language. Soon you feel woozy. You try to get out some questions but you just begin to mutter. For a fleeting moment you realize that you are muttering in the same strange tongue as the other. Then all goes black.
+[D+1 / Magic / <span class="TaleStatus">Ensorcelled</span> / <span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">MAGIC</span>: You understand enough of what he is saying to know that you need to flee immediately! Before you can escape, your mind ceases as hidden secrets you were not meant to know are revealed to you! [D+2 / <span class="TaleStatus">Insane</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

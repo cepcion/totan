@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0238.html#TaleHeader">(238) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="0240.html#TaleHeader">(240) - ACTING AND DISGUISE, BARGAINING AND EVALUATION</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">239</p>
+<p class="TaleDestiny">(239) - LUCK, SEDUCTION</p>
+<p>You woo the other.</p>
+<p><span class="TaleSkill">NO SKILL</span>:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If the other is male</span>: He flushes with pleasure, and, feeling as though his heart would burst, he embraces you. Then you discover that you are kissing without shame, and retire to a more private place. [D+1 / <span class="TaleStatus">Beloved</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If the other is female</span>: She raises her veil and makes signs at you with her eyes. You boldly embrace her, and she does not shy away; instead, she returns your embrace with fire, and whispers her love to you. [D+1 / <span class="TaleStatus">Beloved</span>]</li>
+</ul>
+<p><span class="TaleSkill">LUCK, SEDUCTION</span>: Joyfully, he desires you as intensely, and a quick marriage is performed. Your future happiness is assured. [D+2 / <span class="TaleStatus">Married</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

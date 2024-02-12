@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1447.html#TaleHeader">(1447) - None</a><br/>
+<br/>
+<a href="1449.html#TaleHeader">(1449) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1448</p>
+<p class="TaleDestiny">(1448) - PROTECTIVE TALISMAN  (M)</p>
+<p>You try to fool the other into granting you a favor, feeling that he would not be likely to grant your request directly. You spin a complex lie which tells of the great benefit that will come to him if he aids you.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your lie is transparent, and he is not fooled for an instant. Instead, he punishes you severely for your duplicity. [D-1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">PROTECTIVE TALISMAN  (mandatory):</span> You immediately sense that your lie is not convincing the other, and you change tactics; your lie becomes a parable of the rewards that await those who aid others. The other is moved by your words, and when you request his aid directly, it is granted. [D+1 / S+1 / Storytelling]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

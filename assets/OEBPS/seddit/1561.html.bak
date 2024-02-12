@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1560.html#TaleHeader">(1560) - None</a><br/>
+<br/>
+<a href="1562.html#TaleHeader">(1562) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1561</p>
+<p class="TaleDestiny">(1561) - WEAPON USE</p>
+<p>You attack the jailor with a makeshift club as he brings you food. He is deeply saddened by your betrayal of his good nature.</p>
+<p><span class="TaleSkill">NO SKILL</span>: He easily disarms you and forces you back into the cell. You can tell that he greatly regrets having to have you whipped. [D-1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">WEAPON USE</span>: Your attack is so overwhelming that you accidentally kill your jailor. If you had had a sword, perhaps it would have gone better&hellip; You flee before you are discovered. [D-1 / S+1 / <span class="TaleStatus">Grief Stricken</span> / Lose <span class="TaleStatus">Imprisoned</span> / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html> 

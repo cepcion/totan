@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0697.html#TaleHeader">(697) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0699.html#TaleHeader">(699) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">698</p>
+<p class="TaleDestiny">(698) - SEA SPACE  (M), LUCK</p>
+<p>As you seek cover, the sky darkens and the wind drives raindrops into your face, obscuring your vision. You stumble, fall, and strike your head.</p>
+<p><span class="TaleSkill">NO SKILL, SEA SPACE  (mandatory):</span> You lie dazed while lightning and thunder crash about you. Finally you wander off, with the pain in your head a constant companion. [D+1 / S+1 / <span class="TaleStatus">Wounded</span> / <span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">LUCK</span>: You tripped on a handle to a door in the ground. Who would have expected a trapdoor here? You open the door and pitch headlong into a deep underground chamber. This second fall addles your wits, but you can&rsquo;t ignore the treasure heaped about you. [D+2 / S+2 / W+2 (Max: Princely) / <span class="TaleStatus">Insane</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

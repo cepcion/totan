@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0215.html#TaleHeader">(215) - None</a><br/>
+<br/>
+<a href="0217.html#TaleHeader">(217) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">216</p>
+<p class="TaleDestiny">(216) - PIETY, BRASS TRUMPET  (M)</p>
+<p>As the other draws near, you recognize him as one who hates you. Reconsidering your plans, you flee from his sight. The next place you go, however, he is there before you! This happens again and again.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Fear trickles like ice down your back and you finally tell him you will kill him if you see him again. But in your heart you know you are not free of his ill shadow. [D+1 / <span class="TaleStatus">Pursued</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: You recognize this as the will of Allah, and speak to the other, saying, &ldquo;Fate has cast us together, so let us make the most of it.&rdquo; The other is struck by the wisdom of your words, and you become stalwart companions. The other is most wise and skillful and his company brings you great comfort. [D+2 / S+1 / Weapon Use / Wisdom/ <span class="TaleStatus">Fated</span>]</p>
+<p><span class="TaleSkill">BRASS TRUMPET  (mandatory):</span> The Brass Trumpet sounds whenever the other happens to come near. Soon you learn to avoid him with ease, and never again do you see him. [D+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

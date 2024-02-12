@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1010.html#TaleHeader">(1010) - None</a><br/>
+<br/>
+<a href="1012.html#TaleHeader">(1012) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1011</p>
+<p class="TaleDestiny">(1011) - WILDERNESS LORE</p>
+<p>You hear the other approaching, and you hurry off in another direction, heading toward a nearby forest.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The other is hears you flee and charges after you. After a long chase, you come to a small town, and you are captured by several large men, who see your foaming mouth and wild eyes and assume you are one of the gools who have been preying on their town. No amount of explanation will convince them otherwise. [S+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: The other is suspicious and charges after you. You use your knowledge of forests of this type to avoid the other with ease. [S+1]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

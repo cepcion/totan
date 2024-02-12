@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1156.html#TaleHeader">(1156) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="1158.html#TaleHeader">(1158) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1157</p>
+<p class="TaleDestiny">(1157) - ENDURING HARDSHIP</p>
+<p>By the request of the Sultan, you are investigating a mysterious house which appeared in the middle of an open field. Alas, you fall into a secret trapdoor and are stuck! Later, another enters the house and offers to save you for the reward. You decline and begin looking for your own way out.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You cannot find a exit. You languish for days, until the house vanishes once again, and (fortunately) you are left sitting in the open field. [D-1 / S+1]</p>
+<p><span class="TaleSkill">ENDURING HARDSHIP</span>: You search diligently. Finally, you find a concealed latch! You open another secret door and find your way to a chamber filled with magical items and treasure (as well as a way out!). You help yourself, and leave the other to his measly reward. [D+2 / S+1 / W+2 (Max: Rich) / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

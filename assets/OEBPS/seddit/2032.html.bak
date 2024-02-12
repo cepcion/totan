@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2031.html#TaleHeader">(2031) - WISDOM</a><br/>
+<br/>
+<a href="2033.html#TaleHeader">(2033) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2032</p>
+<p class="TaleDestiny">(2032) - STORYTELLING</p>
+<p>A beguiling merchant sells you a map to a secret treasure cache. You find the location deep in a cave, but the way is barred by a trapdoor made of a mysterious metal and topped by a large gem. You attempt to raise the door, but nothing you try succeeds. Frustrated, you pry the gem from the door in an attempt to salvage something from the trip.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The gem turns out to be cut glass, worth only a few coins. The money you paid for the map is utterly lost. [S+1 / W-1 (Min: Penniless)]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: You have the gem appraised and it turns out to be worth little. Still, it is impressive-looking and it inspires you. In each village that you visit for the next month, you spin a more and more elaborate tale about what that trapdoor hid, and what the gem meant. At the culmination of the story, you display the remarkable bauble to great applause. [D+1 / S+1 / Storytelling]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

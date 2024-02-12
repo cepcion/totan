@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2506.html#TaleHeader">(2506) - WEAPON USE</a><br/>
+<br/>
+<a href="2508.html#TaleHeader">(2508) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2507</p>
+<p class="TaleDestiny">(2507) - ACTING AND DISGUISE, APPEARANCE, QUICK THINKING</p>
+<p>On the way to the Holy City, you happen along a traveling band of mendicant dervishes. They have been sorely pressed by monsters, bandits, and the desert. You offer to aid them, protecting them from anything that might wish to interrupt their devotions.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You keep the holy ones safe, but not without cost. [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE, APPEARANCE, QUICK THINKING</span>: Through bluff, distraction, and histrionics, you dissuade any who approach from harming the dervishes. The holy ones bless you and honor you. [D+2 / <span class="TaleStatus">Blessed</span> (1 use) / <span class="TaleStatus">Robe of Honor</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

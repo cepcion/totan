@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0391.html#TaleHeader">(391) - BARGAINING AND EVALUATION, BEGUILING</a><br/>
+<br/>
+<a href="0393.html#TaleHeader">(393) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">392</p>
+<p class="TaleDestiny">(392) - STORYTELLING</p>
+<p>&ldquo;I am willing to assist you,&rdquo; says the other, &ldquo;but a more generous offer from you would better reflect the service I am to provide, would it not?&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: You agree, and the other&rsquo;s services do not come cheaply.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you cannot pay</span>: [<span class="TaleStatus">Enslaved</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: [W-2 (Min: Penniless) / Choice of Magic or Treasure]</li>
+</ul>
+<p><span class="TaleSkill">STORYTELLING</span>: You know just how valuable the other&rsquo;s services will be and explain this to him. Moved by your wise words, he is willing to settle for a lower price.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you cannot pay</span>: [Magic]
+<li class="TaleChoice"><span class="TaleChoiceOption">Otherwise</span>: [W-1 (Min: Poor) / Treasure / You may lose one status of your choice]
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

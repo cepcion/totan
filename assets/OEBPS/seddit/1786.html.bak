@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1785.html#TaleHeader">(1785) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1787.html#TaleHeader">(1787) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1786</p>
+<p class="TaleDestiny">(1786) - ENDURING HARDSHIP</p>
+<p>You are visiting the Palace of 100 Closets, said to have been built by Solomon himself. Your host has graciously given you leave to explore the entire palace while he sees to his business, on the one condition that you not enter the hundredth chamber. But your curiosity proves too great, and you foolishly enter the final room despite your promise. Alas, it proves to be a trap! Once you enter the room, you cannot exit! You cry out for help!</p>
+<p><span class="TaleSkill">NO SKILL</span>: By the time your host has returned, you have gone mad from thirst and hunger. Perhaps when you regain your senses you will have learned a valuable lesson. [S+1 / <span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">ENDURING HARDSHIP</span>: Though hunger tears at your belly, you overcome your trial. When your host releases you, he is most impressed by your fortitude. &ldquo;I have been looking for one such as you to carry a message for me!&rdquo; At least you are well paid for a messenger. [D+1 / S+1 / W+1
+(Max: Respectable)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

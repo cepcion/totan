@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0578.html#TaleHeader">(578) - PIETY</a><br/>
+<br/>
+<a href="0580.html#TaleHeader">(580) - LUCK, WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">579</p>
+<p class="TaleDestiny">(579) - None</p>
+<p>Among the possessions you have snatched is a love note from the wife of the Vizier to someone who is not the Vizier.</p>
+<p class="TaleChoicePrompt">You may return the letter to her, try to blackmail her with it, or bring the letter to the Vizier:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you return it to her</span>: The Vizier&rsquo;s wife is very grateful and provides for your entertainment in return. You learn much of the art of seduction from her and from the women of the Sultan&rsquo;s harem. [D+1 / Seduction]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you attempt blackmail with the letter, roll one die:</li>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: Your scheme backfires. The Vizier&rsquo;s wife arranges for your abduction. You are kept far from the paths of civilized men. [D+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+<li class="TaleDieRollResult">4&ndash;6: You are paid well for your nefarious scheme. [D-1 / S+1 / W+1 (Max: Rich)]</li>
+</ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you bring the letter to the Vizier</span>: roll two dice, adding one for <span class="TaleRoll2DSkill">Piety</span>:</li>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: The Vizier does not believe you and has you banished for impugning the virtue of his wife. [D+1 / <span class="TaleStatus">Outlaw</span>]</li>
+<li class="TaleDieRollResult">8+: The Vizier is grateful for your aid and praises you for your virtue in bringing him the letter. &ldquo;A lesser person might have sought to blackmail my wife with this.&rdquo; For their crimes, the wife and her lover are beheaded. [D+2 / S+1 / Piety]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

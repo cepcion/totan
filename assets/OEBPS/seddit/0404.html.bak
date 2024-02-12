@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0403.html#TaleHeader">(403) - WEAPON USE, MAGIC</a><br/>
+<br/>
+<a href="0405.html#TaleHeader">(405) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">404</p>
+<p class="TaleDestiny">(404) - ENDURING HARDSHIP</p>
+<p>The other is willing to join you as an aid and traveling companion for a while, but warns you that he has been dabbling in strange and eldritch mysteries of late, and danger might come your way. Talking further, you learn that he has drawn the anger of one of the People of the Flame. You are willing to brave the wrath of that angry &rsquo;efreet for the pleasure of the company of this stranger.</p>
+<p><span class="TaleSkill">NO SKILL</span>: He is delighted at your bravery, and you travel a ways with him. During your time together, he teaches you some small amount of magic. [D+1 / S+1 / <span class="TaleStatus">Pursued</span> (&rsquo;EFREET)]</p>
+<p><span class="TaleSkill">ENDURING HARDSHIP</span>: You suffer through many dangers with the other, and prove to be such a valuable and stoic companion that he begs to remain with you. He teaches you all the secret ways he has mastered.
+[D+2 / S+1 / <span class="TaleStatus">Pursued</span> (&rsquo;EFREET) / You may lose one status of your choice]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

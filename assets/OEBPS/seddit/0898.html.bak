@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0897.html#TaleHeader">(897) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0899.html#TaleHeader">(899) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">898</p>
+<p class="TaleDestiny">(898) - WEAPON USE  (M), QUICK THINKING, GOLDEN BRIDLE</p>
+<p>You have come across a strange beast. Although you approach it with careful steps and making calm sounds, when you draw near, it suddenly charges.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You flee, but it catches you easily, knocking you to the ground. In terror, you await its terrible jaws&hellip; but it merely stands over you for a number of minutes, then moves peaceably away. [D+1 / S+1 / Luck]</p>
+<p><span class="TaleSkill">WEAPON USE  (mandatory):</span> You stand your ground and draw your sword, slashing it across the forequarters. A cut so deep would, you are sure, have felled a lion&mdash;but the beast does not yield, and presses its attack with the force of a thunderstorm, relentless and savage&hellip; You barely survive the battle. [D+1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">QUICK THINKING, GOLDEN BRIDLE</span>: You drop to the ground, feigning death. Puzzled, the creature nuzzles at you, stands over you for a few minutes, and at last wanders away. [D+1 / S+1 / Quick Thinking]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

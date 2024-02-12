@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0311.html#TaleHeader">(311) - WEAPON USE</a><br/>
+<br/>
+<a href="0313.html#TaleHeader">(313) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">312</p>
+<p class="TaleDestiny">(312) - BEGUILING, FATED  (M)</p>
+<p>&ldquo;My father has hidden me away to avoid the evil eye of a cruel sorcerer who has decreed my death,&rdquo; explains the other. &ldquo;You can best aid me by leaving me alone.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: Heeding his request, you go on your way, though not before tarrying a while to bring him cheer. [D+1]</p>
+<p><span class="TaleSkill">BEGUILING</span>: You shrewdly exploit the situation by extorting a fee to prevent your revealing the other&rsquo;s whereabouts to the sorcerer. [D+1 / W+1 (Max: Rich)]</p>
+<p><span class="TaleSkill">FATED  (mandatory):</span> You hear a noise, and snatch up a knife to defend the other. You unfortunately slip in a puddle and accidentally slay your companion. Your grief is beyond words but you recognize the hand of fate in your trial. [D+2 / Lose <span class="TaleStatus">Fated</span> / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

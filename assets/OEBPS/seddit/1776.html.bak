@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1775.html#TaleHeader">(1775) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="1777.html#TaleHeader">(1777) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1776</p>
+<p class="TaleDestiny">(1776) - LUCK</p>
+<p>Your gracious host has invited you to explore all but one of the one hundred rooms in his palace. You delight in examining room after room, quickly losing count of how many rooms you had reached. Finally you reach the most magnificent door in the palace. Is it the hundredth door?</p>
+<p><span class="TaleSkill">NO SKILL</span>: Not wanting to offend your generous host, you give a prayer of thanks for the wonders you have seen and give up your exploration of the palace. [D+1 / S+1]</p>
+<p><span class="TaleSkill">LUCK</span>: You say a quick prayer to the One Most High that this door not be the 100th. Turning the knob, you open the door and reveal a chamber most wondrous. [D+1 / Move to the <a href="0175.html#TaleHeader">Cave of Wonders</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

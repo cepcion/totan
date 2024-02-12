@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0315.html#TaleHeader">(315) - None</a><br/>
+<br/>
+<a href="0317.html#TaleHeader">(317) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">316</p>
+<p class="TaleDestiny">(316) - SCHOLARSHIP</p>
+<p>The cloud rising from the censer smells of strange herbs. An old man in oddly-fashioned garments greets you and asks your aid in performing a ritual. You cautiously agree.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your ignorance causes you to make a terrible mistake, and the ritual fails. In fury, the old man curses you. [D+1 / <span class="TaleStatus">Accursed</span>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You follow the old man&rsquo;s complicated instructions correctly, and suddenly the smoke changes color and an &rsquo;efreet of great power appears! &ldquo;What mortal is so presumptuous as to summon me, the Lord of the Marids, right hand of Iblis?&rdquo; Your power is not enough to prevent the &rsquo;efreet from carrying off the old man. However, his notes and censer remain behind, and you study them to learn a path to the fabled Dusky Land of the &rsquo;Efreeti. [D+2 / S+2 / Eagle Censer / Opportunity to enter the <a href="0182.html#TaleHeader">Dusky Land</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

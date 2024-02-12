@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0228.html#TaleHeader">(228) -  QUICK THINKING</a><br/>
+<br/>
+<a href="0230.html#TaleHeader">(230) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">229</p>
+<p class="TaleDestiny">(229) - LUCK</p>
+<p class="TaleHeader">229</p>
+<p>Your victim stands his ground and defends himself valiantly. Nonetheless you overcome him. Unfortunately, he has nothing of value.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Worse yet, he has recognized you and identifies you to the local authorities. You become a hunted criminal. [D+1 / <span class="TaleStatus">Outlaw</span>]</p>
+<p><span class="TaleSkill">LUCK</span>: Your victim does not recall your features and identifies another as his assailant. At first, you thank your luck, but then you discover that the innocent man is to hang. You cannot let an innocent die for your crime&mdash;you come forward and confess. The Sultan is impressed with your courage; he pardons you and engages you to catch other criminals. Even your victim is pleased by your repentance. [D+3 / S+1 / W+1 (Max: Respectable) / <span class="TaleStatus">Robe of Honor</span> / You may lose one status of your choice]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

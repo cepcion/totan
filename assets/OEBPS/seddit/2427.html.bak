@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2426.html#TaleHeader">(2426) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="2428.html#TaleHeader">(2428) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2427</p>
+<p class="TaleDestiny">(2427) - STEALTH AND STEALING</p>
+<p>Your host spent the entire evening telling you unbelievable tales of the fine horses in his stable. In the morning, you resolve to see the beasts for yourself.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your host tells the truth! You doubt that even the Caliph owns animals as wondrous as these. [S+2]</p>
+<p><span class="TaleSkill">STEALTH AND STEALING</span>: Surely a mount such as one of these would make your travels much easier. You need only convince the stable hand to let you take one out for a ride&hellip; [S+1 / W+1 (Max: Rich) / <span class="TaleStatus">Outlaw</span> / Move three spaces in any direction]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

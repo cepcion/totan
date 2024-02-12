@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1705.html#TaleHeader">(1705) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="1707.html#TaleHeader">(1707) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1706</p>
+<p class="TaleDestiny">(1706) - BARGAINING AND EVALUATION, WEAPON USE</p>
+<p>You wake to the sound of water rushing into your cabin. The ship has been attacked by the mighty dendan! Within minutes, the vessel has been shattered, and you find yourself clinging to an empty barrel. With the approaching dawn, you see a passing merchant ship. You wave and shout, hoping they will come to your rescue.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The passing ship does not hear your calls. [Go to paragraph <a href="0315.html#TaleHeader">315</a>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: The merchantman spies you and turns to come near, but the captain is a selfish man. He demands a reward to rescue you.</p>
+<p class="TaleChoicePrompt">Do you pay the rogue?</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If yes</span>: You are pulled aboard and delivered to your destination. [S+1 / W-2 (Min: Poor)]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If no</span>: He leaves you to the mercy of the sea. [Go to paragraph <a href="0315.html#TaleHeader">315</a>]</li>
+</ul>
+<p><span class="TaleSkill">WEAPON USE</span>: The ship comes near and you are dragged aboard, only to learn that the captain is a notorious pirate! He demands that you pay a ransom for your life, and you spit in his face. He swears an oath to kill you, but you hastily grab a knife from a nearby sailor and fight him to the death!</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Blessed</span>, <span class="TaleRoll2DSkill">Fated</span>, and <span class="TaleRoll2DSkill">Weapon Use</span>. Subtract one for <span class="TaleRoll2DSkill">Crippled</span> or <span class="TaleRoll2DSkill">Wounded</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;3: The captain&rsquo;s skill is legendary. After a long duel, you leave him wounded and bleeding, but he leaves you dead.
+[Death]</li>
+<li class="TaleDieRollResult">4&ndash;10: The captain is a skilled swordsman, but not good enough to penetrate your defenses. After a long fight, you are both exhausted. The pirate is impressed by your bravery and skill, and invites you to join his crew. [D+1 / S+1 / W+1 (Max: Respectable) / Seamanship / <span class="TaleStatus">Outlaw</span>]</li>
+<li class="TaleDieRollResult">11+: Your skill is far too great for the captain, and you easily dispatch him with a single thrust! The crew is unhappy that you have slain their beloved leader, but wary of your blade. They agree to deposit you on a nearby shore. [D+1 / S+1]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1751.html#TaleHeader">(1751) - ACTING AND DISGUISE</a><br/>
+<br/>
+<a href="1753.html#TaleHeader">(1753) - SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1752</p>
+<p class="TaleDestiny">(1752) - WEAPON USE</p>
+<p>You are approached by a tailor who tells you his sorry tale: he has been plagued, it appears, by a certain barber who has driven him half-mad with unceasing talk and bumbling attempts to aid him. He says that he will pay you anything if you will rid him of this troublesome barber.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Despite your best efforts, you cannot dissuade the tailor from his murderous intentions. You follow him to the house of the barber, and are barely able to subdue him before he attacks the poor old man with his dagger! Although you keep the tailor from killing the barber, you also are implicated in the plot! [S+1 / Weapon Use / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">WEAPON USE</span>: With the offer of such rewards, you cannot resist the temptation to rid the world of such a troublesome barber. You sneak into his house at night to do the dirty deed, but find that the tailor has beaten you to it! Alas, it is you whom the watch discovers attempting to escape. [D+1 / S+1 / Stealth and Stealing / <span class="TaleStatus">Outlaw</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0525.html#TaleHeader">(525) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="0527.html#TaleHeader">(527) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">526</p>
+<p class="TaleDestiny">(526) - APPEARANCE, SEDUCTION  (M), BRASS TRUMPET</p>
+<p>The other whispers to you of the love a young noble bears for you. The other says his patron begs you for a rendezvous, and you go to the place that he names. But when you arrive, the windows and doors are dark and barred.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You have been made to play the fool. [D-1 / S+1]</p>
+<p><span class="TaleSkill">APPEARANCE, SEDUCTION  (mandatory):</span> Thinking your lover coy and eager to be wooed, you stand in the street and intone honeyed verses sure to win your beloved&rsquo;s heart. Suddenly the shutters open and an ancient creature of indeterminate sex gazes out at you with love. The shrill laughter of her neighbors rings out at you. [D+1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><span class="TaleSkill">BRASS TRUMPET</span>: You realize that the messenger made a fool of you. You return to him and punish him for his impertinence. [D+1 / <span class="TaleStatus">Respected</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

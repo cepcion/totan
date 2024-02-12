@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2082.html#TaleHeader">(2082) - BARGAINING AND EVALUATION</a><br/>
+<br/>
+<a href="2084.html#TaleHeader">(2084) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2083</p>
+<p class="TaleDestiny">(2083) - STORYTELLING</p>
+<p>You are dragged from sleep in the middle of the night and brought before the captain. He demands that you tell him where to find the gold. Not having the slightest idea what the man is talking about, you simply ask him. &ldquo;Don&rsquo;t play dumb!&rdquo; he roars, and orders his men to dangle you off the side of the boat.</p>
+<p><span class="TaleSkill">NO SKILL</span>: He asks again about the gold. &ldquo;I don&rsquo;t know,&rdquo; you reply, and the captain responds by giving the signal for his men to drop you in the water. [D+1 / S+1 / Go to paragraph <a href="0315.html#TaleHeader">315</a>]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: You realize that protesting your ignorance or innocence is probably futile. Instead, you spin an elaborate tale about stolen gold, hidden where no one would ever find it. You offer to take the captain to it, but in truth you lead him right into a swindle and rob him blind!
+[D+1 / S+2 / W+2 (Max: Rich)]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

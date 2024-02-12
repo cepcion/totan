@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0667.html#TaleHeader">(667) - ENDURING HARDSHIP, SEAMANSHIP</a><br/>
+<br/>
+<a href="0669.html#TaleHeader">(669) - LUCK, SEAMANSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">668</p>
+<p class="TaleDestiny">(668) - DETERMINED  (M),  ENDURING HARDSHIP, SEAMANSHIP</p>
+<p>Your ship is caught in a strong current and heads toward the rocks. Should you fight the current or steer around the shoals? Should you furl the sail or use the wind?</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your panic prevents you from making a decision, and the ship crashes into the rocks. All is lost! You wash up on a distant shore. [D-1 / S+1 / W-2 (Min: Penniless) / Move to any coastal space]</p>
+<p><p><span class="TaleSkill">DETERMINED  (mandatory),  ENDURING HARDSHIP</span>: Though the situation is desperate, you retain your composure and act decisively. You fight the current with furled sail, and save the ship. [D+2 / S+2 / Seamanship]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: Though the wind fights you, you navigate the ship safely within reach of an island. But it is not an island you have seen on any map. [Go to paragraph <a href="1158.html#TaleHeader">1158</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

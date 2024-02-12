@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2490.html#TaleHeader">(2490) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="2492.html#TaleHeader">(2492) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2491</p>
+<p class="TaleDestiny">(2491) - PIETY</p>
+<p>While enjoying the library of a local scholar, you hear frustrated and loud sighs. Unable to concentrate with this distraction, you confront the rude person. The other stands before you, holding a clutch of scrolls and looking confused. You demand to know what is wrong and the other tells you of his desire to become a greater scholar, and also of his lack of ideas of how to begin or what to study.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You admonish the youth, explaining that not all wisdom comes from books. The other sets off to explore the world. You hear later that the journey was not a successful one. [D+1]</p>
+<p><span class="TaleSkill">PIETY</span>: You scold the youth; there is one great path that precedes all other knowledge of the universe. You take the scrolls from his hands and guide him to a copy of the Koran. The other blesses you and begins to study. [D+2 / <span class="TaleStatus">Blessed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

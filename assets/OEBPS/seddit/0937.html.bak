@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0936.html#TaleHeader">(936) - BEGUILING</a><br/>
+<br/>
+<a href="0938.html#TaleHeader">(938) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">937</p>
+<p class="TaleDestiny">(937) - QUICK THINKING, GOLDEN BRIDLE  (M)</p>
+<p>The beast is large and strong&mdash;never have you seen such a creature. Your heart contracts with greed.</p>
+<p><span class="TaleSkill">NO SKILL</span>: As you have just about grasped the beast&rsquo;s rope, a voice comes from behind you. &ldquo;Ah, you&rsquo;ve found my wildebeast!&rdquo; A strange foreign man thanks you, takes the beast, and gives you a few coins in gratitude. [D+1 / W+1 (Max: Poor)]</p>
+<p><span class="TaleSkill">QUICK THINKING, GOLDEN BRIDLE  (mandatory):</span> You quickly wrap ropes around the creature&rsquo;s legs and hobble it. As you are leading it away, a huge infidel sees you and cries, &ldquo;So! Stealing my wildebeast, eh?&rdquo; and gives you a thorough thrashing. Now you are the lamed one! [D+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

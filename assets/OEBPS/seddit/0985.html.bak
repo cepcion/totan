@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0984.html#TaleHeader">(984) - None</a><br/>
+<br/>
+<a href="0986.html#TaleHeader">(986) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">985</p>
+<p class="TaleDestiny">(985) - PIETY</p>
+<p>You spy a blind man making prophecies to the followers. He has a begging bowl before him.</p>
+<p class="TaleChoicePrompt">You may choose to give him a coin or not:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you give him a coin</span>: [W-1 (Min: Beggar) / Go to paragraph <a href="1387">1387</a>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you do not</span>: The blind man points at you with trembling finger. &ldquo;Yours shall be the fate of the niggardly! You are doomed!&rdquo;</li>
+</ul>
+<p><span class="TaleSkill">NO SKILL</span>: You depart, troubled by his words. It comes to pass a it was prophesied. [D+1 / S+1 / <span class="TaleStatus">Fated</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: You meekly bow your head. &ldquo;If Allah so wills it, so shall it be.&rdquo; The blind man is abashed by your piety, and together you say many prayers. [D+1 / S+1 / Piety]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

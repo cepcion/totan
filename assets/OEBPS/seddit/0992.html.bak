@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0991.html#TaleHeader">(991) - STORYTELLING</a><br/>
+<br/>
+<a href="0993.html#TaleHeader">(993) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">992</p>
+<p class="TaleDestiny">(992) - BEGUILING</p>
+<p>A greasy-looking brute asks you to help fleece a wealthy old man. You agree for a share of the profits.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Your attempt a scheme to make the old man believe in magic lamps. The scheme fails miserably, and he calls for the Sultan&rsquo;s guards. Quickly are you thrown into chains. [D+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">BEGUILING</span>: Posing as a genie, you easily separate the old man from a tidy sum. As you remove your makeup, you see your partner disappear in the crowd, with your share of the take. All that work for naught! [D+1 / S+1 / <span class="TaleStatus">Envious</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

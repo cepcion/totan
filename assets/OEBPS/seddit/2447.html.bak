@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2446.html#TaleHeader">(2446) - None</a><br/>
+<br/>
+<a href="2448.html#TaleHeader">(2448) - ENDURING HARDSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2447</p>
+<p class="TaleDestiny">(2447) - None</p>
+<p>The sight of such a vain and self-absorbed man on such a noble steed drives you to violence. You decide to take it from him by force.</p>
+<p class="TaleRoll2D">Roll two dice:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: He may be a gilded popinjay, but you cannot deny his skills. The rider proves too much for you, and you are forced to flee. [D-1 / Weapon Use]</li>
+<li class="TaleDieRollResult">8&ndash;12: With a daring stroke, you wound the self-important louse and claim the horse for your own. If only you had known that he was the son of an emir&hellip; [S+1 / W+1 (Max: Respectable) / <span class="TaleStatus">Outlaw</span>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

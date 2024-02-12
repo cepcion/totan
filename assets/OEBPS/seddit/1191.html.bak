@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1190.html#TaleHeader">(1190) - WISDOM</a><br/>
+<br/>
+<a href="1192.html#TaleHeader">(1192) - QUICK THINKING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1191</p>
+<p class="TaleDestiny">(1191) - SCHOLARSHIP</p>
+<p>You follow a wounded elephant, hoping to discover the Elephant&rsquo;s Graveyard. You come upon another one, apparently mortally wounded, blocking your path.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You try to slip past, but the elephant is a guardian. It rises and charges nimbly. Later, a band of merchants find you in the forest, far from the Graveyard, walking in a daze. [D+1 / S+1 / <span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You know the legends of a deadly guardian before the Graveyard; you prudently cease your search, and return to safer lands.
+[D+1 / Wisdom]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

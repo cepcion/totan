@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1831.html#TaleHeader">(1831) - ENDURING HARDSHIP</a><br/>
+<br/>
+<a href="1833.html#TaleHeader">(1833) - SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1832</p>
+<p class="TaleDestiny">(1832) - APPEARANCE</p>
+<p>Half-dead from thirst, you approach the spring with caution. The foul water in the last oasis led to the death of two of your companions. You fear the worst. Carefully examining the water, you see no sign that it will cause you harm. Finally, you dare to drink. To your shock and dismay, you discover that it is the sex-changing spring of legend!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You remember a tale of someone who had suffered a similar fate. It was said that prayer at a particular shrine in a far distant land  would remove the terrifying curse. You decide to try it for yourself. [D+1 / S+1 / <span class="TaleStatus">Sex-Changed</span> / Have another player move you to any city space]</p>
+<p><span class="TaleSkill">APPEARANCE</span>: As you kneel by the pool, tears streaming from your eyes, you feel a gentle hand upon your brow. A magnificent girl, made entirely of water, stands before you. It is the spirit of the spring! Though mute, she communicates to you her regret for having inflicted such a fate upon you. She agrees to free you if you will spend a week in her company. After the week passes, you are returned to your natural form, but your heart is heavy as you turn to leave. [D+1 / Lose <span class="TaleStatus">Sex-Changed</span> / <span class="TaleStatus">Love Struck</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

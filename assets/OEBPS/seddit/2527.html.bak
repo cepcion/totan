@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2526.html#TaleHeader">(2526) - SEDUCTION</a><br/>
+<br/>
+<a href="2528.html#TaleHeader">(2528) - WEAPON USE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2527</p>
+<p class="TaleDestiny">(2527) - BEGUILING</p>
+<p>Crossing the burning sands, you find that your water skin has sprung a leak. Your survival is at stake. Fortunately, you come across an old shack, barely standing. The other dwells within, exiled by sorrow from his homeland many leagues away. The other will give you water, but claims to have no need for money; instead, he asks that you deliver a letter to his estranged brother.</p>
+<p><span class="TaleSkill">NO SKILL</span>: When you arrive at the brother&rsquo;s home, he accepts the letter but reads it reluctantly. The other has been gone for many years, and this newly delivered expression of regret is insufficient to make up for the years of neglect. The sibling will die alone and unloved. [S+1]</p>
+<p><span class="TaleSkill">BEGUILING</span>: The brother rejects the letter, unmoved by the regrets expressed in it. You plead on the other&rsquo;s behalf, describing the wretched existence and the sincere love the other holds in his heart. The brother rethinks his harsh feelings and sets out to reunite with his sibling. [D+1 / S+1 / <span class="TaleStatus">Blessed</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

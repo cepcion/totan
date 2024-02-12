@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="2454.html#TaleHeader">(2454) - QUICK THINKING</a><br/>
+<br/>
+<a href="2456.html#TaleHeader">(2456) - SCHOLARSHIP, STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">2455</p>
+<p class="TaleDestiny">(2455) - None</p>
+<p>Hunger gnaws at your belly, and you can see that the animals here suffer the same as you. Out of arrows, you are forced to follow a gangly antelope, hoping that it will collapse before you do.</p>
+<p class="TaleRoll2D">Roll one die, adding two each for <span class="TaleRoll2DSkill">Enduring Hardship</span> and <span class="TaleRoll2DSkill">Determined</span>:</p>
+<ul>
+<li class="TaleDieRollResult">1&ndash;3: Your hunger overcomes you. You collapse into the dust. Sometime later, you wake, with no recollection of where you are or how you came to be there. [S+1 / Have another player move you to any land  space]</li>
+<li class="TaleDieRollResult">4+: Your endurance proves greater than your prey. Though the meat is tough, it is enough to keep you going until you reach the next town. [D+1 / Wilderness Lore]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0644.html#TaleHeader">(644) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="0646.html#TaleHeader">(646) - None</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">645</p>
+<p class="TaleDestiny">(645) - None</p>
+<p>As daylight slowly fades, a hush falls over the river. From your safe vantage point, you can see a soft golden glow in the distance. As night advances, the glow fades.</p>
+<p class="TaleChoicePrompt">You may stop for the night, or follow the river:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you stop for the night</span>: When you awaken, the glow is gone, nor is there any sign of it to be found. [S+1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you follow the river</span>: [S+1 / Go to paragraph <a href="0614.html#TaleHeader">614</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

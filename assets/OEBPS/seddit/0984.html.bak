@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0983.html#TaleHeader">(983) - STEALTH AND STEALING</a><br/>
+<br/>
+<a href="0985.html#TaleHeader">(985) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">984</p>
+<p class="TaleDestiny">(984) - None</p>
+<p>You approach a group of three blind faqirs, wise men who live through begging, who seek lodging. If you will help them, they will tell the amazing tales of how they were blinded.</p>
+<p class="TaleChoicePrompt">You can help them or go on your way:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you go on your way</span>: You are uninterested in their tales. [D-1]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you help them</span>: You lead the mendicants to a place you know of nearby. [Go to paragraph <a href="1386.html#TaleHeader">1386</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

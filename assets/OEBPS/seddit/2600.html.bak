@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+<a name="TaleHeader"></a><p class="TaleHeader">2600</p>
+<p class="TaleDestiny">(2600) - DETERMINED  (M),  ENDURING HARDSHIP, PIETY, ENSLAVED  (M), SULTAN  (M), STORYTELLING</p>
+<p>Praise unto Allah, Who alone is without error, for allowing His worthless servants to complete this manuscript!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You throw yourself down a well. It&rsquo;s a long way down. [D-1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><p><span class="TaleSkill">DETERMINED  (mandatory),  ENDURING HARDSHIP</span>: You decide that the original well isn&rsquo;t big enough, so you dig and dig until it has doubled its original size. Only then do you hurl yourself down into it. [D+1 / S+1 / <span class="TaleStatus">Fated</span>]</p>
+<p><span class="TaleSkill">PIETY</span>: It is said that the carpet-weavers of Persia deliberately introduce a flaw into every carpet, for only the Most High can make a thing that is perfect. Truly, in this regard if in no other, Allah is most pleased with this Book of Tales&mdash;but He throws you down a well for good measure.
+[D+1 / S+1 / Humility]</p>
+<p><span class="TaleSkill">ENSLAVED  (mandatory):</span> You are thrown down a well. The water in the well is brown, not blue. [D-1 / S-1 / <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><span class="TaleSkill">SULTAN  (mandatory):</span> Eric has Anthony, Kevin, and Zev hurled down a well. It is clear that cannibalism cannot be long in coming. [D+2 / S+2 / <span class="TaleStatus">Insane</span>]</p>
+<p><span class="TaleSkill">STORYTELLING</span>: You understand that repetition is the key to humor. However, The Reader has heard this one before&hellip; and throws you down a well. [D+1 / S-1 / <span class="TaleStatus">Scorned</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

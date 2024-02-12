@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1848.html#TaleHeader">(1848) - PIETY</a><br/>
+<br/>
+<a href="1850.html#TaleHeader">(1850) - MAGIC</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1849</p>
+<p class="TaleDestiny">(1849) - SCHOLARSHIP, COURTLY GRACES</p>
+<p>The Sultan&rsquo;s jeweled crown has been stolen! The Vizier advises the Sultan that it must have been done by someone with great skill, for the crown was secured in a locked and guarded vault. He recommends that all foreigners of renown be imprisoned and tried, torturing them if necessary. The Sultan agrees.</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you have no more than S4 or D4</span>: You kneel before the Vizier, begging for your life. Luckily, you are considered too insignificant to be imprisoned. You are simply banished from the city. [S+1 / <span class="TaleStatus">Outlaw</span>]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you have S5+ or D5+</span>: The Sultan&rsquo;s soldiers, along with the Vizier, seek you out and seize you. Your pleading does not help at all and you will be tried as a thief. While in prison, a robed figure visits. &ldquo;I am here to aid you,&rdquo; she whispers. &ldquo;I have evidence that the Vizier is behind the theft. It is not my place to challenge him, for I am his betrothed. You must act in my place at your trial. Listen closely.&rdquo; She details the damning knowledge, and names several who will corroborate the Vizier&rsquo;s guilt.</li>
+<ul class="SubTaleSkill">
+<li class="MidSubTaleSkill"><span class="TaleSkill">NO SKILL</span>: You presentation at trial is poorly delivered, and even more poorly received. By accusing the Vizier, you place yourself in far worse position. [D+1 / <span class="TaleStatus">Imprisoned</span>]</li>
+<li><span class="TaleSkill">SCHOLARSHIP, COURTLY GRACES</span>: Through erudite reasoning and cultured staging, you present a defense both well-executed and convincing. The evidence against the Vizier is truly damning, and the Sultan&rsquo;s anger toward the disloyal servant is severe. He rescinds the promise of his daughter to the Vizier and orders him executed. The daughter&mdash;none other than your prison visitor!&mdash;steps forward and confesses herself the source of your information. The Sultan sees the bond between the two of you and recommends that you stay with her. You are not so foolish as to refuse. [D+1 / S+1 / <span class="TaleStatus">Married</span> (or Robe of Honor if already Married or female) / <span class="TaleStatus">Vizier</span>]</li>
+</ul>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

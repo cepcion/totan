@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1857.html#TaleHeader">(1857) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1859.html#TaleHeader">(1859) - LUCK</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1858</p>
+<p class="TaleDestiny">(1858) - BARGAINING AND EVALUATION, SEAMANSHIP</p>
+<p>The disgusting creature dared to touch your fine robes! Certainly a good beating will teach him his place!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You land blow after blow on the sniveling form, but somehow it reaches out to touch your bare skin. You feel&hellip; different. [S+1 / <span class="TaleStatus">Accursed</span>]</p>
+<p><span class="TaleSkill">BARGAINING AND EVALUATION</span>: As you are about to deliver a fine beating, you realize that the rags worn by the other were once fine silks! Your heart turns to mercy and, after long conversations you learn of the miserable other&rsquo;s unfortunate fate. [D+1 / S+1 / Wisdom]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: As you begin to vent your anger on the other, you recognize him as a wanted pirate! Seizing him by the neck, you deliver him to the magistrate for the reward. [D+1 / S+1 / W+1 (Max: Respectable)</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

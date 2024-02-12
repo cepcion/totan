@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1040.html#TaleHeader">(1040) - QUICK THINKING</a><br/>
+<br/>
+<a href="1042.html#TaleHeader">(1042) - BARGAINING AND EVALUATION, SCHOLARSHIP</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1041</p>
+<p class="TaleDestiny">(1041) - BEGUILING  (M), APPEARANCE, COURTLY GRACES</p>
+<p>Your ship is surrounded by mermen. You rush for the lifeboat, but your way is blocked by an evil-looking merman. You try to talk your way past him.</p>
+<p><span class="TaleSkill">NO SKILL, BEGUILING  (mandatory):</span> You spin a tale about your poor spouse and children. &ldquo;Lies!&rdquo; he cries, and takes a chop at you. Though wounded, you dive over the rail. [D+1 / <span class="TaleStatus">Wounded</span> / Go to paragraph <a href="0315.html#TaleHeader">315</a>]</p>
+<p><span class="TaleSkill">APPEARANCE, COURTLY GRACES</span>: You make polite apologies for the injustices your people have done to his people. Moved by your kind spirit and intelligence, he turns his back, permitting you to dive over the rail.[D+1 / S+1 / Quick Thinking / Go to paragraph <a href="0315.html#TaleHeader">315</a>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

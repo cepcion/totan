@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0555.html#TaleHeader">(555) - None</a><br/>
+<br/>
+<a href="0557.html#TaleHeader">(557) - PIETY</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">556</p>
+<p class="TaleDestiny">(556) - ACTING AND DISGUISE</p>
+<p>The fugitive begs you for sanctuary. He convinces you of his innocence, and you try to hide him from pursuing soldiers.</p>
+<p><span class="TaleSkill">NO SKILL</span>: Unfortunately he is discovered, and you are jailed for harboring a criminal. [D+1 / <span class="TaleStatus">Imprisoned</span>]</p>
+<p><span class="TaleSkill">ACTING AND DISGUISE</span>: You disguise the other as a wretched hag and tell the soldiers she is your diseased mother. They quickly move on. The other promises someday to repay the kindness. Soon, the other returns in his true identity as an honored Vizier and bestows upon you great gifts and honors. [D+2 / S+2 / <span class="TaleStatus">Robe of Honor</span> / Treasure]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

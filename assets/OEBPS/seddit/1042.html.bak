@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1041.html#TaleHeader">(1041) - BEGUILING, APPEARANCE, COURTLY GRACES</a><br/>
+<br/>
+<a href="1043.html#TaleHeader">(1043) - STEALTH AND STEALING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1042</p>
+<p class="TaleDestiny">(1042) - BARGAINING AND EVALUATION  (M), SCHOLARSHIP</p>
+<p>A band of merman has surrounded your ship and demanded a tribute for their king.</p>
+<p><span class="TaleSkill">NO SKILL, BARGAINING AND EVALUATION  (mandatory):</span> You haggle with the mermen, but you quickly exhaust their patience; they sink the ship. [Go to paragraph <a href="0315.html#TaleHeader">315</a>]</p>
+<p><span class="TaleSkill">SCHOLARSHIP</span>: You express interest in their king, customs, and history, hinting that the poor reputation they have comes from poor information. They are flattered and invite you to visit (with a proper gift for the king, of course).</p>
+<p class="TaleChoicePrompt">You may give them a gift or decline:</p>
+<ul>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you give them a gift</span>: When you declare the gift you will give their king, they take you to their home. [Choice of W-1 (Min: Beggar) or Lose one Treasure / Move to the <a href="0181.html#TaleHeader">Undersea Kingdom</a> and have an immediate encounter]</li>
+<li class="TaleChoice"><span class="TaleChoiceOption">If you do not give them a gift</span>: When you decline to give them a gift, they sink you. [Go to paragraph <a href="0315.html#TaleHeader">315</a>]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

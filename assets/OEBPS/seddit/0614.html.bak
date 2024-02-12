@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0613.html#TaleHeader">(613) - SCHOLARSHIP</a><br/>
+<br/>
+<a href="0615.html#TaleHeader">(615) - ACTING AND DISGUISE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">614</p>
+<p class="TaleDestiny">(614) - MAGIC</p>
+<p>Though you know not where you are bound, you journey on. A strange mist rises around you, and it grows thicker and hotter as you go deeper into it. Suddenly, a fearsome shape looms above you!</p>
+<p><span class="TaleSkill">NO SKILL</span>: You scream in fear, and mercifully your mind goes black. When you awaken, strange voices fill your mind, and you know not where you are. [D+2 / <span class="TaleStatus">Insane</span> / <span class="TaleStatus">Lost</span>]</p>
+<p><span class="TaleSkill">MAGIC</span>: You speak a secret word, and before its power the shape vanishes like an extinguished candle. You journey on into a mystical land. [D+2 / S+1 / Lose <span class="TaleStatus">Lost</span> / Move to the <a href="0182.html#TaleHeader">Dusky Land</a> and have an immediate encounter]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1730.html#TaleHeader">(1730) - WILDERNESS LORE</a><br/>
+<br/>
+<a href="1732.html#TaleHeader">(1732) - COURTLY GRACES</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1731</p>
+<p class="TaleDestiny">(1731) - APPEARANCE, WEAPON USE  (M)</p>
+<p>As soon as the battle begins, you realize that it was a mistake to try to train villagers to defend themselves against the ferocious apes.</p>
+<p><span class="TaleSkill">NO SKILL</span>: The next morning you crawl off the battlefield, your head ringing from the nasty blow you suffered in the fight. [D-1 / S+1 / <span class="TaleStatus">Wounded</span>]</p>
+<p><span class="TaleSkill">APPEARANCE</span>: You face off against the largest, most ill-tempered looking brute of the bunch, your weapon bared. So menacing is your confident stand, he backs down and retreats, afraid to face you. The rest of his band quickly follows as he flees into the forest. [D+1 / <span class="TaleStatus">Determined</span>]</p>
+<p><span class="TaleSkill">WEAPON USE  (mandatory):</span> As the villagers begin to retreat, you step to the front and shout a challenge to the Chieftain of the apes. Though you wound the beast terribly, he proves too strong, and you are knocked unconscious. When you awake, you learn that the villagers were inspired by your bravery and turned the tide of battle. [D+2 / S+1 / W+1
+(Max: Respectable) / <span class="TaleStatus">Wounded</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

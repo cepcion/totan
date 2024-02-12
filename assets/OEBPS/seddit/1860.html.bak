@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="1859.html#TaleHeader">(1859) - LUCK</a><br/>
+<br/>
+<a href="1861.html#TaleHeader">(1861) - WILDERNESS LORE</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">1860</p>
+<p class="TaleDestiny">(1860) - SEDUCTION  (M), SEAMANSHIP</p>
+<p>The other appears far too dangerous to risk a simple mugging, but you think you might be quick enough to grab his purse without his noticing.</p>
+<p><span class="TaleSkill">NO SKILL</span>: You wait until the other is distracted by a passing maiden. Quick as a viper, your hand snaps out and you take hold of the purse. The other never knew you&rsquo;d been there! [D+1 / W+1 (Max: Poor / Stealth and Stealing]</p>
+<p><span class="TaleSkill">SEDUCTION  (mandatory):</span> As you reach for the other&rsquo;s purse, his hand whips out to grab your wrist. Seeing murder in his eyes, you offer whatever he asks for your release. He is swayed by your offers, but afterwards you feel somehow unclean. [D-1 / <span class="TaleStatus">Diseased</span>]</p>
+<p><span class="TaleSkill">SEAMANSHIP</span>: You had planned to steal his purse, but you realize that he is sitting across the horn of a narwhal! The Sea-Unicorn&rsquo;s horn is extremely valuable as a cure for many ailments. When the other is distracted by a passing maiden, you secret the horn away. [D+1 / S+1 / Your choice: Either W+1 (Max: Princely) OR lose all <span class="TaleStatus">Accursed</span>, <span class="TaleStatus">Beast Form</span>, <span class="TaleStatus">Diseased</span>, <span class="TaleStatus">Ensorcelled</span>, <span class="TaleStatus">Insane</span>, or <span class="TaleStatus">Sex-Changed</span> statuses]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

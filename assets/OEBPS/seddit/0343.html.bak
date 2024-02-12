@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0342.html#TaleHeader">(342) - WEAPON USE</a><br/>
+<br/>
+<a href="0344.html#TaleHeader">(344) - STORYTELLING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">343</p>
+<p class="TaleDestiny">(343) - APPEARANCE, PURSUED  (M)</p>
+<p>You attempt to profit at the other&rsquo;s expense, and he grows unreasonably angry. &ldquo;Nothing can save you, you wretch. My servant shall bear you into the desert and slay you there. He shall bring me a jar of your blood as proof of the deed.&rdquo;</p>
+<p><span class="TaleSkill">NO SKILL</span>: The servant bears you into the desert and gashes your throat, filling the jar. He leaves you for dead, but you are found by a passing dervish and saved. [D+2 / S+1 / Enduring Hardship / <span class="TaleStatus">Crippled</span>]</p>
+<p><span class="TaleSkill">APPEARANCE</span>: The servant is taken by your beauty, for you remind him of his long-dead favorite cousin. He cannot harm you, but instead slays an antelope and brings its blood to his master. [D+2 / S+1]</p>
+<p><span class="TaleSkill">PURSUED  (mandatory):</span> The servant executes his task reluctantly, cutting deeply across your throat, and filling the jar with your blood. When he departs, you drift in and out of consciousness until the one who has for so long pursued you finds you with your life nearly gone.</p>
+<p class="TaleRoll2D">Roll two dice, adding one each for <span class="TaleRoll2DSkill">Appearance</span> and <span class="TaleRoll2DSkill">Respected</span>:</p>
+<ul>
+<li class="TaleDieRollResult">2&ndash;7: Your enemy complains bitterly to thin air of this attempt by fate to thwart revenge. Then, shrugging philosophically, your enemy remarks, &ldquo;Strange indeed are the ways of Allah. Goodbye, my wretched foe.&rdquo; Your end is mercifully brief, though painful. [Death]</li>
+<li class="TaleDieRollResult">8+: Your foe prepares to end your misery, then reconsiders. &ldquo;To slay you now would be a mercy, and you are not deserving of such. I cannot have my revenge until you are well.&rdquo; To your surprise, your enemy stays with you until you have recovered somewhat from your wounds, cursing you the while. When he feels you are able to travel, he takes you to the nearest civilized area, leaving you with the warning that you will see your foe again when you are once more a fit recipient of revenge. After pronouncing this doom over you, your enemy rides off. [D+2 / S+2 / Enduring Hardship / <span class="TaleStatus">Accursed</span> / Have another player move you up to four spaces]</li>
+</ul>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>

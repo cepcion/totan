@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" xml:lang="en-US" lang="en-US">
+<head>
+<title></title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="css/epub.css"/>
+</head>
+<body>
+
+<p class="TaleDestiny"><a href="0657.html#TaleHeader">(657) - QUICK THINKING</a><br/>
+<br/>
+<a href="0659.html#TaleHeader">(659) - BEGUILING</a></p>
+<a name="TaleHeader"></a><p class="TaleHeader">658</p>
+<p class="TaleDestiny">(658) - WILDERNESS LORE</p>
+<p>Your voice echoes eerily across the waters.</p>
+<p><span class="TaleSkill">NO SKILL</span>: As the echoes die, you reflect on the voices which called out here in ages past, and think upon the many souls gone to Spoiler of Worldly Mansions. [S+1 / <span class="TaleStatus">Grief Stricken</span> (1 turn)]</p>
+<p><span class="TaleSkill">WILDERNESS LORE</span>: The beauty of the natural setting soothes your troubled soul, and you give praise to the Most High for His creation.
+[D+1 / S+1 / Lose <span class="TaleStatus">Insane</span> / Lose <span class="TaleStatus">Envious</span> / Lose <span class="TaleStatus">Grief Stricken</span>]</p>
+<p><a href="EncounterTables.html">Back to Encounter Tables</a></p>
+</body>
+</html>
