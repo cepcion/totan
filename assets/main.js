@@ -5387,7 +5387,7 @@ const Gi = {
         }
         this.storyNumber = e;
         var frame = document.getElementById("portal");
-        frame.src = './totan/assets/OEBPS/seddit/' + this.storyNumber.padStart(4, '0') + '.html';
+        frame.src = './assets/OEBPS/seddit/' + this.storyNumber.padStart(4, '0') + '.html';
       },
     },
   },
@@ -5445,11 +5445,6 @@ Gi.render = function (e, a, t, i, r, n) {
               "button",
               {
                 type: "button",
-                onclick: () => 
-                  {
-                    console.log(r.storyNumber);
-                    document.getElementById("portal").src = './assets/OEBPS/seddit/' + r.storyNumber.padStart(4, '0') + '.html';
-                  },
                 class:
                   "inline-flex justify-center w-full rounded-md border border-transparent shadow-sm px-4 py-2 bg-yellow-600 text-base font-medium text-white hover:bg-yellow-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-yellow-500 sm:text-sm",
               },
