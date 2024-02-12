@@ -42,7 +42,7 @@ const mainApp = {
   },
   j = { class: "mx-2 flex justify-center" },
   J = { class: "w-full max-w-4xl" },
-  K = p(" Home ");
+  K = p("  ");
   mainApp.render = function (e, a, t, i, r, n) {
   const s = u("router-link"),
     o = u("router-view");
