@@ -6485,7 +6485,8 @@ const totan = {
 };
 
 const Uc = [
-    { path: "/", name: "talesOfArabianNights", component: totan }
+    { path: "/", name: "talesOfArabianNights", component: totan },
+    { path: "/totan", name: "totan", component: totan }    
   ],
   Nc = G({ history: U(), routes: Uc });
 N(mainApp).use(Nc).mount("#app");
