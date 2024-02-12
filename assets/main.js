@@ -5385,7 +5385,7 @@ const Gi = {
         }
         this.storyNumber = e;
         var frame = document.getElementById("portal");
-        frame.src = '/totan/assets/OEBPS/seddit/' + this.storyNumber.padStart(4, '0') + '.html';
+        frame.src = './totan/assets/OEBPS/seddit/' + this.storyNumber.padStart(4, '0') + '.html';
       },
     },
   },
