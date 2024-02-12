@@ -31,13 +31,11 @@ import {
   I as N,
 } from "./vendor.js";
 const mainApp = {
-    data: () => ({ isIndex: !1 }),
+    data: () => ({ isIndex: 0 }),
     mounted: () => {
-      //this.$router.push("/")
     },
     watch: {
       $route(e) {
-        console.log(e);
         this.isIndex = "/" === e.path;
       },
     },

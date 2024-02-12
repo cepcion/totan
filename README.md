@@ -2,4 +2,4 @@
 
 Board game helper
 
-it works? if it gets published
+Automates the Book of Destiny. Please refer to the book for further directions.
