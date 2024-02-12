@@ -6108,7 +6108,7 @@ hr.render = function (e, a, t, i, r, n) {
         },
         " Search "
       ),
-      m("iframe", {width:300, height:600, id: "portal"}, ""),
+      m("iframe", {width:"100%", height:600, id: "portal"}, ""),
 
     ])
   );
